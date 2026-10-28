@@ -54,8 +54,4 @@ python src/02_clean_and_analyze.py
 ## Limitations
 Data is synthetic; CAC values are assumptions; the 2-year history limits seasonality estimation; the forecast is directional.
 
-## Resume bullets (edit to match your role)
-- Built an end-to-end e-commerce analytics project in Python and SQL covering 10.5K orders and 4K customers, with cleaning, KPI reporting, segmentation, cohort retention and forecasting.
-- Segmented customers with RFM analysis, finding that 21% of customers (Champions) drive 40% of revenue and flagging 794 high-value at-risk customers for win-back campaigns.
-- Evaluated channel ROI with LTV:CAC, showing Paid Search (2.1x) falls below the 3x benchmark while Organic and Email return 7–8x, supporting a budget reallocation.
-- Quantified that 20% discounts cut gross margin from 37% to 21%, and built a seasonality-aware revenue forecast validated with rolling backtesting.
+
