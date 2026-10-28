@@ -1,0 +1,7 @@
+segment,customers,revenue,cust_pct,rev_pct
+Champions,794,609654.6,20.6,40.4
+At Risk (high value),794,353173.2,20.6,23.4
+Loyal,724,309969.1,18.8,20.5
+Hibernating,748,115324.3,19.4,7.6
+New / Promising,468,69639.1,12.1,4.6
+Needs Attention,326,51921.0,8.5,3.4

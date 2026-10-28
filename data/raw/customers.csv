@@ -1,0 +1,4001 @@
+customer_id,signup_date,region,channel,age
+1,2023-09-15,East,Paid Search,22.0
+2,2024-03-17,North,Paid Search,30.0
+3,2024-11-11,East,Organic,51.0
+4,2023-06-26,North,Organic,33.0
+5,2023-11-30,East,Organic,36.0
+6,2024-01-16,North,Organic,44.0
+7,2024-04-04,NORTH,Social,22.0
+8,2023-07-12,East,Organic,26.0
+9,2024-02-21,South,Email,31.0
+10,2024-05-01,South,Email,45.0
+11,2024-01-31,South,Organic,44.0
+12,2024-10-10,West,Organic,41.0
+13,2023-06-05,South,Paid Search,33.0
+14,2024-01-31,East,Email,
+15,2024-07-17,West,Paid Search,33.0
+16,2024-12-18,East,Organic,
+17,2023-06-27,South,Referral,43.0
+18,2024-04-06,East,Paid Search,50.0
+19,2023-10-19,North,Paid Search,34.0
+20,2023-08-07,East,Email,31.0
+21,2024-01-16,South,Referral,46.0
+22,2024-05-06,West,Paid Search,47.0
+23,2024-01-05,West,Paid Search,30.0
+24,2023-05-24,North,Paid Search,24.0
+25,2023-09-08,North,Organic,45.0
+26,2024-08-04,South,Paid Search,20.0
+27,2024-11-07,East,Organic,19.0
+28,2024-03-04,South,Social,32.0
+29,2024-07-04,East,Email,34.0
+30,2024-08-19,South,Referral,
+31,2024-05-01,West,Email,35.0
+32,2023-02-09,South,Organic,36.0
+33,2023-10-26,North,Organic,29.0
+34,2024-08-06,South,Paid Search,52.0
+35,2024-03-02,East,Organic,37.0
+36,2024-07-24,North,Organic,44.0
+37,2024-07-22,North,Email,20.0
+38,2023-02-25,South,Paid Search,20.0
+39,2024-01-04,WEST,Organic,38.0
+40,2024-04-21,West,Paid Search,50.0
+41,2024-02-08,South,Referral,24.0
+42,2023-08-31,North,Social,35.0
+43,2024-02-19,South,Organic,22.0
+44,2024-03-22,South,Paid Search,27.0
+45,2023-02-28,West,Referral,35.0
+46,2024-10-02,South,Organic,29.0
+47,2024-04-18,East,Social,22.0
+48,2024-06-14,West,Social,22.0
+49,2023-06-19,East,Social,18.0
+50,2023-07-01,North,Organic,
+51,2023-05-09,East,Referral,39.0
+52,2024-10-25,South,Paid Search,39.0
+53,2024-05-25,South,Organic,25.0
+54,2023-07-25,West,Organic,43.0
+55,2023-08-23,North,Paid Search,40.0
+56,2024-01-06,South,Organic,34.0
+57,2024-07-04,North,Email,32.0
+58,2023-08-02,North,Email,28.0
+59,2024-01-20,East,Organic,35.0
+60,2024-01-06,West,Email,48.0
+61,2024-04-13,East,Referral,44.0
+62,2024-01-19,South,Organic,31.0
+63,2024-09-23,North,Social,38.0
+64,2023-04-24,South,Referral,24.0
+65,2024-09-30,South,Email,40.0
+66,2024-07-09,West,Paid Search,26.0
+67,2024-10-18,East,Email,40.0
+68,2024-06-08,West,Social,60.0
+69,2024-02-04,West,Organic,28.0
+70,2023-07-24,SOUTH,Organic,60.0
+71,2024-08-05,East,Paid Search,38.0
+72,2023-10-16,West,Paid Search,27.0
+73,2024-03-17,west ,Paid Search,26.0
+74,2023-06-12,South,Organic,55.0
+75,2024-08-27,East,Email,38.0
+76,2024-07-28,South,Social,28.0
+77,2023-12-06,East,Paid Search,32.0
+78,2024-11-09,West,Organic,37.0
+79,2023-10-23,West,Organic,33.0
+80,2023-12-30,North,Organic,37.0
+81,2024-10-27,North,Social,49.0
+82,2024-02-01,West,Organic,23.0
+83,2023-03-20,East,Referral,39.0
+84,2024-01-15,West,Organic,33.0
+85,2024-07-01,South,Organic,29.0
+86,2024-12-10,West,Email,43.0
+87,2024-03-28,East,Paid Search,20.0
+88,2024-10-21,North,Paid Search,18.0
+89,2024-07-13,North,Organic,36.0
+90,2024-05-15,East,Social,32.0
+91,2023-08-19,North,Paid Search,
+92,2024-08-02,West,Email,18.0
+93,2024-11-29,East,Social,51.0
+94,2024-08-03,South,Email,38.0
+95,2024-02-15,North,Social,34.0
+96,2024-08-29,West,Email,53.0
+97,2023-12-26,East,Social,43.0
+98,2023-07-01,West,Paid Search,49.0
+99,2023-10-03,West,Social,23.0
+100,2024-03-09,East,Social,23.0
+101,2023-11-28,West,Organic,39.0
+102,2024-03-17,East,Social,37.0
+103,2024-07-30,East,Organic,45.0
+104,2024-01-23,North,Paid Search,19.0
+105,2024-03-31,South,Organic,40.0
+106,2024-09-23,East,Organic,42.0
+107,2024-08-09,South,Organic,42.0
+108,2024-03-16,East,Organic,30.0
+109,2024-10-23,West,Organic,38.0
+110,2024-10-12,South,Organic,27.0
+111,2024-06-13,North,Social,31.0
+112,2024-03-20,East,Paid Search,
+113,2024-08-31,North,Referral,27.0
+114,2023-03-08,West,Email,31.0
+115,2023-09-13,East,Organic,29.0
+116,2024-05-09,South,Paid Search,27.0
+117,2023-09-23,East,Paid Search,22.0
+118,2024-09-06,South,Paid Search,51.0
+119,2024-09-12,South,Paid Search,29.0
+120,2024-01-15,South,Social,36.0
+121,2024-05-10,South,Social,18.0
+122,2024-06-03,West,Paid Search,46.0
+123,2024-08-22,NORTH,Social,35.0
+124,2024-08-05,South,Organic,30.0
+125,2023-11-10,North,Email,30.0
+126,2024-04-12,South,Referral,41.0
+127,2024-10-19,North,Organic,18.0
+128,2023-08-20,West,Email,26.0
+129,2023-01-09,North,Email,32.0
+130,2023-11-21,East,Paid Search,32.0
+131,2023-09-17,North,Organic,56.0
+132,2024-04-15,South,Email,
+133,2023-11-02,North,Paid Search,42.0
+134,2024-11-28,East,Organic,50.0
+135,2024-07-31,West,Social,40.0
+136,2024-07-28,North,Paid Search,27.0
+137,2024-10-10,West,Organic,22.0
+138,2023-12-08,South,Referral,40.0
+139,2023-03-21,East,Organic,48.0
+140,2023-05-13,East,Paid Search,38.0
+141,2023-11-01,North,Social,45.0
+142,2024-04-25,South,Organic,57.0
+143,2024-06-09,North,Social,41.0
+144,2024-04-05,East,Social,24.0
+145,2023-09-18,South,Paid Search,34.0
+146,2023-03-11,West,Paid Search,46.0
+147,2024-05-23,North,Referral,31.0
+148,2024-07-02,West,Referral,47.0
+149,2023-06-11,North,Organic,33.0
+150,2024-08-18,East,Paid Search,37.0
+151,2023-12-05,South,Paid Search,30.0
+152,2024-05-11,North,Referral,35.0
+153,2024-07-06,North,Email,35.0
+154,2024-12-26,East,Paid Search,19.0
+155,2024-07-06,North,Email,30.0
+156,2024-01-24,East,Paid Search,22.0
+157,2023-07-16,West,Organic,30.0
+158,2023-12-04,South,Social,26.0
+159,2024-10-23,North,Paid Search,43.0
+160,2023-12-08,North,Social,43.0
+161,2023-07-17,North,Paid Search,39.0
+162,2024-08-05,South,Email,22.0
+163,2024-06-22,West,Referral,
+164,2024-06-03,South,Organic,21.0
+165,2024-03-13,North,Paid Search,32.0
+166,2024-04-11,East,Social,39.0
+167,2024-11-23,South,Organic,42.0
+168,2024-04-23,East,Email,38.0
+169,2024-12-23,West,Social,45.0
+170,2024-02-21,South,Organic,36.0
+171,2023-02-08,South,Email,31.0
+172,2024-11-10,West,Paid Search,41.0
+173,2024-03-09,East,Organic,42.0
+174,2024-06-24,west ,Organic,29.0
+175,2024-07-09,West,Email,37.0
+176,2024-03-15,EAST,Referral,
+177,2023-12-31,East,Paid Search,18.0
+178,2024-11-02,East,Organic,37.0
+179,2023-10-30,East,Organic,22.0
+180,2023-08-24,East,Social,36.0
+181,2024-03-20,South,Paid Search,20.0
+182,2023-07-31,West,Paid Search,27.0
+183,2023-03-16,North,Paid Search,30.0
+184,2023-08-31,North,Paid Search,44.0
+185,2024-07-14,South,Social,29.0
+186,2024-05-21,North,Paid Search,24.0
+187,2024-03-16,East,Organic,
+188,2023-10-22,North,Paid Search,32.0
+189,2024-04-18,East,Paid Search,41.0
+190,2024-09-11,South,Paid Search,24.0
+191,2023-10-24,North,Organic,35.0
+192,2024-01-10,North,Organic,56.0
+193,2024-12-12,East,Paid Search,31.0
+194,2024-03-19,East,Organic,35.0
+195,2023-02-28,South,Social,19.0
+196,2023-07-22,North,Paid Search,26.0
+197,2023-02-13,South,Organic,38.0
+198,2024-06-13,North,Social,31.0
+199,2023-11-02,north ,Paid Search,39.0
+200,2023-03-27,West,Organic,37.0
+201,2023-01-15,North,Email,22.0
+202,2023-03-27,North,Paid Search,43.0
+203,2023-03-06,west ,Referral,22.0
+204,2024-05-31,East,Organic,27.0
+205,2024-12-12,South,Email,
+206,2023-12-31,East,Email,48.0
+207,2023-11-15,West,Organic,24.0
+208,2023-07-29,North,Paid Search,35.0
+209,2024-09-06,North,Social,35.0
+210,2023-09-22,West,Paid Search,39.0
+211,2023-04-24,West,Paid Search,44.0
+212,2024-07-28,West,Referral,30.0
+213,2024-09-24,South,Social,43.0
+214,2023-08-31,West,Referral,45.0
+215,2024-09-24,South,Email,50.0
+216,2023-03-22,East,Email,38.0
+217,2023-05-25,West,Social,35.0
+218,2024-04-25,North,Social,29.0
+219,2024-05-20,North,Email,20.0
+220,2024-08-30,East,Social,31.0
+221,2024-08-14,West,Organic,35.0
+222,2023-02-06,North,Social,33.0
+223,2024-04-17,West,Organic,39.0
+224,2023-12-10,South,Referral,20.0
+225,2024-09-30,South,Social,32.0
+226,2024-04-20,South,Social,
+227,2024-09-24,West,Organic,42.0
+228,2023-10-06,North,Paid Search,39.0
+229,2024-07-25,East,Paid Search,37.0
+230,2023-11-14,North,Social,30.0
+231,2024-02-02,West,Social,18.0
+232,2023-07-22,West,Paid Search,38.0
+233,2024-12-09,North,Organic,18.0
+234,2024-10-01,South,Paid Search,31.0
+235,2023-06-18,South,Paid Search,33.0
+236,2024-07-04,South,Email,29.0
+237,2024-08-31,west ,Email,53.0
+238,2024-10-13,East,Email,50.0
+239,2023-11-20,South,Paid Search,43.0
+240,2024-02-26,East,Organic,25.0
+241,2023-02-07,SOUTH,Referral,51.0
+242,2024-04-12,North,Referral,39.0
+243,2023-03-13,North,Organic,25.0
+244,2023-12-16,South,Social,34.0
+245,2024-11-20,East,Paid Search,42.0
+246,2024-12-03,North,Organic,28.0
+247,2024-11-02,East,Referral,35.0
+248,2023-01-05,North,Referral,36.0
+249,2024-12-05,East,Referral,24.0
+250,2024-12-08,North,Organic,31.0
+251,2023-12-21,SOUTH,Paid Search,24.0
+252,2023-12-18,North,Email,41.0
+253,2024-05-01,South,Social,25.0
+254,2024-05-05,North,Paid Search,36.0
+255,2024-10-12,South,Paid Search,21.0
+256,2024-09-11,West,Organic,23.0
+257,2023-06-26,North,Social,23.0
+258,2024-10-21,East,Email,31.0
+259,2024-12-05,East,Organic,35.0
+260,2024-09-26,South,Organic,37.0
+261,2024-12-26,East,Paid Search,18.0
+262,2024-08-24,south ,Social,32.0
+263,2023-10-11,East,Paid Search,27.0
+264,2024-08-21,West,Organic,38.0
+265,2024-08-02,West,Social,31.0
+266,2024-12-11,North,Organic,33.0
+267,2024-11-01,East,Social,27.0
+268,2023-06-09,North,Social,49.0
+269,2024-08-23,South,Paid Search,22.0
+270,2024-04-09,North,Social,30.0
+271,2024-12-10,North,Social,34.0
+272,2023-05-24,East,Social,31.0
+273,2023-11-06,WEST,Social,27.0
+274,2023-12-02,North,Paid Search,18.0
+275,2023-02-21,East,Paid Search,27.0
+276,2023-07-29,East,Paid Search,25.0
+277,2023-08-17,West,Paid Search,49.0
+278,2024-03-24,East,Paid Search,54.0
+279,2024-01-19,North,Organic,33.0
+280,2024-12-18,North,Social,21.0
+281,2024-11-01,East,Organic,40.0
+282,2024-01-02,North,Referral,25.0
+283,2024-11-08,West,Social,29.0
+284,2024-02-19,West,Organic,28.0
+285,2024-08-24,West,Social,29.0
+286,2024-10-16,south ,Paid Search,30.0
+287,2023-02-18,East,Referral,22.0
+288,2024-11-18,East,Referral,27.0
+289,2023-03-01,North,Email,43.0
+290,2024-06-18,North,Social,
+291,2024-08-18,North,Referral,35.0
+292,2023-02-10,South,Social,18.0
+293,2024-08-10,West,Email,42.0
+294,2024-06-22,West,Organic,27.0
+295,2023-07-21,South,Referral,44.0
+296,2023-11-22,East,Social,35.0
+297,2023-12-21,North,Paid Search,28.0
+298,2024-08-01,North,Referral,18.0
+299,2023-11-27,North,Social,53.0
+300,2023-02-22,East,Referral,41.0
+301,2023-10-10,East,Organic,41.0
+302,2023-03-02,West,Social,50.0
+303,2024-08-24,West,Social,36.0
+304,2024-03-21,North,Organic,46.0
+305,2024-08-14,West,Email,29.0
+306,2023-01-24,North,Social,40.0
+307,2024-03-14,South,Organic,28.0
+308,2024-06-13,South,Social,29.0
+309,2024-12-01,North,Organic,34.0
+310,2023-11-09,North,Email,
+311,2024-08-11,North,Email,36.0
+312,2024-06-14,North,Paid Search,31.0
+313,2024-05-04,West,Paid Search,18.0
+314,2024-09-28,South,Paid Search,
+315,2024-04-02,South,Paid Search,30.0
+316,2023-02-18,West,Email,41.0
+317,2024-02-27,East,Paid Search,36.0
+318,2024-02-12,South,Paid Search,47.0
+319,2023-12-17,west ,Organic,38.0
+320,2024-12-16,North,Social,29.0
+321,2024-07-08,North,Email,33.0
+322,2024-10-26,East,Organic,30.0
+323,2023-06-18,South,Organic,38.0
+324,2023-06-26,WEST,Organic,34.0
+325,2023-10-31,North,Organic,28.0
+326,2023-09-10,east ,Paid Search,34.0
+327,2023-09-22,East,Email,38.0
+328,2024-08-23,West,Paid Search,24.0
+329,2024-05-29,north ,Organic,
+330,2024-09-11,North,Social,19.0
+331,2023-11-12,West,Email,43.0
+332,2024-06-25,East,Paid Search,38.0
+333,2024-05-14,North,Organic,48.0
+334,2023-11-16,North,Email,23.0
+335,2024-09-11,West,Organic,44.0
+336,2024-03-28,East,Email,42.0
+337,2023-08-06,East,Email,32.0
+338,2024-01-01,West,Email,30.0
+339,2024-05-06,North,Organic,24.0
+340,2023-01-09,North,Organic,21.0
+341,2024-05-11,East,Email,27.0
+342,2024-03-14,West,Paid Search,22.0
+343,2023-09-20,North,Paid Search,48.0
+344,2024-06-09,East,Social,20.0
+345,2024-07-05,North,Organic,35.0
+346,2023-04-20,North,Social,37.0
+347,2024-04-05,West,Referral,37.0
+348,2023-05-22,North,Social,38.0
+349,2024-11-28,North,Paid Search,42.0
+350,2024-02-22,west ,Referral,29.0
+351,2024-09-12,South,Social,34.0
+352,2023-10-25,South,Organic,31.0
+353,2023-07-26,West,Social,45.0
+354,2024-07-02,North,Organic,
+355,2023-09-12,East,Paid Search,23.0
+356,2024-08-16,South,Social,18.0
+357,2024-09-06,North,Organic,39.0
+358,2023-09-16,East,Organic,43.0
+359,2023-06-12,South,Social,51.0
+360,2024-08-13,West,Organic,40.0
+361,2024-03-16,West,Paid Search,46.0
+362,2024-05-24,West,Organic,48.0
+363,2024-11-19,South,Social,47.0
+364,2024-07-29,North,Email,41.0
+365,2023-03-29,West,Organic,22.0
+366,2023-10-26,South,Email,33.0
+367,2024-11-13,East,Organic,36.0
+368,2024-10-17,West,Paid Search,33.0
+369,2024-12-24,North,Paid Search,33.0
+370,2023-09-18,North,Organic,48.0
+371,2023-08-19,East,Organic,27.0
+372,2023-04-18,east ,Email,41.0
+373,2023-04-20,North,Email,36.0
+374,2024-05-19,East,Referral,26.0
+375,2024-02-10,West,Referral,24.0
+376,2023-08-08,South,Paid Search,18.0
+377,2023-01-17,North,Organic,38.0
+378,2024-10-07,east ,Organic,33.0
+379,2024-05-08,West,Paid Search,26.0
+380,2024-08-01,West,Email,18.0
+381,2024-04-09,North,Organic,37.0
+382,2024-10-27,West,Organic,32.0
+383,2023-04-28,West,Paid Search,27.0
+384,2023-03-25,East,Email,25.0
+385,2024-12-22,South,Paid Search,31.0
+386,2024-03-17,North,Social,38.0
+387,2024-03-18,South,Paid Search,31.0
+388,2023-03-22,South,Paid Search,23.0
+389,2024-08-26,South,Paid Search,33.0
+390,2024-12-07,West,Email,43.0
+391,2024-02-08,North,Email,34.0
+392,2024-05-17,West,Paid Search,34.0
+393,2023-12-30,South,Organic,31.0
+394,2024-06-08,West,Organic,25.0
+395,2023-08-15,South,Organic,
+396,2023-06-02,East,Organic,19.0
+397,2024-02-12,East,Organic,44.0
+398,2024-10-21,West,Social,38.0
+399,2024-10-16,North,Email,34.0
+400,2023-07-30,North,Social,36.0
+401,2023-01-02,West,Social,37.0
+402,2023-01-06,North,Referral,27.0
+403,2023-09-12,East,Referral,31.0
+404,2024-03-03,North,Organic,29.0
+405,2024-04-21,North,Organic,56.0
+406,2024-01-29,East,Organic,43.0
+407,2023-03-25,East,Email,35.0
+408,2023-11-21,EAST,Organic,46.0
+409,2024-06-26,South,Paid Search,45.0
+410,2024-06-05,West,Paid Search,21.0
+411,2024-11-18,West,Social,31.0
+412,2023-12-03,North,Social,33.0
+413,2023-09-24,South,Email,150.0
+414,2024-04-11,South,Social,31.0
+415,2023-08-06,West,Email,33.0
+416,2024-05-29,South,Organic,29.0
+417,2024-09-19,East,Email,43.0
+418,2024-03-11,South,Social,150.0
+419,2024-07-25,East,Organic,30.0
+420,2023-12-04,West,Referral,18.0
+421,2023-11-24,South,Referral,
+422,2024-06-05,South,Email,36.0
+423,2024-01-05,NORTH,Referral,37.0
+424,2023-01-10,South,Paid Search,31.0
+425,2024-07-25,North,Organic,44.0
+426,2023-09-14,West,Organic,46.0
+427,2023-06-11,South,Email,33.0
+428,2023-01-09,North,Email,36.0
+429,2023-03-01,North,Referral,
+430,2023-09-01,East,Email,39.0
+431,2024-07-21,West,Social,23.0
+432,2023-03-16,South,Organic,50.0
+433,2024-07-23,North,Organic,44.0
+434,2023-10-19,South,Paid Search,23.0
+435,2024-06-15,West,Email,26.0
+436,2024-12-02,West,Organic,37.0
+437,2024-09-26,North,Referral,30.0
+438,2024-03-16,east ,Social,38.0
+439,2023-09-29,West,Paid Search,30.0
+440,2024-10-28,WEST,Email,47.0
+441,2024-01-10,South,Social,34.0
+442,2024-12-05,East,Social,55.0
+443,2023-08-10,East,Paid Search,39.0
+444,2024-07-24,North,Paid Search,21.0
+445,2023-06-26,North,Organic,52.0
+446,2024-03-18,south ,Paid Search,43.0
+447,2024-10-31,North,Email,37.0
+448,2023-09-28,south ,Referral,39.0
+449,2023-05-29,West,Email,23.0
+450,2024-09-28,West,Organic,18.0
+451,2023-03-01,North,Referral,33.0
+452,2023-12-13,North,Organic,46.0
+453,2023-09-21,East,Organic,37.0
+454,2023-12-31,South,Social,49.0
+455,2024-06-23,North,Referral,45.0
+456,2023-11-12,West,Referral,34.0
+457,2024-04-27,North,Email,44.0
+458,2023-08-16,North,Organic,47.0
+459,2024-06-19,West,Organic,33.0
+460,2024-10-30,East,Organic,32.0
+461,2024-08-01,South,Social,35.0
+462,2024-06-20,East,Paid Search,18.0
+463,2023-09-17,West,Organic,36.0
+464,2024-07-07,North,Paid Search,40.0
+465,2023-12-07,EAST,Social,35.0
+466,2024-10-08,North,Social,37.0
+467,2024-11-08,South,Paid Search,33.0
+468,2023-12-04,South,Paid Search,18.0
+469,2023-11-16,South,Social,48.0
+470,2024-09-09,North,Social,30.0
+471,2023-09-06,West,Organic,28.0
+472,2023-03-28,South,Organic,46.0
+473,2024-05-08,West,Referral,42.0
+474,2023-06-13,South,Email,36.0
+475,2024-09-04,West,Organic,40.0
+476,2023-07-31,East,Social,23.0
+477,2024-04-22,South,Social,
+478,2024-04-07,East,Organic,45.0
+479,2023-10-31,West,Organic,27.0
+480,2024-08-22,South,Referral,25.0
+481,2024-01-06,South,Paid Search,34.0
+482,2023-07-11,East,Organic,34.0
+483,2023-08-05,East,Email,39.0
+484,2024-04-26,South,Paid Search,
+485,2024-02-20,West,Social,18.0
+486,2024-11-10,South,Organic,42.0
+487,2023-08-31,South,Organic,24.0
+488,2024-07-27,East,Organic,28.0
+489,2024-07-02,West,Referral,18.0
+490,2024-10-04,North,Social,43.0
+491,2024-08-06,North,Email,37.0
+492,2024-04-17,North,Organic,
+493,2023-02-23,East,Email,36.0
+494,2023-09-26,South,Paid Search,18.0
+495,2024-06-18,South,Social,25.0
+496,2024-02-10,North,Paid Search,29.0
+497,2024-12-09,West,Social,27.0
+498,2024-01-04,South,Organic,31.0
+499,2023-01-16,East,Organic,36.0
+500,2023-11-07,north ,Email,43.0
+501,2024-03-17,North,Organic,20.0
+502,2023-12-06,North,Organic,33.0
+503,2024-04-13,South,Referral,40.0
+504,2024-10-27,South,Organic,25.0
+505,2023-02-13,North,Social,
+506,2023-05-11,South,Email,38.0
+507,2024-09-14,North,Social,34.0
+508,2024-10-24,South,Organic,
+509,2023-11-13,North,Social,34.0
+510,2023-01-20,North,Paid Search,31.0
+511,2023-10-18,North,Paid Search,23.0
+512,2024-02-12,East,Email,36.0
+513,2024-05-05,West,Referral,34.0
+514,2023-10-28,East,Organic,25.0
+515,2023-12-24,North,Organic,39.0
+516,2024-12-08,West,Social,
+517,2023-09-18,West,Paid Search,28.0
+518,2024-11-20,South,Email,27.0
+519,2024-04-23,North,Organic,27.0
+520,2024-04-22,East,Organic,18.0
+521,2023-05-22,West,Social,52.0
+522,2023-07-27,West,Referral,29.0
+523,2023-03-30,East,Organic,26.0
+524,2024-04-20,East,Email,23.0
+525,2024-01-30,West,Paid Search,30.0
+526,2023-10-08,North,Organic,27.0
+527,2023-05-24,North,Paid Search,46.0
+528,2023-11-18,West,Organic,22.0
+529,2023-09-20,NORTH,Social,20.0
+530,2023-10-27,South,Organic,38.0
+531,2023-06-26,South,Paid Search,33.0
+532,2024-11-20,North,Organic,31.0
+533,2024-06-05,north ,Email,39.0
+534,2024-03-10,East,Referral,35.0
+535,2024-03-03,South,Paid Search,33.0
+536,2023-02-23,East,Paid Search,21.0
+537,2023-11-28,South,Referral,18.0
+538,2023-02-20,West,Organic,27.0
+539,2024-09-13,East,Email,24.0
+540,2023-01-12,West,Social,36.0
+541,2023-12-13,South,Email,18.0
+542,2023-09-27,North,Organic,29.0
+543,2024-04-24,West,Organic,32.0
+544,2023-12-17,West,Paid Search,33.0
+545,2023-01-30,North,Organic,37.0
+546,2024-11-10,East,Organic,31.0
+547,2023-02-09,East,Referral,27.0
+548,2024-03-04,North,Organic,45.0
+549,2023-03-12,East,Organic,31.0
+550,2024-08-22,North,Organic,46.0
+551,2024-12-12,North,Paid Search,31.0
+552,2023-06-18,West,Paid Search,33.0
+553,2024-10-11,South,Organic,32.0
+554,2023-07-10,West,Email,36.0
+555,2024-07-25,East,Email,30.0
+556,2023-09-07,West,Organic,34.0
+557,2024-09-08,South,Email,47.0
+558,2024-03-24,south ,Paid Search,43.0
+559,2023-11-16,South,Paid Search,43.0
+560,2024-05-08,East,Referral,21.0
+561,2024-07-16,South,Email,23.0
+562,2023-11-03,East,Paid Search,35.0
+563,2023-07-09,SOUTH,Paid Search,40.0
+564,2024-03-18,North,Organic,29.0
+565,2023-09-20,West,Paid Search,27.0
+566,2024-09-02,West,Social,46.0
+567,2024-02-27,South,Organic,40.0
+568,2024-03-16,East,Referral,43.0
+569,2023-05-25,South,Social,30.0
+570,2023-11-11,West,Organic,29.0
+571,2024-06-24,South,Email,42.0
+572,2023-11-15,East,Social,31.0
+573,2023-03-01,North,Paid Search,28.0
+574,2023-08-03,North,Paid Search,25.0
+575,2024-03-10,West,Email,29.0
+576,2024-02-06,South,Referral,41.0
+577,2024-05-19,North,Organic,20.0
+578,2023-08-11,north ,Social,39.0
+579,2024-01-14,South,Email,27.0
+580,2023-10-09,East,Referral,32.0
+581,2023-11-15,South,Organic,32.0
+582,2023-09-06,West,Paid Search,32.0
+583,2024-08-13,West,Email,31.0
+584,2023-04-21,South,Organic,30.0
+585,2024-09-23,West,Paid Search,28.0
+586,2024-04-01,North,Social,45.0
+587,2023-04-03,South,Paid Search,150.0
+588,2023-03-15,North,Social,32.0
+589,2024-10-22,North,Organic,28.0
+590,2023-09-09,North,Email,30.0
+591,2024-01-13,North,Organic,28.0
+592,2023-06-25,West,Email,40.0
+593,2024-08-11,East,Paid Search,27.0
+594,2023-02-02,West,Organic,18.0
+595,2023-08-14,East,Referral,34.0
+596,2023-12-31,East,Email,31.0
+597,2023-10-25,North,Paid Search,28.0
+598,2024-03-04,East,Organic,42.0
+599,2023-09-22,South,Social,18.0
+600,2023-03-25,West,Referral,48.0
+601,2023-10-16,West,Organic,43.0
+602,2024-05-09,North,Referral,28.0
+603,2024-07-01,east ,Paid Search,29.0
+604,2024-09-19,EAST,Social,38.0
+605,2023-06-23,East,Paid Search,38.0
+606,2024-11-23,North,Organic,28.0
+607,2024-06-16,East,Referral,19.0
+608,2024-10-03,West,Organic,53.0
+609,2023-06-09,South,Referral,42.0
+610,2024-01-17,South,Organic,35.0
+611,2023-09-19,North,Organic,35.0
+612,2024-07-16,West,Referral,39.0
+613,2024-09-27,North,Social,40.0
+614,2024-08-22,North,Organic,18.0
+615,2023-04-14,South,Social,30.0
+616,2024-08-22,West,Organic,
+617,2023-09-25,East,Email,32.0
+618,2024-05-19,North,Organic,40.0
+619,2024-10-15,North,Paid Search,18.0
+620,2023-07-03,West,Organic,21.0
+621,2023-06-07,South,Social,27.0
+622,2023-12-29,North,Referral,35.0
+623,2024-01-31,West,Email,41.0
+624,2024-03-28,north ,Paid Search,48.0
+625,2023-04-19,South,Organic,31.0
+626,2024-04-04,North,Organic,41.0
+627,2023-12-13,East,Email,40.0
+628,2024-10-15,West,Organic,38.0
+629,2024-02-23,South,Social,33.0
+630,2023-03-04,East,Paid Search,30.0
+631,2023-01-27,West,Referral,24.0
+632,2023-07-28,West,Paid Search,23.0
+633,2024-10-29,South,Paid Search,37.0
+634,2024-05-22,South,Referral,33.0
+635,2023-03-07,West,Referral,30.0
+636,2023-03-03,North,Social,39.0
+637,2023-04-11,North,Email,32.0
+638,2023-05-08,North,Social,25.0
+639,2024-02-13,West,Paid Search,31.0
+640,2024-12-23,North,Organic,41.0
+641,2024-09-26,South,Social,
+642,2024-02-19,East,Social,35.0
+643,2024-10-21,North,Organic,33.0
+644,2024-12-17,South,Organic,27.0
+645,2024-05-08,South,Social,31.0
+646,2024-10-24,North,Organic,19.0
+647,2024-05-02,West,Social,34.0
+648,2024-12-20,North,Social,21.0
+649,2024-12-10,West,Paid Search,43.0
+650,2024-03-05,South,Organic,33.0
+651,2023-07-25,North,Paid Search,
+652,2024-08-28,North,Paid Search,150.0
+653,2024-12-18,South,Social,24.0
+654,2024-11-30,South,Social,27.0
+655,2024-04-28,north ,Email,18.0
+656,2024-11-19,West,Organic,45.0
+657,2024-06-19,South,Social,50.0
+658,2024-01-28,West,Paid Search,18.0
+659,2024-05-27,north ,Email,26.0
+660,2024-11-13,North,Organic,34.0
+661,2024-07-12,EAST,Social,29.0
+662,2024-04-26,North,Paid Search,33.0
+663,2023-12-11,North,Paid Search,32.0
+664,2024-01-08,North,Referral,37.0
+665,2023-11-18,North,Organic,25.0
+666,2024-06-12,West,Organic,35.0
+667,2024-07-04,South,Social,23.0
+668,2024-07-07,West,Paid Search,30.0
+669,2024-04-05,North,Organic,18.0
+670,2023-03-01,South,Paid Search,30.0
+671,2024-07-04,South,Organic,28.0
+672,2024-12-18,South,Email,
+673,2024-03-29,West,Social,33.0
+674,2023-01-24,West,Organic,35.0
+675,2023-11-17,North,Paid Search,33.0
+676,2024-05-14,South,Referral,18.0
+677,2024-10-14,West,Email,18.0
+678,2024-07-03,North,Organic,31.0
+679,2024-01-19,East,Social,36.0
+680,2023-12-23,North,Organic,31.0
+681,2024-05-12,South,Organic,26.0
+682,2024-06-24,South,Email,31.0
+683,2024-01-09,South,Email,31.0
+684,2024-04-29,West,Organic,41.0
+685,2024-01-07,East,Email,40.0
+686,2024-03-11,West,Social,29.0
+687,2023-12-03,East,Email,33.0
+688,2024-05-04,South,Email,36.0
+689,2024-04-05,South,Paid Search,37.0
+690,2024-10-12,South,Referral,48.0
+691,2024-12-03,West,Organic,33.0
+692,2024-06-13,North,Paid Search,44.0
+693,2024-12-03,WEST,Paid Search,23.0
+694,2024-02-19,east ,Email,28.0
+695,2024-07-31,East,Organic,18.0
+696,2023-11-11,South,Paid Search,35.0
+697,2024-03-10,East,Email,39.0
+698,2023-12-22,East,Paid Search,18.0
+699,2024-07-23,East,Organic,35.0
+700,2023-09-18,North,Organic,39.0
+701,2024-08-26,East,Social,38.0
+702,2024-09-30,South,Organic,23.0
+703,2023-06-06,East,Paid Search,40.0
+704,2024-01-26,East,Paid Search,
+705,2023-07-15,North,Referral,39.0
+706,2024-02-27,East,Email,32.0
+707,2023-04-30,South,Organic,37.0
+708,2023-09-23,East,Email,43.0
+709,2024-09-20,East,Email,32.0
+710,2023-09-07,East,Social,36.0
+711,2023-09-02,West,Paid Search,45.0
+712,2024-01-19,North,Organic,32.0
+713,2024-07-02,North,Social,23.0
+714,2024-12-18,East,Paid Search,40.0
+715,2023-03-08,North,Paid Search,46.0
+716,2024-08-21,North,Organic,45.0
+717,2024-09-05,North,Organic,40.0
+718,2023-07-15,South,Social,18.0
+719,2023-02-22,West,Organic,28.0
+720,2023-06-08,North,Social,
+721,2024-10-13,South,Email,34.0
+722,2023-09-30,West,Paid Search,49.0
+723,2024-03-19,West,Organic,24.0
+724,2024-10-20,North,Organic,54.0
+725,2024-12-07,West,Paid Search,30.0
+726,2023-07-12,north ,Email,27.0
+727,2023-06-18,West,Social,41.0
+728,2023-06-18,North,Email,42.0
+729,2024-09-13,South,Referral,39.0
+730,2024-11-01,North,Organic,27.0
+731,2023-03-09,East,Social,38.0
+732,2023-03-07,north ,Paid Search,24.0
+733,2024-02-27,South,Paid Search,26.0
+734,2024-09-14,East,Paid Search,33.0
+735,2024-12-20,North,Paid Search,26.0
+736,2024-08-23,West,Social,43.0
+737,2024-08-17,South,Social,28.0
+738,2024-07-17,North,Paid Search,32.0
+739,2023-09-01,North,Organic,26.0
+740,2024-03-17,South,Social,43.0
+741,2024-07-13,North,Social,28.0
+742,2023-09-04,South,Social,44.0
+743,2024-01-02,East,Organic,43.0
+744,2024-10-15,South,Organic,29.0
+745,2024-04-24,South,Email,34.0
+746,2024-09-11,West,Social,29.0
+747,2023-10-08,South,Organic,38.0
+748,2024-12-06,East,Paid Search,32.0
+749,2024-01-17,West,Paid Search,30.0
+750,2024-08-25,north ,Social,34.0
+751,2024-06-04,East,Organic,19.0
+752,2023-06-04,West,Social,33.0
+753,2024-03-02,East,Referral,39.0
+754,2024-11-28,West,Paid Search,35.0
+755,2024-10-26,South,Paid Search,42.0
+756,2023-12-07,East,Organic,30.0
+757,2024-07-23,South,Organic,29.0
+758,2024-04-17,North,Referral,23.0
+759,2024-06-16,West,Referral,30.0
+760,2024-09-15,North,Organic,51.0
+761,2023-07-03,West,Referral,36.0
+762,2024-09-11,East,Organic,28.0
+763,2023-04-11,West,Social,24.0
+764,2024-10-21,West,Social,19.0
+765,2024-07-22,East,Paid Search,26.0
+766,2024-01-31,West,Paid Search,40.0
+767,2023-08-01,West,Social,30.0
+768,2023-12-30,East,Organic,25.0
+769,2024-04-19,East,Referral,26.0
+770,2024-04-07,North,Organic,39.0
+771,2024-08-31,North,Organic,33.0
+772,2024-01-12,North,Referral,28.0
+773,2024-08-09,South,Paid Search,31.0
+774,2024-08-04,North,Paid Search,53.0
+775,2024-08-03,South,Organic,44.0
+776,2024-10-22,East,Organic,47.0
+777,2023-07-24,East,Organic,18.0
+778,2023-05-11,West,Paid Search,32.0
+779,2023-04-05,West,Paid Search,28.0
+780,2023-02-12,West,Paid Search,38.0
+781,2024-10-28,East,Email,43.0
+782,2023-01-30,North,Referral,36.0
+783,2023-12-01,West,Paid Search,26.0
+784,2023-04-05,North,Referral,28.0
+785,2023-09-10,North,Email,39.0
+786,2024-01-20,South,Referral,40.0
+787,2023-08-07,East,Social,35.0
+788,2023-12-15,East,Organic,35.0
+789,2023-03-15,North,Organic,34.0
+790,2023-06-25,West,Referral,36.0
+791,2024-09-23,North,Paid Search,40.0
+792,2024-05-27,South,Email,39.0
+793,2023-10-14,South,Social,34.0
+794,2023-04-11,South,Organic,33.0
+795,2024-03-14,West,Paid Search,33.0
+796,2024-10-27,North,Referral,26.0
+797,2023-08-16,North,Organic,26.0
+798,2023-04-28,North,Social,38.0
+799,2024-06-01,West,Referral,27.0
+800,2024-08-15,West,Organic,41.0
+801,2023-11-28,East,Organic,33.0
+802,2023-08-13,East,Paid Search,41.0
+803,2023-11-25,West,Email,39.0
+804,2023-06-29,North,Paid Search,41.0
+805,2023-08-08,North,Organic,29.0
+806,2024-04-01,south ,Organic,37.0
+807,2024-10-06,North,Paid Search,40.0
+808,2023-07-16,South,Paid Search,20.0
+809,2023-11-22,South,Organic,49.0
+810,2023-12-25,South,Email,54.0
+811,2023-07-10,South,Organic,42.0
+812,2024-07-30,South,Email,41.0
+813,2024-09-11,North,Referral,39.0
+814,2024-09-06,West,Social,
+815,2024-09-19,East,Social,33.0
+816,2024-09-14,North,Organic,42.0
+817,2024-12-11,North,Social,25.0
+818,2024-12-09,North,Paid Search,24.0
+819,2024-07-12,North,Organic,30.0
+820,2024-08-11,North,Social,39.0
+821,2023-06-03,North,Organic,26.0
+822,2024-06-06,West,Organic,31.0
+823,2023-09-26,West,Social,33.0
+824,2023-04-15,West,Paid Search,24.0
+825,2024-10-09,East,Organic,18.0
+826,2024-04-22,East,Organic,24.0
+827,2024-08-23,East,Organic,
+828,2023-10-11,West,Paid Search,38.0
+829,2024-07-01,east ,Paid Search,38.0
+830,2023-10-20,East,Organic,39.0
+831,2024-11-06,West,Social,28.0
+832,2023-07-19,East,Referral,26.0
+833,2023-06-05,North,Social,37.0
+834,2023-02-21,North,Paid Search,32.0
+835,2023-10-24,South,Social,42.0
+836,2024-04-12,North,Email,37.0
+837,2024-02-03,North,Referral,45.0
+838,2023-08-09,North,Organic,29.0
+839,2024-10-12,South,Organic,43.0
+840,2024-02-20,West,Organic,52.0
+841,2024-12-22,South,Email,34.0
+842,2024-05-10,North,Organic,38.0
+843,2024-05-09,South,Referral,25.0
+844,2024-10-22,South,Organic,42.0
+845,2024-09-18,East,Social,44.0
+846,2024-02-22,East,Organic,29.0
+847,2023-12-02,North,Paid Search,39.0
+848,2024-04-11,South,Paid Search,36.0
+849,2024-06-29,North,Social,37.0
+850,2024-09-18,EAST,Paid Search,41.0
+851,2024-02-07,West,Paid Search,38.0
+852,2023-05-30,West,Social,32.0
+853,2024-06-17,north ,Referral,41.0
+854,2024-07-11,West,Email,44.0
+855,2023-02-01,West,Social,29.0
+856,2024-09-29,West,Paid Search,33.0
+857,2024-01-22,North,Referral,18.0
+858,2024-09-29,South,Paid Search,39.0
+859,2024-09-01,North,Referral,45.0
+860,2023-07-30,North,Email,31.0
+861,2023-09-04,East,Organic,35.0
+862,2024-03-23,South,Organic,32.0
+863,2024-09-23,North,Social,30.0
+864,2023-12-05,West,Social,36.0
+865,2024-08-13,South,Social,26.0
+866,2023-12-24,West,Referral,31.0
+867,2024-04-02,West,Paid Search,25.0
+868,2024-08-14,West,Paid Search,39.0
+869,2023-09-21,West,Social,36.0
+870,2024-07-11,North,Organic,30.0
+871,2023-07-25,North,Social,34.0
+872,2023-05-13,West,Referral,32.0
+873,2024-03-26,North,Organic,44.0
+874,2024-01-06,South,Email,30.0
+875,2023-12-19,East,Email,39.0
+876,2024-12-13,North,Organic,27.0
+877,2023-11-18,North,Email,41.0
+878,2024-08-16,south ,Email,43.0
+879,2024-10-17,South,Paid Search,43.0
+880,2024-02-29,East,Organic,47.0
+881,2023-02-28,North,Organic,36.0
+882,2024-03-22,South,Social,45.0
+883,2024-02-23,North,Organic,48.0
+884,2024-12-04,EAST,Paid Search,23.0
+885,2024-04-20,North,Referral,28.0
+886,2024-12-13,North,Social,20.0
+887,2024-10-19,West,Social,43.0
+888,2024-05-16,North,Referral,20.0
+889,2024-09-23,East,Organic,18.0
+890,2024-07-12,North,Organic,24.0
+891,2024-06-04,North,Social,18.0
+892,2023-10-10,South,Paid Search,36.0
+893,2024-04-28,West,Organic,24.0
+894,2024-06-06,South,Email,18.0
+895,2024-01-13,North,Organic,33.0
+896,2024-12-13,East,Paid Search,34.0
+897,2024-06-26,South,Social,18.0
+898,2024-10-28,West,Social,27.0
+899,2024-11-11,West,Paid Search,33.0
+900,2024-02-22,East,Organic,30.0
+901,2023-12-02,South,Email,31.0
+902,2024-11-06,South,Referral,
+903,2023-12-25,West,Paid Search,53.0
+904,2024-04-15,South,Organic,31.0
+905,2023-02-14,North,Social,22.0
+906,2024-03-22,West,Paid Search,31.0
+907,2023-08-06,West,Organic,35.0
+908,2024-04-19,South,Organic,33.0
+909,2024-11-17,South,Organic,39.0
+910,2024-04-17,East,Paid Search,53.0
+911,2024-07-28,West,Organic,18.0
+912,2023-09-06,South,Email,29.0
+913,2024-03-11,South,Paid Search,47.0
+914,2023-06-03,South,Paid Search,29.0
+915,2023-08-05,south ,Organic,41.0
+916,2024-01-12,north ,Email,39.0
+917,2024-06-09,West,Organic,45.0
+918,2023-08-25,North,Organic,51.0
+919,2023-01-28,South,Social,
+920,2023-07-18,West,Social,18.0
+921,2024-12-30,South,Email,27.0
+922,2023-11-22,South,Paid Search,53.0
+923,2024-10-26,West,Paid Search,21.0
+924,2024-09-05,North,Organic,38.0
+925,2023-11-25,West,Social,18.0
+926,2024-05-11,North,Paid Search,21.0
+927,2024-08-07,South,Paid Search,41.0
+928,2023-12-23,East,Organic,34.0
+929,2024-08-03,South,Referral,30.0
+930,2023-11-28,East,Organic,26.0
+931,2024-07-12,North,Organic,18.0
+932,2023-07-05,East,Referral,40.0
+933,2023-12-02,North,Social,31.0
+934,2023-10-16,West,Social,20.0
+935,2024-11-29,East,Social,34.0
+936,2023-03-04,South,Organic,39.0
+937,2023-03-02,North,Email,32.0
+938,2024-06-01,South,Organic,35.0
+939,2024-05-10,East,Referral,34.0
+940,2024-05-03,North,Organic,27.0
+941,2023-10-06,East,Social,34.0
+942,2024-02-27,North,Paid Search,40.0
+943,2024-12-17,North,Organic,43.0
+944,2023-11-09,East,Paid Search,
+945,2024-02-27,North,Email,27.0
+946,2024-01-20,North,Organic,39.0
+947,2024-07-03,East,Referral,38.0
+948,2024-08-23,East,Organic,27.0
+949,2024-08-03,North,Social,29.0
+950,2024-05-25,North,Social,40.0
+951,2024-05-09,South,Paid Search,46.0
+952,2023-03-27,East,Social,18.0
+953,2024-06-14,South,Social,48.0
+954,2024-04-24,East,Social,44.0
+955,2024-12-10,West,Social,35.0
+956,2023-08-22,West,Social,31.0
+957,2024-02-11,South,Paid Search,37.0
+958,2024-06-20,North,Organic,28.0
+959,2023-10-25,North,Organic,32.0
+960,2024-05-03,North,Social,20.0
+961,2024-02-25,South,Referral,18.0
+962,2024-10-13,West,Organic,54.0
+963,2024-04-07,South,Paid Search,34.0
+964,2024-04-10,North,Organic,35.0
+965,2024-12-05,East,Social,33.0
+966,2024-03-27,West,Social,26.0
+967,2024-01-21,North,Social,31.0
+968,2023-11-23,West,Social,
+969,2024-09-21,West,Email,32.0
+970,2024-02-20,South,Organic,27.0
+971,2023-07-28,East,Paid Search,38.0
+972,2023-08-09,SOUTH,Organic,35.0
+973,2023-09-19,North,Referral,37.0
+974,2023-09-05,South,Email,40.0
+975,2024-06-05,North,Organic,32.0
+976,2023-05-20,East,Organic,32.0
+977,2024-03-10,WEST,Paid Search,47.0
+978,2024-10-30,South,Referral,25.0
+979,2023-12-20,East,Organic,18.0
+980,2023-04-07,North,Social,38.0
+981,2024-04-15,North,Paid Search,28.0
+982,2023-08-18,East,Social,24.0
+983,2023-08-20,North,Social,41.0
+984,2024-10-30,West,Organic,
+985,2024-10-18,North,Email,22.0
+986,2024-10-13,West,Organic,51.0
+987,2023-08-31,South,Email,19.0
+988,2024-12-06,South,Organic,33.0
+989,2024-07-12,West,Social,18.0
+990,2024-03-01,South,Paid Search,36.0
+991,2024-01-03,NORTH,Social,28.0
+992,2023-09-03,West,Organic,41.0
+993,2024-01-04,South,Social,33.0
+994,2023-10-16,North,Organic,46.0
+995,2024-04-10,South,Paid Search,30.0
+996,2024-11-22,East,Email,19.0
+997,2024-09-26,East,Paid Search,36.0
+998,2024-06-10,West,Paid Search,31.0
+999,2023-07-19,East,Social,18.0
+1000,2024-06-20,North,Paid Search,24.0
+1001,2023-06-03,North,Email,27.0
+1002,2024-09-07,North,Paid Search,47.0
+1003,2024-04-27,East,Referral,40.0
+1004,2024-11-20,North,Email,30.0
+1005,2024-03-26,East,Paid Search,38.0
+1006,2024-12-30,East,Paid Search,18.0
+1007,2024-05-29,West,Social,28.0
+1008,2024-08-29,North,Email,37.0
+1009,2024-08-23,north ,Organic,35.0
+1010,2023-12-02,West,Organic,29.0
+1011,2023-11-19,East,Organic,33.0
+1012,2024-11-11,South,Email,37.0
+1013,2023-06-06,West,Social,33.0
+1014,2023-03-16,west ,Organic,41.0
+1015,2024-08-28,North,Paid Search,36.0
+1016,2024-06-17,West,Email,38.0
+1017,2024-10-23,North,Referral,49.0
+1018,2024-12-17,West,Organic,41.0
+1019,2024-12-09,North,Paid Search,49.0
+1020,2023-04-18,North,Paid Search,27.0
+1021,2024-08-20,North,Social,19.0
+1022,2024-06-16,West,Organic,32.0
+1023,2024-01-22,West,Organic,31.0
+1024,2024-12-26,South,Email,47.0
+1025,2024-09-25,South,Paid Search,23.0
+1026,2024-07-06,North,Organic,33.0
+1027,2024-06-25,North,Paid Search,37.0
+1028,2023-11-13,West,Organic,34.0
+1029,2023-05-25,North,Paid Search,32.0
+1030,2024-04-18,West,Paid Search,37.0
+1031,2024-12-15,West,Organic,43.0
+1032,2023-08-10,north ,Organic,
+1033,2024-12-22,East,Email,34.0
+1034,2023-06-01,West,Email,26.0
+1035,2024-07-26,West,Organic,47.0
+1036,2024-04-14,East,Social,24.0
+1037,2023-08-18,NORTH,Organic,50.0
+1038,2024-10-12,North,Email,46.0
+1039,2024-10-01,West,Email,47.0
+1040,2024-10-28,South,Social,40.0
+1041,2023-05-07,East,Social,18.0
+1042,2024-07-30,EAST,Paid Search,24.0
+1043,2023-08-20,South,Organic,36.0
+1044,2023-09-12,North,Paid Search,27.0
+1045,2024-11-02,South,Organic,31.0
+1046,2024-03-24,West,Social,39.0
+1047,2024-08-16,South,Paid Search,
+1048,2024-06-06,north ,Organic,23.0
+1049,2024-11-29,West,Social,41.0
+1050,2024-08-31,East,Email,38.0
+1051,2024-09-02,East,Social,31.0
+1052,2023-05-20,West,Paid Search,40.0
+1053,2024-11-01,SOUTH,Email,34.0
+1054,2024-02-27,West,Organic,45.0
+1055,2024-06-10,West,Social,35.0
+1056,2023-06-03,South,Paid Search,
+1057,2024-12-04,South,Organic,18.0
+1058,2024-01-20,North,Referral,38.0
+1059,2023-06-25,East,Paid Search,30.0
+1060,2024-04-15,East,Paid Search,26.0
+1061,2024-07-01,East,Organic,44.0
+1062,2023-10-15,West,Referral,42.0
+1063,2024-03-29,South,Email,18.0
+1064,2024-07-24,West,Organic,40.0
+1065,2024-05-03,East,Social,39.0
+1066,2024-10-15,South,Organic,150.0
+1067,2024-04-07,North,Social,26.0
+1068,2024-10-05,East,Paid Search,19.0
+1069,2024-01-10,East,Organic,30.0
+1070,2024-11-13,North,Social,32.0
+1071,2023-01-29,West,Referral,41.0
+1072,2023-01-14,South,Paid Search,36.0
+1073,2024-10-04,South,Organic,24.0
+1074,2024-08-19,west ,Referral,36.0
+1075,2023-05-09,South,Organic,31.0
+1076,2023-09-18,East,Paid Search,25.0
+1077,2024-10-24,East,Paid Search,19.0
+1078,2024-03-16,North,Organic,39.0
+1079,2023-05-05,South,Organic,38.0
+1080,2024-02-24,North,Organic,39.0
+1081,2024-03-03,North,Organic,27.0
+1082,2024-08-23,East,Paid Search,35.0
+1083,2024-06-06,North,Email,21.0
+1084,2024-02-19,West,Organic,25.0
+1085,2024-10-22,South,Social,34.0
+1086,2024-10-20,South,Paid Search,36.0
+1087,2024-04-26,West,Organic,19.0
+1088,2023-07-19,South,Paid Search,24.0
+1089,2024-03-31,East,Organic,30.0
+1090,2023-08-18,EAST,Social,42.0
+1091,2023-11-17,West,Paid Search,26.0
+1092,2023-11-20,North,Social,35.0
+1093,2024-08-17,North,Referral,36.0
+1094,2024-12-11,West,Organic,31.0
+1095,2024-03-10,North,Referral,36.0
+1096,2023-09-20,East,Organic,21.0
+1097,2023-11-04,East,Organic,
+1098,2024-07-24,East,Organic,46.0
+1099,2023-11-03,West,Email,47.0
+1100,2024-10-23,West,Social,41.0
+1101,2023-04-02,North,Referral,43.0
+1102,2024-04-20,East,Social,18.0
+1103,2023-02-02,East,Paid Search,25.0
+1104,2023-12-31,South,Email,31.0
+1105,2024-12-14,West,Referral,55.0
+1106,2023-06-20,south ,Email,31.0
+1107,2023-08-20,North,Social,40.0
+1108,2023-11-23,West,Email,
+1109,2023-03-23,West,Organic,37.0
+1110,2023-09-07,north ,Referral,33.0
+1111,2023-05-20,West,Referral,23.0
+1112,2023-09-08,North,Social,18.0
+1113,2023-03-03,North,Organic,45.0
+1114,2023-11-22,North,Organic,28.0
+1115,2024-04-16,West,Referral,18.0
+1116,2023-05-30,North,Email,37.0
+1117,2024-05-01,North,Social,37.0
+1118,2024-01-29,East,Referral,40.0
+1119,2024-12-29,South,Paid Search,44.0
+1120,2023-12-29,North,Email,25.0
+1121,2023-08-01,North,Organic,26.0
+1122,2024-01-08,West,Organic,31.0
+1123,2024-03-08,East,Paid Search,41.0
+1124,2024-11-15,West,Paid Search,18.0
+1125,2024-08-08,North,Paid Search,35.0
+1126,2024-07-11,South,Email,42.0
+1127,2024-09-10,West,Organic,42.0
+1128,2023-11-01,North,Social,40.0
+1129,2024-08-26,North,Organic,43.0
+1130,2024-11-04,South,Email,18.0
+1131,2023-04-14,South,Organic,48.0
+1132,2024-07-30,North,Social,
+1133,2023-02-19,West,Social,46.0
+1134,2024-06-18,South,Paid Search,23.0
+1135,2024-09-28,East,Organic,18.0
+1136,2023-10-16,North,Organic,50.0
+1137,2024-04-13,East,Paid Search,25.0
+1138,2024-05-07,East,Organic,31.0
+1139,2024-10-29,West,Organic,38.0
+1140,2024-09-13,South,Social,40.0
+1141,2023-04-15,West,Organic,43.0
+1142,2024-07-24,South,Organic,36.0
+1143,2024-07-27,EAST,Paid Search,24.0
+1144,2023-11-07,West,Paid Search,40.0
+1145,2024-11-13,East,Paid Search,40.0
+1146,2024-08-13,East,Social,18.0
+1147,2024-01-22,West,Social,46.0
+1148,2023-04-25,West,Paid Search,18.0
+1149,2024-03-20,North,Paid Search,43.0
+1150,2024-03-12,North,Organic,28.0
+1151,2024-07-14,East,Social,40.0
+1152,2023-03-26,west ,Paid Search,38.0
+1153,2024-06-23,South,Email,33.0
+1154,2023-07-06,South,Social,38.0
+1155,2024-09-05,East,Social,
+1156,2023-11-08,North,Paid Search,40.0
+1157,2024-01-26,North,Referral,53.0
+1158,2024-10-16,north ,Paid Search,21.0
+1159,2024-09-14,North,Paid Search,18.0
+1160,2024-11-10,East,Email,30.0
+1161,2023-05-29,South,Social,29.0
+1162,2023-03-08,North,Paid Search,30.0
+1163,2023-09-12,South,Organic,
+1164,2023-12-07,South,Organic,41.0
+1165,2023-05-25,South,Email,21.0
+1166,2024-11-29,South,Organic,38.0
+1167,2024-11-15,North,Organic,39.0
+1168,2024-05-18,East,Organic,36.0
+1169,2024-08-24,North,Referral,38.0
+1170,2024-04-18,North,Social,42.0
+1171,2023-05-07,North,Paid Search,34.0
+1172,2023-10-20,South,Referral,30.0
+1173,2024-12-28,North,Paid Search,38.0
+1174,2024-07-03,South,Email,39.0
+1175,2024-12-10,North,Social,42.0
+1176,2024-09-19,North,Paid Search,18.0
+1177,2023-07-11,West,Email,32.0
+1178,2024-12-13,South,Referral,24.0
+1179,2023-02-01,North,Organic,39.0
+1180,2024-05-01,East,Organic,40.0
+1181,2023-08-09,North,Email,31.0
+1182,2024-01-07,West,Paid Search,27.0
+1183,2024-10-21,North,Paid Search,39.0
+1184,2023-07-30,South,Organic,32.0
+1185,2023-05-02,West,Email,46.0
+1186,2024-05-31,North,Social,49.0
+1187,2024-10-10,North,Referral,43.0
+1188,2024-07-01,East,Paid Search,36.0
+1189,2023-09-05,west ,Referral,50.0
+1190,2024-04-30,South,Paid Search,36.0
+1191,2023-04-17,East,Social,29.0
+1192,2023-06-21,North,Social,27.0
+1193,2024-01-04,East,Paid Search,27.0
+1194,2024-11-05,North,Social,33.0
+1195,2023-11-23,East,Organic,38.0
+1196,2024-03-11,North,Paid Search,21.0
+1197,2024-11-24,East,Social,29.0
+1198,2023-11-13,North,Organic,35.0
+1199,2023-03-31,East,Social,39.0
+1200,2023-08-24,West,Paid Search,33.0
+1201,2023-06-15,WEST,Organic,36.0
+1202,2024-12-28,West,Social,22.0
+1203,2023-07-04,South,Organic,25.0
+1204,2024-06-16,East,Referral,33.0
+1205,2023-02-08,North,Referral,38.0
+1206,2023-10-05,West,Paid Search,36.0
+1207,2023-11-05,East,Paid Search,26.0
+1208,2023-03-17,South,Organic,31.0
+1209,2023-06-12,South,Email,47.0
+1210,2023-07-27,West,Organic,38.0
+1211,2024-02-11,West,Referral,32.0
+1212,2024-02-15,West,Referral,24.0
+1213,2023-09-13,South,Organic,27.0
+1214,2024-12-13,South,Social,34.0
+1215,2024-08-28,West,Paid Search,36.0
+1216,2023-11-20,East,Paid Search,39.0
+1217,2024-05-25,East,Organic,37.0
+1218,2024-04-18,East,Social,30.0
+1219,2024-06-05,East,Organic,29.0
+1220,2024-09-01,East,Email,
+1221,2024-12-12,East,Paid Search,28.0
+1222,2024-08-26,West,Social,22.0
+1223,2023-05-04,West,Referral,19.0
+1224,2024-01-14,South,Social,30.0
+1225,2024-11-18,North,Paid Search,
+1226,2023-10-02,East,Paid Search,28.0
+1227,2023-11-09,East,Paid Search,47.0
+1228,2023-10-28,East,Paid Search,33.0
+1229,2023-06-17,West,Referral,43.0
+1230,2024-06-07,North,Organic,27.0
+1231,2024-01-27,South,Paid Search,27.0
+1232,2024-10-04,west ,Email,34.0
+1233,2023-02-22,West,Paid Search,38.0
+1234,2024-07-12,South,Email,32.0
+1235,2023-12-24,North,Organic,36.0
+1236,2024-10-18,South,Organic,39.0
+1237,2024-12-30,South,Social,21.0
+1238,2024-09-26,South,Paid Search,30.0
+1239,2024-11-30,North,Referral,29.0
+1240,2024-03-03,South,Paid Search,29.0
+1241,2024-10-18,EAST,Organic,37.0
+1242,2023-05-25,East,Paid Search,
+1243,2024-07-02,East,Paid Search,18.0
+1244,2024-07-19,South,Social,31.0
+1245,2023-11-25,South,Organic,24.0
+1246,2023-06-06,South,Social,38.0
+1247,2023-11-17,West,Referral,41.0
+1248,2024-08-09,South,Paid Search,18.0
+1249,2024-04-04,East,Social,27.0
+1250,2024-05-25,East,Organic,37.0
+1251,2024-10-03,West,Email,21.0
+1252,2023-05-24,South,Organic,41.0
+1253,2023-08-03,South,Social,43.0
+1254,2024-02-19,West,Paid Search,32.0
+1255,2023-11-01,North,Organic,27.0
+1256,2024-06-24,East,Paid Search,18.0
+1257,2024-12-13,South,Organic,
+1258,2023-10-05,West,Email,52.0
+1259,2024-07-18,East,Organic,50.0
+1260,2023-04-26,North,Referral,32.0
+1261,2023-09-03,West,Paid Search,24.0
+1262,2023-03-28,East,Organic,41.0
+1263,2023-10-26,East,Paid Search,32.0
+1264,2024-07-30,North,Organic,38.0
+1265,2023-04-17,North,Email,36.0
+1266,2023-08-22,East,Organic,34.0
+1267,2023-06-08,South,Email,43.0
+1268,2024-04-22,West,Organic,43.0
+1269,2024-11-17,North,Organic,29.0
+1270,2023-06-22,East,Organic,25.0
+1271,2024-03-15,North,Social,18.0
+1272,2024-05-22,East,Paid Search,
+1273,2023-11-24,North,Referral,
+1274,2024-05-23,South,Paid Search,37.0
+1275,2023-11-04,North,Organic,30.0
+1276,2024-11-07,East,Email,31.0
+1277,2023-04-12,South,Social,41.0
+1278,2024-12-10,West,Email,37.0
+1279,2023-02-12,North,Paid Search,32.0
+1280,2024-03-14,East,Social,49.0
+1281,2024-03-11,East,Organic,40.0
+1282,2024-07-24,North,Referral,30.0
+1283,2024-04-14,North,Organic,30.0
+1284,2023-07-06,South,Email,41.0
+1285,2023-10-14,East,Organic,35.0
+1286,2023-07-29,West,Email,23.0
+1287,2024-03-26,North,Email,42.0
+1288,2023-12-25,East,Email,
+1289,2024-01-08,East,Paid Search,44.0
+1290,2024-03-18,East,Paid Search,47.0
+1291,2023-12-18,South,Email,52.0
+1292,2023-07-25,West,Social,49.0
+1293,2024-01-11,South,Social,37.0
+1294,2024-07-23,West,Organic,32.0
+1295,2024-09-06,North,Paid Search,18.0
+1296,2023-12-03,West,Paid Search,34.0
+1297,2024-04-30,West,Social,38.0
+1298,2024-07-10,West,Organic,34.0
+1299,2024-12-27,South,Paid Search,18.0
+1300,2024-09-21,West,Email,
+1301,2024-07-22,North,Paid Search,
+1302,2024-06-07,East,Email,24.0
+1303,2023-09-05,South,Organic,35.0
+1304,2024-12-07,East,Paid Search,37.0
+1305,2023-03-17,South,Paid Search,44.0
+1306,2024-10-21,North,Paid Search,49.0
+1307,2024-06-02,North,Social,30.0
+1308,2024-05-17,North,Organic,
+1309,2024-06-07,South,Paid Search,35.0
+1310,2023-05-31,West,Organic,39.0
+1311,2024-11-19,East,Social,38.0
+1312,2023-11-05,West,Email,
+1313,2023-07-04,West,Organic,18.0
+1314,2023-11-27,South,Paid Search,37.0
+1315,2024-04-29,SOUTH,Paid Search,
+1316,2023-09-05,South,Social,31.0
+1317,2024-02-17,North,Organic,18.0
+1318,2023-01-31,East,Paid Search,33.0
+1319,2024-01-17,East,Email,27.0
+1320,2024-10-11,East,Paid Search,49.0
+1321,2024-10-27,West,Social,37.0
+1322,2024-04-09,North,Paid Search,26.0
+1323,2023-12-25,West,Referral,18.0
+1324,2024-09-26,North,Organic,39.0
+1325,2023-09-22,West,Organic,40.0
+1326,2024-03-16,North,Paid Search,32.0
+1327,2024-02-22,South,Paid Search,39.0
+1328,2024-10-23,South,Social,
+1329,2023-12-06,North,Organic,43.0
+1330,2024-04-06,South,Organic,42.0
+1331,2024-11-25,North,Social,19.0
+1332,2023-12-11,East,Organic,21.0
+1333,2023-03-20,West,Social,52.0
+1334,2023-12-26,South,Social,42.0
+1335,2024-03-13,South,Organic,22.0
+1336,2024-08-21,West,Social,19.0
+1337,2024-09-03,South,Email,35.0
+1338,2024-12-07,West,Email,23.0
+1339,2023-02-18,South,Organic,31.0
+1340,2024-10-05,South,Paid Search,33.0
+1341,2024-11-28,North,Referral,33.0
+1342,2024-09-27,north ,Social,44.0
+1343,2024-01-11,East,Organic,50.0
+1344,2024-09-07,west ,Organic,29.0
+1345,2024-02-06,North,Social,23.0
+1346,2024-07-08,West,Email,37.0
+1347,2024-04-27,South,Referral,
+1348,2023-08-29,South,Referral,30.0
+1349,2024-10-09,WEST,Paid Search,41.0
+1350,2023-10-31,West,Social,26.0
+1351,2023-07-06,East,Organic,34.0
+1352,2023-06-22,North,Organic,23.0
+1353,2024-08-07,North,Organic,34.0
+1354,2024-01-30,North,Referral,32.0
+1355,2024-06-29,West,Organic,39.0
+1356,2023-02-09,South,Paid Search,50.0
+1357,2024-12-03,East,Paid Search,30.0
+1358,2024-09-28,North,Paid Search,18.0
+1359,2023-11-09,South,Paid Search,32.0
+1360,2024-12-16,South,Organic,36.0
+1361,2024-05-03,South,Paid Search,35.0
+1362,2023-07-07,East,Paid Search,32.0
+1363,2023-06-28,West,Email,47.0
+1364,2024-03-03,West,Social,35.0
+1365,2024-07-14,East,Email,33.0
+1366,2024-06-24,North,Paid Search,27.0
+1367,2024-03-29,West,Organic,18.0
+1368,2024-09-02,West,Paid Search,36.0
+1369,2024-04-03,West,Referral,36.0
+1370,2024-12-27,South,Organic,24.0
+1371,2024-09-22,north ,Organic,
+1372,2023-03-16,west ,Referral,32.0
+1373,2023-01-07,South,Referral,28.0
+1374,2024-12-19,South,Organic,26.0
+1375,2023-12-18,South,Email,37.0
+1376,2023-07-27,East,Paid Search,31.0
+1377,2024-07-15,south ,Paid Search,28.0
+1378,2023-09-09,East,Paid Search,26.0
+1379,2024-05-29,East,Referral,32.0
+1380,2024-08-21,South,Organic,42.0
+1381,2024-04-08,North,Email,35.0
+1382,2024-06-09,West,Organic,31.0
+1383,2024-02-11,South,Social,36.0
+1384,2023-06-20,South,Social,46.0
+1385,2024-12-19,South,Email,38.0
+1386,2024-09-20,South,Referral,36.0
+1387,2023-09-07,East,Email,39.0
+1388,2024-09-28,North,Social,32.0
+1389,2024-10-30,West,Organic,35.0
+1390,2023-07-24,North,Referral,29.0
+1391,2024-11-01,West,Paid Search,20.0
+1392,2024-06-25,East,Paid Search,37.0
+1393,2024-12-09,North,Paid Search,37.0
+1394,2024-11-16,East,Paid Search,31.0
+1395,2024-10-30,South,Social,150.0
+1396,2023-09-23,West,Paid Search,27.0
+1397,2024-10-05,West,Organic,18.0
+1398,2023-06-13,South,Referral,27.0
+1399,2023-10-27,South,Referral,20.0
+1400,2023-10-16,West,Paid Search,37.0
+1401,2023-03-22,East,Referral,27.0
+1402,2023-11-27,South,Paid Search,42.0
+1403,2023-05-23,South,Paid Search,42.0
+1404,2023-11-13,South,Referral,25.0
+1405,2024-09-05,East,Social,26.0
+1406,2024-04-15,East,Email,38.0
+1407,2024-12-11,West,Paid Search,42.0
+1408,2024-10-01,East,Paid Search,18.0
+1409,2023-10-11,East,Organic,36.0
+1410,2024-12-28,South,Referral,18.0
+1411,2024-02-09,West,Organic,29.0
+1412,2023-05-18,South,Paid Search,43.0
+1413,2024-12-07,West,Organic,61.0
+1414,2023-11-24,South,Social,31.0
+1415,2023-11-30,East,Paid Search,22.0
+1416,2024-06-01,West,Email,29.0
+1417,2024-07-05,West,Paid Search,34.0
+1418,2023-10-31,South,Organic,27.0
+1419,2024-03-03,East,Organic,25.0
+1420,2024-01-23,North,Organic,30.0
+1421,2023-09-10,North,Social,37.0
+1422,2024-08-12,West,Email,32.0
+1423,2023-08-08,West,Paid Search,26.0
+1424,2023-06-23,North,Paid Search,27.0
+1425,2023-09-11,West,Organic,30.0
+1426,2024-05-06,South,Email,25.0
+1427,2024-01-30,West,Referral,27.0
+1428,2024-01-11,West,Email,39.0
+1429,2024-07-09,West,Organic,31.0
+1430,2023-05-26,West,Paid Search,
+1431,2023-01-05,West,Referral,43.0
+1432,2023-07-01,East,Organic,37.0
+1433,2024-09-08,North,Social,21.0
+1434,2024-08-26,South,Referral,30.0
+1435,2024-08-29,West,Email,26.0
+1436,2024-01-10,North,Social,40.0
+1437,2023-07-15,West,Paid Search,30.0
+1438,2024-02-05,North,Referral,33.0
+1439,2023-04-18,West,Paid Search,32.0
+1440,2023-03-24,South,Referral,20.0
+1441,2024-04-03,West,Paid Search,46.0
+1442,2024-08-13,West,Email,39.0
+1443,2024-01-23,South,Referral,27.0
+1444,2024-11-27,East,Social,35.0
+1445,2024-02-23,north ,Paid Search,42.0
+1446,2024-05-27,West,Organic,34.0
+1447,2024-04-11,West,Email,48.0
+1448,2024-06-20,South,Social,60.0
+1449,2023-08-31,North,Organic,32.0
+1450,2024-10-27,South,Email,28.0
+1451,2024-12-23,North,Referral,25.0
+1452,2024-10-12,West,Email,18.0
+1453,2024-05-08,North,Social,45.0
+1454,2023-11-12,West,Referral,30.0
+1455,2024-04-01,West,Email,41.0
+1456,2023-12-03,west ,Organic,43.0
+1457,2024-01-28,East,Referral,24.0
+1458,2024-10-21,North,Paid Search,25.0
+1459,2024-05-27,West,Referral,49.0
+1460,2024-01-24,East,Email,33.0
+1461,2024-01-29,West,Social,28.0
+1462,2023-07-15,South,Paid Search,24.0
+1463,2024-11-08,NORTH,Organic,32.0
+1464,2024-04-08,West,Organic,47.0
+1465,2023-11-06,West,Social,40.0
+1466,2023-11-03,North,Email,35.0
+1467,2024-10-25,East,Organic,48.0
+1468,2024-09-28,North,Organic,46.0
+1469,2023-10-11,East,Social,37.0
+1470,2024-05-25,South,Organic,58.0
+1471,2023-04-10,South,Organic,31.0
+1472,2023-03-15,North,Organic,43.0
+1473,2024-09-06,North,Social,30.0
+1474,2024-06-26,South,Social,42.0
+1475,2024-06-03,North,Email,31.0
+1476,2024-09-09,South,Paid Search,38.0
+1477,2024-05-31,East,Organic,55.0
+1478,2023-09-12,east ,Email,42.0
+1479,2024-12-26,East,Referral,38.0
+1480,2024-05-05,North,Paid Search,27.0
+1481,2024-10-22,North,Email,35.0
+1482,2024-10-29,West,Email,24.0
+1483,2024-12-30,West,Referral,41.0
+1484,2024-08-18,west ,Paid Search,41.0
+1485,2023-12-31,West,Organic,32.0
+1486,2024-01-10,East,Organic,48.0
+1487,2024-10-10,West,Email,47.0
+1488,2023-05-16,South,Email,35.0
+1489,2024-06-06,West,Paid Search,39.0
+1490,2024-04-02,West,Organic,28.0
+1491,2024-06-21,West,Organic,31.0
+1492,2023-09-12,South,Social,
+1493,2024-03-16,South,Referral,29.0
+1494,2024-01-06,South,Paid Search,33.0
+1495,2024-11-12,South,Social,19.0
+1496,2024-05-26,West,Paid Search,39.0
+1497,2024-08-17,East,Email,43.0
+1498,2023-12-01,North,Email,33.0
+1499,2024-07-19,East,Organic,18.0
+1500,2023-12-19,South,Social,31.0
+1501,2024-02-24,East,Email,21.0
+1502,2023-08-07,South,Referral,28.0
+1503,2024-09-29,east ,Social,47.0
+1504,2024-11-22,East,Organic,18.0
+1505,2023-12-27,East,Social,26.0
+1506,2024-05-17,West,Social,41.0
+1507,2024-06-20,South,Organic,27.0
+1508,2024-08-29,East,Referral,26.0
+1509,2024-06-23,North,Organic,52.0
+1510,2024-11-10,South,Referral,37.0
+1511,2023-08-24,East,Paid Search,42.0
+1512,2024-09-22,East,Organic,38.0
+1513,2023-06-12,West,Paid Search,35.0
+1514,2024-02-20,South,Social,45.0
+1515,2024-07-22,West,Email,51.0
+1516,2024-06-28,South,Paid Search,18.0
+1517,2024-04-12,East,Organic,33.0
+1518,2023-05-07,West,Referral,33.0
+1519,2023-01-24,East,Social,30.0
+1520,2023-09-03,West,Organic,42.0
+1521,2023-10-17,West,Email,36.0
+1522,2024-02-22,North,Organic,51.0
+1523,2023-12-18,west ,Organic,43.0
+1524,2023-04-09,West,Paid Search,46.0
+1525,2024-12-17,South,Social,23.0
+1526,2024-05-04,North,Paid Search,26.0
+1527,2023-08-16,South,Referral,27.0
+1528,2023-12-04,West,Organic,45.0
+1529,2024-06-13,West,Referral,25.0
+1530,2024-11-21,west ,Organic,25.0
+1531,2024-12-11,South,Organic,23.0
+1532,2023-06-17,North,Organic,58.0
+1533,2024-05-26,south ,Organic,32.0
+1534,2023-07-08,SOUTH,Paid Search,38.0
+1535,2023-06-20,North,Email,23.0
+1536,2024-10-27,North,Email,42.0
+1537,2024-09-28,North,Social,18.0
+1538,2024-05-18,North,Organic,25.0
+1539,2024-01-21,West,Email,27.0
+1540,2024-06-02,South,Paid Search,35.0
+1541,2024-02-27,South,Social,26.0
+1542,2024-09-25,East,Social,47.0
+1543,2023-04-01,West,Organic,38.0
+1544,2024-12-29,West,Paid Search,27.0
+1545,2024-01-25,East,Referral,42.0
+1546,2024-07-11,West,Organic,30.0
+1547,2024-09-24,East,Social,28.0
+1548,2023-07-16,East,Referral,42.0
+1549,2024-09-05,South,Paid Search,18.0
+1550,2024-03-16,EAST,Paid Search,
+1551,2023-12-09,South,Paid Search,
+1552,2023-07-26,South,Email,27.0
+1553,2023-12-01,North,Paid Search,51.0
+1554,2023-02-04,South,Paid Search,29.0
+1555,2023-10-08,South,Organic,42.0
+1556,2024-04-14,East,Referral,36.0
+1557,2023-07-20,South,Email,37.0
+1558,2024-12-02,North,Social,31.0
+1559,2024-05-21,South,Referral,31.0
+1560,2024-09-19,South,Social,47.0
+1561,2024-06-09,East,Referral,42.0
+1562,2024-01-09,South,Organic,29.0
+1563,2024-07-20,north ,Organic,24.0
+1564,2023-11-28,North,Email,28.0
+1565,2024-10-19,South,Paid Search,42.0
+1566,2023-10-28,North,Paid Search,44.0
+1567,2023-08-29,South,Email,38.0
+1568,2023-02-27,East,Social,19.0
+1569,2024-04-18,West,Paid Search,40.0
+1570,2024-01-21,East,Paid Search,45.0
+1571,2023-12-14,North,Paid Search,35.0
+1572,2023-11-14,South,Organic,51.0
+1573,2024-08-14,West,Organic,22.0
+1574,2024-10-26,North,Paid Search,40.0
+1575,2024-03-24,West,Email,24.0
+1576,2024-05-19,East,Paid Search,43.0
+1577,2023-07-29,North,Paid Search,39.0
+1578,2023-04-25,NORTH,Social,50.0
+1579,2023-07-22,West,Organic,38.0
+1580,2023-10-22,West,Paid Search,30.0
+1581,2023-02-20,West,Organic,29.0
+1582,2023-10-21,South,Social,31.0
+1583,2024-03-30,West,Organic,29.0
+1584,2024-10-25,North,Paid Search,46.0
+1585,2024-03-28,South,Social,45.0
+1586,2024-09-30,East,Email,20.0
+1587,2024-03-03,West,Social,34.0
+1588,2023-10-15,South,Referral,
+1589,2023-03-19,South,Social,26.0
+1590,2023-04-16,North,Paid Search,37.0
+1591,2023-11-30,South,Organic,47.0
+1592,2024-02-16,North,Organic,42.0
+1593,2023-12-02,West,Organic,46.0
+1594,2024-08-08,North,Organic,27.0
+1595,2023-08-09,East,Paid Search,
+1596,2023-09-09,North,Social,27.0
+1597,2024-04-09,South,Social,36.0
+1598,2023-10-08,South,Paid Search,
+1599,2023-10-04,South,Paid Search,42.0
+1600,2024-05-20,East,Organic,45.0
+1601,2024-11-13,East,Paid Search,40.0
+1602,2023-12-10,West,Paid Search,26.0
+1603,2023-08-24,South,Paid Search,21.0
+1604,2024-04-01,East,Organic,38.0
+1605,2024-02-19,West,Referral,47.0
+1606,2024-12-15,South,Paid Search,33.0
+1607,2024-10-16,West,Social,20.0
+1608,2023-07-21,West,Organic,52.0
+1609,2023-04-12,West,Organic,38.0
+1610,2024-07-22,East,Paid Search,35.0
+1611,2024-11-01,East,Referral,23.0
+1612,2023-07-12,South,Organic,34.0
+1613,2024-04-30,East,Paid Search,40.0
+1614,2024-10-08,West,Referral,38.0
+1615,2023-10-08,North,Paid Search,27.0
+1616,2024-11-04,West,Paid Search,33.0
+1617,2023-05-23,South,Social,28.0
+1618,2024-04-16,NORTH,Paid Search,48.0
+1619,2024-12-11,East,Referral,42.0
+1620,2024-10-04,West,Organic,29.0
+1621,2023-02-16,East,Email,23.0
+1622,2024-11-14,West,Organic,36.0
+1623,2024-08-17,South,Email,29.0
+1624,2023-11-28,West,Email,30.0
+1625,2024-03-19,East,Email,23.0
+1626,2024-05-20,West,Email,24.0
+1627,2024-10-21,North,Social,35.0
+1628,2024-07-02,South,Organic,31.0
+1629,2024-06-20,West,Organic,56.0
+1630,2024-06-01,North,Paid Search,39.0
+1631,2023-08-05,South,Paid Search,23.0
+1632,2024-11-12,West,Paid Search,20.0
+1633,2023-04-08,West,Social,37.0
+1634,2023-10-23,West,Social,30.0
+1635,2024-02-17,East,Referral,45.0
+1636,2023-07-11,West,Paid Search,36.0
+1637,2024-07-30,South,Email,18.0
+1638,2023-07-03,East,Social,24.0
+1639,2023-10-13,West,Referral,27.0
+1640,2023-04-21,East,Email,37.0
+1641,2024-09-15,North,Organic,24.0
+1642,2023-03-21,South,Organic,35.0
+1643,2023-10-18,East,Referral,21.0
+1644,2023-11-11,West,Social,34.0
+1645,2024-03-04,East,Email,37.0
+1646,2024-11-26,West,Email,47.0
+1647,2023-10-06,West,Social,
+1648,2024-12-19,North,Email,26.0
+1649,2023-09-23,East,Referral,47.0
+1650,2023-12-21,East,Referral,32.0
+1651,2024-11-13,north ,Paid Search,40.0
+1652,2024-12-27,South,Organic,28.0
+1653,2023-10-05,East,Organic,34.0
+1654,2024-04-02,West,Paid Search,26.0
+1655,2024-12-19,South,Email,36.0
+1656,2023-08-19,North,Email,41.0
+1657,2024-10-23,SOUTH,Paid Search,29.0
+1658,2023-06-11,West,Paid Search,29.0
+1659,2023-06-25,East,Paid Search,37.0
+1660,2024-08-10,SOUTH,Email,26.0
+1661,2023-09-11,West,Social,20.0
+1662,2024-06-25,North,Organic,
+1663,2024-10-20,South,Paid Search,33.0
+1664,2024-07-12,South,Social,32.0
+1665,2024-06-04,East,Paid Search,38.0
+1666,2024-09-04,West,Email,39.0
+1667,2023-06-12,North,Referral,32.0
+1668,2024-12-29,West,Organic,23.0
+1669,2023-07-04,East,Organic,28.0
+1670,2024-06-25,West,Paid Search,39.0
+1671,2024-10-24,West,Organic,35.0
+1672,2024-11-19,West,Paid Search,29.0
+1673,2024-05-25,North,Organic,26.0
+1674,2024-02-04,South,Organic,39.0
+1675,2024-11-25,West,Email,32.0
+1676,2024-12-29,East,Organic,40.0
+1677,2023-11-03,East,Email,41.0
+1678,2023-09-18,West,Paid Search,31.0
+1679,2024-08-01,West,Paid Search,42.0
+1680,2024-03-17,EAST,Organic,35.0
+1681,2023-08-08,West,Organic,36.0
+1682,2024-03-27,North,Paid Search,18.0
+1683,2023-12-24,West,Email,25.0
+1684,2024-02-10,West,Referral,25.0
+1685,2023-10-15,North,Organic,31.0
+1686,2023-10-02,North,Organic,35.0
+1687,2024-11-23,west ,Organic,35.0
+1688,2023-12-02,East,Email,
+1689,2023-01-23,North,Organic,27.0
+1690,2024-04-13,North,Organic,40.0
+1691,2023-11-06,South,Email,50.0
+1692,2024-06-02,SOUTH,Email,30.0
+1693,2023-04-03,West,Social,28.0
+1694,2024-04-20,East,Organic,27.0
+1695,2024-05-22,East,Paid Search,34.0
+1696,2024-02-17,North,Organic,29.0
+1697,2023-08-04,South,Social,18.0
+1698,2024-09-23,South,Email,20.0
+1699,2024-12-07,West,Organic,43.0
+1700,2023-12-27,West,Email,45.0
+1701,2023-07-08,South,Paid Search,
+1702,2024-05-19,West,Email,36.0
+1703,2024-04-11,North,Organic,25.0
+1704,2024-01-12,South,Paid Search,30.0
+1705,2024-12-14,West,Organic,20.0
+1706,2024-06-28,South,Social,20.0
+1707,2024-06-17,west ,Organic,36.0
+1708,2024-03-07,NORTH,Paid Search,38.0
+1709,2024-02-23,West,Email,150.0
+1710,2023-11-07,North,Social,33.0
+1711,2023-12-19,North,Social,21.0
+1712,2024-08-13,South,Social,32.0
+1713,2023-04-02,West,Social,31.0
+1714,2023-04-20,East,Social,29.0
+1715,2024-01-27,East,Paid Search,37.0
+1716,2023-10-29,North,Organic,23.0
+1717,2024-01-31,North,Paid Search,35.0
+1718,2024-04-17,North,Organic,39.0
+1719,2024-02-28,West,Paid Search,46.0
+1720,2024-09-10,North,Paid Search,36.0
+1721,2024-07-10,South,Organic,43.0
+1722,2024-05-02,East,Email,30.0
+1723,2024-04-24,East,Social,31.0
+1724,2024-12-17,South,Social,46.0
+1725,2024-01-06,North,Referral,21.0
+1726,2023-07-23,South,Organic,30.0
+1727,2023-10-22,East,Organic,
+1728,2024-05-27,NORTH,Organic,32.0
+1729,2024-03-30,East,Paid Search,31.0
+1730,2024-04-13,North,Organic,31.0
+1731,2024-07-12,West,Email,35.0
+1732,2024-12-30,West,Paid Search,43.0
+1733,2024-06-05,North,Paid Search,42.0
+1734,2023-07-01,South,Paid Search,34.0
+1735,2024-07-02,South,Paid Search,43.0
+1736,2024-10-05,West,Social,37.0
+1737,2024-04-17,East,Social,41.0
+1738,2024-07-17,East,Email,24.0
+1739,2024-10-23,North,Social,49.0
+1740,2023-10-01,North,Paid Search,35.0
+1741,2023-08-26,East,Paid Search,18.0
+1742,2024-04-06,East,Social,48.0
+1743,2024-08-25,West,Paid Search,34.0
+1744,2023-09-18,West,Paid Search,30.0
+1745,2023-04-30,East,Organic,28.0
+1746,2024-12-03,East,Social,
+1747,2024-02-03,West,Organic,26.0
+1748,2024-01-13,west ,Referral,28.0
+1749,2024-04-28,West,Organic,29.0
+1750,2023-09-29,West,Paid Search,31.0
+1751,2023-08-30,South,Organic,29.0
+1752,2023-07-24,East,Organic,41.0
+1753,2023-10-07,East,Paid Search,36.0
+1754,2024-05-26,North,Social,37.0
+1755,2024-01-25,East,Organic,
+1756,2024-12-26,South,Organic,33.0
+1757,2023-12-26,south ,Organic,24.0
+1758,2023-10-21,north ,Paid Search,50.0
+1759,2024-10-30,West,Referral,42.0
+1760,2024-10-28,East,Paid Search,48.0
+1761,2024-06-05,East,Email,43.0
+1762,2024-12-01,North,Paid Search,29.0
+1763,2023-08-07,East,Paid Search,18.0
+1764,2023-08-02,North,Email,22.0
+1765,2023-05-02,South,Organic,39.0
+1766,2023-09-16,South,Email,33.0
+1767,2024-01-03,West,Paid Search,30.0
+1768,2023-07-02,south ,Paid Search,18.0
+1769,2024-08-29,East,Referral,33.0
+1770,2023-01-30,West,Paid Search,24.0
+1771,2024-09-24,South,Referral,27.0
+1772,2024-02-07,West,Referral,41.0
+1773,2024-06-17,North,Organic,24.0
+1774,2023-10-24,South,Paid Search,25.0
+1775,2024-05-24,North,Email,35.0
+1776,2024-01-29,East,Organic,41.0
+1777,2024-12-05,West,Social,30.0
+1778,2024-09-03,East,Organic,47.0
+1779,2023-10-31,East,Organic,22.0
+1780,2024-12-22,North,Paid Search,20.0
+1781,2024-06-22,West,Social,20.0
+1782,2024-04-01,South,Social,19.0
+1783,2023-03-12,North,Social,37.0
+1784,2023-07-25,West,Organic,25.0
+1785,2023-07-03,South,Paid Search,21.0
+1786,2024-06-22,South,Organic,37.0
+1787,2024-07-17,North,Organic,41.0
+1788,2024-09-04,North,Paid Search,43.0
+1789,2024-07-18,West,Social,41.0
+1790,2023-12-31,South,Organic,25.0
+1791,2024-12-05,West,Organic,36.0
+1792,2023-03-24,North,Social,38.0
+1793,2024-07-27,East,Organic,29.0
+1794,2024-09-08,east ,Referral,35.0
+1795,2024-06-15,East,Paid Search,
+1796,2023-12-20,East,Organic,28.0
+1797,2024-12-21,East,Email,37.0
+1798,2023-09-16,East,Social,47.0
+1799,2023-12-26,West,Email,44.0
+1800,2024-06-11,South,Paid Search,39.0
+1801,2023-07-02,South,Paid Search,34.0
+1802,2023-09-30,East,Social,33.0
+1803,2023-11-17,South,Paid Search,20.0
+1804,2024-10-29,North,Social,26.0
+1805,2023-07-19,West,Organic,26.0
+1806,2024-06-05,North,Paid Search,39.0
+1807,2024-05-05,North,Organic,42.0
+1808,2024-01-16,East,Email,40.0
+1809,2024-01-14,NORTH,Paid Search,44.0
+1810,2024-05-30,North,Referral,34.0
+1811,2024-06-09,North,Organic,25.0
+1812,2024-04-03,North,Paid Search,33.0
+1813,2023-12-18,South,Paid Search,27.0
+1814,2023-02-17,West,Social,39.0
+1815,2023-12-14,South,Email,30.0
+1816,2024-07-22,South,Paid Search,33.0
+1817,2024-09-25,East,Paid Search,40.0
+1818,2024-09-19,South,Social,27.0
+1819,2023-12-06,South,Organic,42.0
+1820,2024-05-22,South,Social,21.0
+1821,2024-10-09,South,Social,36.0
+1822,2024-02-01,SOUTH,Organic,33.0
+1823,2024-06-09,North,Social,41.0
+1824,2024-04-03,West,Social,21.0
+1825,2023-03-02,West,Organic,20.0
+1826,2023-05-25,West,Paid Search,40.0
+1827,2023-10-14,North,Paid Search,30.0
+1828,2024-11-28,West,Email,33.0
+1829,2024-05-04,East,Social,28.0
+1830,2024-03-15,North,Paid Search,42.0
+1831,2024-04-03,West,Paid Search,36.0
+1832,2024-03-31,West,Organic,36.0
+1833,2023-06-09,North,Organic,23.0
+1834,2023-12-30,West,Organic,38.0
+1835,2024-04-16,NORTH,Organic,25.0
+1836,2023-05-23,SOUTH,Organic,28.0
+1837,2024-09-12,North,Social,21.0
+1838,2023-07-19,North,Social,32.0
+1839,2024-01-09,West,Organic,43.0
+1840,2024-07-28,East,Social,36.0
+1841,2024-12-24,North,Organic,30.0
+1842,2024-05-03,West,Paid Search,34.0
+1843,2023-11-11,West,Referral,34.0
+1844,2023-06-29,West,Paid Search,34.0
+1845,2023-01-05,West,Organic,35.0
+1846,2024-07-21,West,Paid Search,
+1847,2024-11-10,East,Social,34.0
+1848,2024-06-09,South,Organic,18.0
+1849,2024-04-09,West,Referral,39.0
+1850,2023-04-24,North,Paid Search,24.0
+1851,2024-02-23,North,Organic,44.0
+1852,2023-11-02,South,Paid Search,18.0
+1853,2023-05-06,South,Social,49.0
+1854,2023-09-25,East,Paid Search,19.0
+1855,2024-06-29,West,Referral,23.0
+1856,2024-03-16,South,Referral,36.0
+1857,2024-10-12,East,Organic,39.0
+1858,2024-09-25,South,Organic,31.0
+1859,2023-07-16,East,Paid Search,42.0
+1860,2024-10-19,North,Social,26.0
+1861,2023-06-22,North,Social,30.0
+1862,2023-09-09,East,Organic,31.0
+1863,2024-11-21,East,Referral,29.0
+1864,2023-08-01,South,Paid Search,18.0
+1865,2024-09-12,South,Email,33.0
+1866,2024-05-31,North,Email,32.0
+1867,2023-07-11,East,Organic,43.0
+1868,2024-07-31,South,Organic,22.0
+1869,2023-05-29,South,Organic,28.0
+1870,2023-07-09,West,Referral,44.0
+1871,2024-10-12,East,Paid Search,36.0
+1872,2024-10-05,North,Email,38.0
+1873,2024-03-19,East,Paid Search,
+1874,2024-02-06,North,Paid Search,38.0
+1875,2024-04-13,North,Referral,50.0
+1876,2023-11-01,East,Paid Search,34.0
+1877,2023-02-02,North,Social,
+1878,2024-04-01,South,Paid Search,
+1879,2024-04-28,West,Organic,28.0
+1880,2024-01-27,East,Organic,33.0
+1881,2024-12-20,West,Organic,37.0
+1882,2024-06-24,West,Social,
+1883,2024-10-03,South,Paid Search,29.0
+1884,2023-11-04,East,Paid Search,38.0
+1885,2023-09-28,South,Organic,29.0
+1886,2024-10-03,East,Social,42.0
+1887,2024-12-20,South,Email,25.0
+1888,2024-11-21,North,Social,25.0
+1889,2023-11-07,North,Referral,51.0
+1890,2024-07-15,West,Organic,20.0
+1891,2024-09-28,North,Organic,33.0
+1892,2024-08-19,East,Paid Search,50.0
+1893,2024-09-04,West,Organic,33.0
+1894,2023-03-12,West,Social,46.0
+1895,2024-04-01,South,Email,39.0
+1896,2023-03-15,North,Organic,33.0
+1897,2024-12-21,West,Referral,32.0
+1898,2024-08-26,East,Organic,18.0
+1899,2024-10-27,South,Social,31.0
+1900,2023-06-27,West,Paid Search,36.0
+1901,2024-11-16,North,Social,36.0
+1902,2024-04-04,South,Organic,56.0
+1903,2024-01-28,North,Referral,36.0
+1904,2024-04-14,North,Referral,39.0
+1905,2024-03-31,South,Paid Search,44.0
+1906,2024-10-25,East,Paid Search,38.0
+1907,2024-12-02,South,Social,33.0
+1908,2024-10-29,East,Social,33.0
+1909,2024-07-15,West,Paid Search,30.0
+1910,2023-07-25,West,Social,
+1911,2023-10-02,North,Email,32.0
+1912,2023-08-18,West,Social,39.0
+1913,2023-08-03,North,Organic,24.0
+1914,2024-08-17,East,Referral,35.0
+1915,2024-12-15,South,Organic,47.0
+1916,2024-04-16,East,Organic,31.0
+1917,2024-02-18,North,Referral,50.0
+1918,2024-05-18,EAST,Organic,35.0
+1919,2024-01-01,North,Organic,33.0
+1920,2024-11-11,North,Social,35.0
+1921,2024-08-11,East,Email,31.0
+1922,2023-02-05,South,Organic,18.0
+1923,2024-07-30,East,Paid Search,41.0
+1924,2024-08-22,East,Organic,53.0
+1925,2023-11-02,East,Paid Search,
+1926,2024-01-01,East,Paid Search,38.0
+1927,2024-11-13,West,Organic,32.0
+1928,2023-07-03,West,Referral,44.0
+1929,2024-06-21,North,Social,33.0
+1930,2023-08-23,East,Email,36.0
+1931,2024-10-01,West,Referral,19.0
+1932,2024-10-14,North,Referral,29.0
+1933,2024-07-18,North,Social,37.0
+1934,2023-11-30,North,Paid Search,42.0
+1935,2023-12-21,East,Email,42.0
+1936,2024-12-12,South,Paid Search,19.0
+1937,2024-11-15,East,Organic,20.0
+1938,2024-04-13,East,Paid Search,39.0
+1939,2023-12-18,East,Paid Search,27.0
+1940,2024-07-17,North,Paid Search,42.0
+1941,2023-09-30,West,Email,19.0
+1942,2024-12-26,East,Paid Search,33.0
+1943,2024-05-12,North,Organic,33.0
+1944,2024-06-06,North,Organic,38.0
+1945,2024-09-30,South,Email,24.0
+1946,2024-07-22,West,Paid Search,18.0
+1947,2024-09-29,South,Paid Search,35.0
+1948,2024-01-03,North,Email,38.0
+1949,2023-10-05,North,Email,43.0
+1950,2024-12-13,North,Paid Search,30.0
+1951,2024-09-15,South,Social,40.0
+1952,2023-08-14,West,Organic,38.0
+1953,2023-09-22,South,Referral,45.0
+1954,2024-10-10,West,Social,33.0
+1955,2024-04-01,North,Social,18.0
+1956,2024-03-04,SOUTH,Organic,33.0
+1957,2024-08-06,West,Social,34.0
+1958,2024-12-12,East,Paid Search,38.0
+1959,2024-04-11,West,Paid Search,20.0
+1960,2024-06-19,North,Social,31.0
+1961,2024-10-13,South,Email,41.0
+1962,2023-10-07,East,Paid Search,33.0
+1963,2024-04-17,North,Email,31.0
+1964,2024-07-11,West,Organic,51.0
+1965,2024-11-01,South,Social,24.0
+1966,2024-06-03,North,Organic,45.0
+1967,2024-02-07,West,Organic,43.0
+1968,2023-11-02,East,Email,31.0
+1969,2024-03-23,West,Organic,33.0
+1970,2024-11-03,West,Referral,33.0
+1971,2023-11-28,North,Paid Search,35.0
+1972,2023-07-02,east ,Social,28.0
+1973,2024-09-21,West,Organic,30.0
+1974,2023-05-30,North,Social,30.0
+1975,2024-11-11,South,Referral,31.0
+1976,2024-08-28,West,Social,31.0
+1977,2024-10-14,North,Paid Search,18.0
+1978,2023-05-20,West,Email,34.0
+1979,2024-02-13,South,Social,29.0
+1980,2024-10-30,West,Organic,18.0
+1981,2023-06-22,East,Social,30.0
+1982,2024-12-12,East,Social,30.0
+1983,2024-01-01,West,Email,45.0
+1984,2023-12-04,North,Paid Search,29.0
+1985,2023-12-30,East,Paid Search,40.0
+1986,2024-12-05,West,Referral,46.0
+1987,2023-08-18,WEST,Social,28.0
+1988,2024-02-26,West,Paid Search,33.0
+1989,2023-10-18,East,Referral,49.0
+1990,2023-06-25,East,Organic,
+1991,2024-06-07,East,Paid Search,37.0
+1992,2024-04-08,East,Email,30.0
+1993,2023-08-17,East,Social,40.0
+1994,2023-08-19,North,Referral,33.0
+1995,2024-02-06,North,Social,18.0
+1996,2024-08-11,East,Paid Search,30.0
+1997,2024-06-12,South,Paid Search,23.0
+1998,2024-05-16,South,Organic,35.0
+1999,2024-01-15,North,Referral,25.0
+2000,2023-11-12,West,Organic,38.0
+2001,2023-07-12,West,Paid Search,34.0
+2002,2023-08-26,East,Paid Search,22.0
+2003,2024-12-12,West,Organic,29.0
+2004,2024-11-12,West,Organic,39.0
+2005,2023-05-29,North,Social,44.0
+2006,2024-09-11,North,Organic,25.0
+2007,2024-03-12,North,Referral,24.0
+2008,2024-11-18,NORTH,Referral,51.0
+2009,2023-02-10,East,Organic,33.0
+2010,2024-06-21,South,Email,34.0
+2011,2024-03-22,West,Paid Search,27.0
+2012,2024-02-24,East,Organic,35.0
+2013,2024-02-01,South,Paid Search,49.0
+2014,2024-08-18,West,Email,36.0
+2015,2023-11-20,West,Social,
+2016,2023-02-09,West,Organic,34.0
+2017,2023-08-12,West,Social,24.0
+2018,2023-03-21,West,Social,27.0
+2019,2024-11-09,East,Social,23.0
+2020,2024-03-27,West,Paid Search,35.0
+2021,2024-01-08,North,Email,45.0
+2022,2024-09-17,East,Social,35.0
+2023,2024-02-26,South,Organic,
+2024,2023-07-04,North,Email,26.0
+2025,2024-06-26,North,Paid Search,37.0
+2026,2023-03-13,North,Social,22.0
+2027,2023-04-19,South,Social,23.0
+2028,2023-01-13,North,Paid Search,42.0
+2029,2023-08-05,South,Organic,31.0
+2030,2024-10-06,West,Social,31.0
+2031,2024-07-11,East,Email,32.0
+2032,2024-05-30,East,Email,40.0
+2033,2023-12-05,North,Social,35.0
+2034,2023-11-01,West,Organic,27.0
+2035,2023-06-20,North,Paid Search,27.0
+2036,2024-05-18,South,Email,32.0
+2037,2023-04-12,South,Paid Search,36.0
+2038,2023-05-11,West,Social,33.0
+2039,2024-09-22,West,Paid Search,32.0
+2040,2023-10-29,West,Organic,34.0
+2041,2023-12-20,East,Social,33.0
+2042,2024-01-12,East,Social,26.0
+2043,2023-10-27,East,Social,43.0
+2044,2023-07-28,North,Organic,29.0
+2045,2024-04-06,North,Email,35.0
+2046,2024-03-05,West,Paid Search,18.0
+2047,2023-08-02,West,Email,32.0
+2048,2024-09-07,South,Social,24.0
+2049,2023-12-11,North,Paid Search,25.0
+2050,2023-08-22,North,Social,55.0
+2051,2024-06-07,South,Social,36.0
+2052,2024-10-16,North,Paid Search,45.0
+2053,2024-03-12,east ,Social,41.0
+2054,2023-04-16,North,Organic,42.0
+2055,2024-11-11,North,Referral,32.0
+2056,2024-08-22,North,Paid Search,48.0
+2057,2024-04-03,West,Organic,41.0
+2058,2023-08-27,South,Email,34.0
+2059,2024-07-01,South,Organic,36.0
+2060,2024-01-12,East,Referral,
+2061,2023-03-20,West,Paid Search,34.0
+2062,2024-05-09,South,Organic,33.0
+2063,2023-05-15,EAST,Organic,37.0
+2064,2024-01-06,South,Organic,49.0
+2065,2023-01-23,East,Organic,23.0
+2066,2024-10-03,South,Organic,44.0
+2067,2023-11-28,West,Paid Search,30.0
+2068,2023-10-11,West,Paid Search,45.0
+2069,2024-10-11,West,Paid Search,30.0
+2070,2024-08-11,West,Organic,37.0
+2071,2024-06-16,North,Organic,32.0
+2072,2024-11-15,East,Organic,18.0
+2073,2023-02-16,North,Organic,49.0
+2074,2023-08-17,North,Paid Search,25.0
+2075,2024-07-16,East,Organic,34.0
+2076,2024-02-23,West,Paid Search,24.0
+2077,2024-09-10,East,Referral,21.0
+2078,2023-02-12,West,Organic,32.0
+2079,2024-02-05,East,Organic,28.0
+2080,2024-11-15,West,Social,23.0
+2081,2024-08-04,West,Paid Search,33.0
+2082,2024-08-17,West,Organic,20.0
+2083,2024-07-23,North,Email,35.0
+2084,2023-02-24,East,Social,32.0
+2085,2024-07-20,East,Referral,18.0
+2086,2024-05-13,West,Referral,29.0
+2087,2024-03-22,North,Social,38.0
+2088,2024-11-04,South,Social,24.0
+2089,2024-12-18,South,Paid Search,38.0
+2090,2024-02-14,South,Email,37.0
+2091,2024-01-07,West,Social,24.0
+2092,2024-02-02,North,Paid Search,33.0
+2093,2023-03-10,South,Organic,41.0
+2094,2024-09-13,East,Social,26.0
+2095,2023-05-18,South,Paid Search,32.0
+2096,2024-07-02,North,Email,44.0
+2097,2023-09-27,East,Organic,26.0
+2098,2024-07-16,East,Email,38.0
+2099,2024-05-15,West,Organic,24.0
+2100,2024-03-31,West,Social,32.0
+2101,2024-08-09,West,Paid Search,38.0
+2102,2023-03-16,North,Paid Search,18.0
+2103,2023-12-25,West,Paid Search,29.0
+2104,2024-03-26,East,Organic,37.0
+2105,2024-04-19,East,Organic,36.0
+2106,2023-06-29,South,Email,29.0
+2107,2023-10-13,North,Organic,24.0
+2108,2023-07-18,North,Social,39.0
+2109,2024-11-07,West,Social,31.0
+2110,2024-11-28,West,Organic,38.0
+2111,2023-12-11,North,Email,37.0
+2112,2024-12-29,East,Email,29.0
+2113,2023-10-08,East,Email,43.0
+2114,2024-06-07,east ,Email,28.0
+2115,2024-04-20,South,Social,150.0
+2116,2024-08-07,West,Referral,45.0
+2117,2024-04-18,East,Organic,43.0
+2118,2024-03-28,East,Organic,32.0
+2119,2023-05-31,East,Social,56.0
+2120,2023-07-25,East,Organic,35.0
+2121,2024-06-01,North,Social,36.0
+2122,2024-04-15,West,Paid Search,33.0
+2123,2023-03-24,South,Paid Search,23.0
+2124,2024-02-11,West,Email,45.0
+2125,2023-06-13,West,Organic,28.0
+2126,2024-08-19,East,Organic,42.0
+2127,2024-01-20,East,Social,44.0
+2128,2024-02-25,North,Email,39.0
+2129,2023-12-26,South,Email,27.0
+2130,2023-04-22,East,Organic,30.0
+2131,2024-05-20,North,Email,18.0
+2132,2024-09-09,NORTH,Social,32.0
+2133,2023-11-06,West,Email,41.0
+2134,2023-07-04,South,Organic,31.0
+2135,2023-10-09,South,Paid Search,28.0
+2136,2023-07-24,North,Paid Search,31.0
+2137,2023-02-27,East,Social,44.0
+2138,2024-11-09,South,Organic,33.0
+2139,2024-03-10,West,Paid Search,50.0
+2140,2024-10-10,South,Social,28.0
+2141,2024-09-25,North,Paid Search,35.0
+2142,2023-07-13,South,Paid Search,30.0
+2143,2023-02-10,North,Organic,52.0
+2144,2023-03-09,West,Email,35.0
+2145,2023-04-25,North,Social,53.0
+2146,2024-06-23,north ,Social,30.0
+2147,2023-08-24,South,Referral,47.0
+2148,2023-08-09,North,Social,35.0
+2149,2024-01-23,East,Organic,41.0
+2150,2024-01-09,South,Social,23.0
+2151,2023-05-09,West,Referral,37.0
+2152,2023-02-27,North,Organic,24.0
+2153,2024-12-21,East,Social,36.0
+2154,2023-09-26,East,Organic,20.0
+2155,2023-07-14,North,Email,33.0
+2156,2024-12-12,East,Social,43.0
+2157,2024-07-14,West,Referral,38.0
+2158,2024-01-04,West,Social,22.0
+2159,2023-07-26,West,Organic,18.0
+2160,2024-10-14,East,Paid Search,38.0
+2161,2023-10-06,South,Referral,48.0
+2162,2024-09-12,West,Organic,25.0
+2163,2024-06-08,North,Organic,52.0
+2164,2024-08-20,East,Social,33.0
+2165,2024-09-20,West,Paid Search,18.0
+2166,2024-03-18,West,Organic,19.0
+2167,2024-02-11,West,Organic,150.0
+2168,2023-08-16,North,Paid Search,35.0
+2169,2023-08-19,East,Social,47.0
+2170,2024-06-03,North,Paid Search,23.0
+2171,2024-02-17,West,Paid Search,35.0
+2172,2023-06-07,East,Email,34.0
+2173,2024-03-02,North,Organic,32.0
+2174,2024-07-29,West,Social,30.0
+2175,2023-06-01,South,Paid Search,30.0
+2176,2023-11-14,EAST,Paid Search,35.0
+2177,2023-09-14,West,Social,36.0
+2178,2024-02-10,East,Social,36.0
+2179,2023-12-20,East,Referral,44.0
+2180,2024-01-17,NORTH,Organic,23.0
+2181,2024-04-19,North,Organic,18.0
+2182,2023-12-09,North,Paid Search,43.0
+2183,2023-11-17,South,Paid Search,25.0
+2184,2024-06-14,South,Organic,30.0
+2185,2023-03-01,East,Email,28.0
+2186,2023-10-02,East,Email,28.0
+2187,2024-03-12,North,Paid Search,20.0
+2188,2024-04-20,East,Paid Search,28.0
+2189,2023-12-31,West,Organic,39.0
+2190,2023-06-25,NORTH,Paid Search,33.0
+2191,2023-08-11,East,Social,38.0
+2192,2023-06-19,North,Email,29.0
+2193,2024-06-23,East,Paid Search,42.0
+2194,2024-10-26,West,Organic,29.0
+2195,2023-02-13,NORTH,Organic,
+2196,2024-10-07,South,Organic,36.0
+2197,2024-02-08,West,Referral,40.0
+2198,2024-07-16,North,Email,28.0
+2199,2024-04-11,East,Email,44.0
+2200,2024-11-13,east ,Email,26.0
+2201,2024-09-26,North,Organic,40.0
+2202,2023-08-30,West,Social,49.0
+2203,2023-04-18,East,Social,34.0
+2204,2024-03-07,North,Organic,31.0
+2205,2024-06-16,West,Paid Search,33.0
+2206,2023-12-05,South,Social,48.0
+2207,2024-03-10,West,Email,37.0
+2208,2023-10-08,North,Organic,53.0
+2209,2024-09-25,North,Email,36.0
+2210,2023-01-27,West,Referral,28.0
+2211,2023-12-03,East,Referral,
+2212,2024-06-03,North,Organic,34.0
+2213,2023-09-21,West,Organic,18.0
+2214,2024-08-04,South,Social,29.0
+2215,2024-08-18,South,Paid Search,29.0
+2216,2024-02-09,West,Organic,36.0
+2217,2024-07-29,East,Email,51.0
+2218,2023-07-01,South,Organic,34.0
+2219,2023-11-25,West,Paid Search,18.0
+2220,2024-09-27,East,Referral,25.0
+2221,2024-08-14,West,Paid Search,36.0
+2222,2023-03-28,West,Referral,34.0
+2223,2023-06-05,South,Paid Search,48.0
+2224,2024-06-02,South,Paid Search,42.0
+2225,2024-07-30,West,Organic,42.0
+2226,2023-02-20,West,Paid Search,32.0
+2227,2023-06-03,North,Paid Search,
+2228,2023-08-30,North,Email,25.0
+2229,2024-11-13,South,Referral,42.0
+2230,2024-11-18,West,Organic,31.0
+2231,2024-03-09,West,Organic,20.0
+2232,2024-10-31,West,Social,39.0
+2233,2023-10-29,North,Paid Search,46.0
+2234,2024-12-27,West,Organic,30.0
+2235,2023-10-02,North,Organic,48.0
+2236,2023-05-16,SOUTH,Organic,19.0
+2237,2024-08-15,South,Paid Search,23.0
+2238,2024-02-23,East,Organic,32.0
+2239,2023-12-04,east ,Social,30.0
+2240,2023-12-14,North,Paid Search,27.0
+2241,2024-03-04,North,Paid Search,35.0
+2242,2024-12-12,WEST,Paid Search,29.0
+2243,2024-05-27,North,Organic,30.0
+2244,2024-12-18,South,Email,36.0
+2245,2023-08-09,North,Social,27.0
+2246,2024-11-20,South,Email,33.0
+2247,2024-01-18,North,Paid Search,28.0
+2248,2024-12-23,East,Paid Search,23.0
+2249,2023-10-17,South,Organic,40.0
+2250,2024-09-20,South,Paid Search,49.0
+2251,2024-09-17,West,Social,43.0
+2252,2024-05-05,North,Paid Search,36.0
+2253,2024-08-25,west ,Organic,28.0
+2254,2024-08-13,North,Organic,31.0
+2255,2023-11-25,West,Organic,
+2256,2023-11-09,North,Paid Search,18.0
+2257,2023-08-17,East,Social,30.0
+2258,2024-11-19,East,Referral,40.0
+2259,2023-12-03,East,Organic,23.0
+2260,2024-08-05,West,Organic,37.0
+2261,2023-02-11,North,Organic,37.0
+2262,2023-12-01,South,Organic,
+2263,2024-01-13,West,Social,34.0
+2264,2023-04-27,West,Organic,28.0
+2265,2024-03-19,South,Referral,37.0
+2266,2024-04-01,East,Email,40.0
+2267,2024-12-13,West,Paid Search,37.0
+2268,2024-02-01,West,Referral,34.0
+2269,2023-07-21,West,Social,36.0
+2270,2024-08-08,West,Referral,23.0
+2271,2023-03-26,South,Organic,33.0
+2272,2024-05-14,East,Referral,26.0
+2273,2023-07-22,South,Organic,43.0
+2274,2023-07-08,North,Paid Search,40.0
+2275,2023-08-13,West,Referral,40.0
+2276,2023-05-05,East,Paid Search,49.0
+2277,2023-10-08,North,Organic,31.0
+2278,2024-12-11,East,Organic,29.0
+2279,2024-11-21,SOUTH,Organic,30.0
+2280,2024-04-24,North,Paid Search,19.0
+2281,2024-09-03,East,Paid Search,20.0
+2282,2024-02-27,East,Paid Search,39.0
+2283,2024-08-30,South,Email,21.0
+2284,2023-09-13,North,Organic,24.0
+2285,2023-07-07,east ,Email,33.0
+2286,2024-08-02,North,Social,30.0
+2287,2024-08-15,West,Email,41.0
+2288,2024-01-18,North,Email,34.0
+2289,2023-07-12,West,Referral,26.0
+2290,2023-06-30,North,Organic,42.0
+2291,2024-01-18,North,Social,40.0
+2292,2024-12-08,South,Referral,
+2293,2024-02-15,West,Social,36.0
+2294,2024-12-28,West,Organic,27.0
+2295,2023-06-08,East,Social,27.0
+2296,2023-07-29,South,Email,50.0
+2297,2024-08-05,North,Organic,35.0
+2298,2023-07-04,East,Social,32.0
+2299,2024-01-19,South,Email,34.0
+2300,2023-11-07,West,Paid Search,41.0
+2301,2024-07-22,South,Organic,27.0
+2302,2024-05-23,West,Paid Search,29.0
+2303,2024-08-26,West,Social,39.0
+2304,2024-01-29,North,Paid Search,20.0
+2305,2024-07-14,South,Social,42.0
+2306,2024-07-03,West,Paid Search,19.0
+2307,2023-03-11,South,Email,31.0
+2308,2024-09-09,east ,Email,19.0
+2309,2024-12-22,West,Email,24.0
+2310,2024-12-27,North,Paid Search,45.0
+2311,2024-04-29,West,Organic,43.0
+2312,2024-08-14,South,Social,44.0
+2313,2023-02-24,East,Organic,20.0
+2314,2024-12-01,South,Paid Search,24.0
+2315,2023-07-29,East,Organic,37.0
+2316,2024-06-08,North,Paid Search,40.0
+2317,2024-02-21,NORTH,Social,26.0
+2318,2023-10-26,South,Paid Search,28.0
+2319,2023-08-01,South,Paid Search,23.0
+2320,2024-02-11,East,Organic,48.0
+2321,2024-12-14,North,Paid Search,29.0
+2322,2023-08-13,North,Paid Search,34.0
+2323,2024-03-31,North,Email,34.0
+2324,2024-12-07,South,Email,43.0
+2325,2023-12-26,North,Referral,25.0
+2326,2023-11-02,North,Organic,44.0
+2327,2023-10-04,East,Organic,22.0
+2328,2023-08-29,West,Paid Search,44.0
+2329,2024-12-26,East,Social,18.0
+2330,2024-10-10,North,Social,33.0
+2331,2023-02-13,West,Email,48.0
+2332,2024-04-09,East,Paid Search,40.0
+2333,2024-03-03,East,Social,37.0
+2334,2024-01-08,North,Referral,24.0
+2335,2024-11-04,North,Organic,27.0
+2336,2024-02-22,South,Email,46.0
+2337,2024-06-05,North,Social,38.0
+2338,2024-12-15,East,Organic,42.0
+2339,2023-09-01,South,Referral,34.0
+2340,2023-10-01,North,Email,31.0
+2341,2024-07-20,North,Email,40.0
+2342,2024-04-17,North,Organic,
+2343,2024-07-30,South,Organic,32.0
+2344,2024-05-16,North,Social,21.0
+2345,2024-07-22,East,Organic,42.0
+2346,2024-08-07,South,Organic,37.0
+2347,2024-04-08,East,Paid Search,28.0
+2348,2024-01-31,West,Organic,44.0
+2349,2024-12-09,West,Social,36.0
+2350,2023-06-12,East,Paid Search,36.0
+2351,2023-11-08,South,Organic,41.0
+2352,2023-12-06,East,Paid Search,40.0
+2353,2023-10-11,West,Organic,36.0
+2354,2024-11-22,South,Organic,32.0
+2355,2023-04-03,North,Paid Search,51.0
+2356,2023-05-06,West,Paid Search,27.0
+2357,2023-09-13,North,Paid Search,40.0
+2358,2023-06-10,West,Social,33.0
+2359,2024-07-18,North,Paid Search,38.0
+2360,2024-07-26,North,Social,45.0
+2361,2024-09-24,West,Paid Search,31.0
+2362,2024-07-06,East,Social,39.0
+2363,2024-05-25,East,Social,36.0
+2364,2023-02-06,West,Organic,28.0
+2365,2024-07-11,West,Social,45.0
+2366,2023-11-08,South,Email,40.0
+2367,2023-08-24,West,Organic,30.0
+2368,2024-11-30,South,Social,43.0
+2369,2024-10-21,North,Email,26.0
+2370,2024-02-07,West,Organic,33.0
+2371,2024-08-03,South,Referral,30.0
+2372,2024-03-13,West,Paid Search,40.0
+2373,2023-12-04,North,Social,29.0
+2374,2024-10-14,North,Email,40.0
+2375,2024-04-12,North,Referral,39.0
+2376,2024-09-13,EAST,Social,30.0
+2377,2024-10-23,West,Social,50.0
+2378,2023-04-17,South,Organic,27.0
+2379,2024-07-26,North,Organic,21.0
+2380,2024-05-04,South,Email,41.0
+2381,2023-11-30,South,Paid Search,18.0
+2382,2024-12-06,East,Email,47.0
+2383,2024-04-26,East,Organic,34.0
+2384,2023-11-23,North,Organic,21.0
+2385,2024-08-27,South,Organic,25.0
+2386,2024-04-21,East,Paid Search,19.0
+2387,2024-05-24,North,Organic,37.0
+2388,2023-11-25,South,Paid Search,22.0
+2389,2024-01-22,East,Referral,38.0
+2390,2024-02-14,South,Email,31.0
+2391,2023-10-07,North,Email,29.0
+2392,2023-08-28,North,Organic,38.0
+2393,2023-07-07,West,Paid Search,39.0
+2394,2024-10-04,North,Social,44.0
+2395,2023-05-20,West,Organic,28.0
+2396,2023-05-28,South,Paid Search,33.0
+2397,2024-07-12,South,Referral,28.0
+2398,2024-01-07,West,Organic,35.0
+2399,2023-07-23,South,Referral,26.0
+2400,2024-06-22,North,Organic,30.0
+2401,2024-12-01,North,Organic,30.0
+2402,2023-09-10,East,Organic,36.0
+2403,2024-12-08,South,Referral,34.0
+2404,2024-08-24,West,Social,38.0
+2405,2023-09-22,South,Email,33.0
+2406,2023-04-21,South,Paid Search,28.0
+2407,2024-09-15,South,Email,
+2408,2024-12-10,North,Social,25.0
+2409,2024-08-11,West,Social,39.0
+2410,2023-01-31,North,Email,31.0
+2411,2023-08-27,West,Email,35.0
+2412,2023-03-22,NORTH,Social,35.0
+2413,2024-09-01,East,Organic,48.0
+2414,2023-10-05,North,Email,37.0
+2415,2024-09-23,West,Organic,34.0
+2416,2024-07-20,North,Referral,27.0
+2417,2023-04-01,East,Paid Search,41.0
+2418,2023-03-01,West,Organic,31.0
+2419,2024-10-07,East,Paid Search,20.0
+2420,2023-12-30,North,Social,32.0
+2421,2024-09-24,West,Paid Search,35.0
+2422,2023-01-24,South,Email,26.0
+2423,2024-12-22,North,Social,32.0
+2424,2023-02-17,South,Organic,33.0
+2425,2024-07-27,West,Paid Search,33.0
+2426,2023-08-20,South,Email,45.0
+2427,2024-07-09,West,Email,22.0
+2428,2023-07-25,East,Paid Search,52.0
+2429,2023-09-08,South,Referral,33.0
+2430,2024-07-17,South,Organic,39.0
+2431,2023-12-24,East,Social,35.0
+2432,2023-08-02,South,Email,18.0
+2433,2024-02-17,North,Paid Search,24.0
+2434,2023-08-11,South,Organic,29.0
+2435,2024-09-26,West,Social,42.0
+2436,2024-01-29,South,Paid Search,21.0
+2437,2024-08-06,North,Organic,
+2438,2024-10-16,North,Organic,35.0
+2439,2024-04-30,North,Email,38.0
+2440,2023-06-03,West,Organic,37.0
+2441,2024-01-04,East,Paid Search,25.0
+2442,2023-11-26,East,Referral,19.0
+2443,2024-02-17,West,Email,38.0
+2444,2024-04-27,South,Paid Search,46.0
+2445,2024-12-03,West,Paid Search,30.0
+2446,2024-10-07,West,Organic,23.0
+2447,2023-10-30,West,Paid Search,30.0
+2448,2024-04-18,East,Organic,37.0
+2449,2024-03-24,South,Organic,31.0
+2450,2024-11-15,West,Organic,46.0
+2451,2023-08-20,North,Social,42.0
+2452,2024-07-28,West,Organic,35.0
+2453,2023-02-16,South,Organic,18.0
+2454,2023-01-23,East,Email,
+2455,2024-02-27,West,Organic,29.0
+2456,2023-01-20,East,Social,27.0
+2457,2023-06-06,North,Paid Search,35.0
+2458,2024-04-30,East,Social,35.0
+2459,2023-10-13,West,Organic,18.0
+2460,2024-11-11,East,Organic,41.0
+2461,2023-11-22,West,Email,34.0
+2462,2024-08-02,West,Paid Search,37.0
+2463,2023-10-22,West,Organic,40.0
+2464,2024-05-30,South,Paid Search,27.0
+2465,2024-12-28,South,Paid Search,45.0
+2466,2024-02-29,West,Organic,32.0
+2467,2023-08-18,West,Paid Search,47.0
+2468,2023-08-23,North,Paid Search,25.0
+2469,2024-05-08,North,Social,46.0
+2470,2023-06-16,South,Email,25.0
+2471,2023-10-16,West,Paid Search,56.0
+2472,2024-10-29,West,Email,25.0
+2473,2024-04-22,East,Paid Search,43.0
+2474,2024-08-06,North,Paid Search,30.0
+2475,2024-03-22,South,Social,40.0
+2476,2023-10-19,West,Social,33.0
+2477,2023-06-09,South,Organic,
+2478,2023-09-15,NORTH,Referral,18.0
+2479,2024-12-22,South,Referral,56.0
+2480,2023-12-24,West,Organic,34.0
+2481,2024-12-28,South,Social,18.0
+2482,2024-06-23,North,Email,36.0
+2483,2024-08-03,south ,Referral,40.0
+2484,2024-07-15,West,Social,27.0
+2485,2023-06-08,South,Organic,27.0
+2486,2023-07-19,South,Social,33.0
+2487,2023-09-28,North,Organic,44.0
+2488,2024-01-08,South,Social,34.0
+2489,2024-09-20,West,Social,47.0
+2490,2024-11-18,West,Social,44.0
+2491,2024-01-21,South,Organic,31.0
+2492,2024-04-26,West,Paid Search,19.0
+2493,2023-07-05,South,Social,31.0
+2494,2023-08-01,West,Paid Search,38.0
+2495,2024-07-04,North,Organic,34.0
+2496,2024-11-17,South,Organic,39.0
+2497,2024-12-08,West,Email,41.0
+2498,2024-08-05,West,Paid Search,
+2499,2023-09-25,West,Social,31.0
+2500,2024-01-07,East,Paid Search,38.0
+2501,2024-11-27,West,Email,54.0
+2502,2023-09-25,East,Paid Search,20.0
+2503,2024-02-11,North,Organic,38.0
+2504,2023-07-21,South,Organic,50.0
+2505,2023-10-25,East,Organic,23.0
+2506,2023-03-15,East,Email,43.0
+2507,2024-11-29,West,Social,150.0
+2508,2024-11-17,South,Email,20.0
+2509,2023-08-19,North,Social,40.0
+2510,2023-07-24,North,Email,31.0
+2511,2024-05-20,West,Referral,33.0
+2512,2024-07-27,North,Social,
+2513,2024-09-20,West,Organic,45.0
+2514,2023-08-01,North,Organic,32.0
+2515,2024-12-05,South,Social,29.0
+2516,2024-11-02,West,Email,29.0
+2517,2024-05-03,South,Social,30.0
+2518,2024-01-25,West,Paid Search,24.0
+2519,2024-06-02,North,Social,29.0
+2520,2024-07-01,South,Paid Search,35.0
+2521,2023-06-25,East,Organic,37.0
+2522,2023-12-12,west ,Email,44.0
+2523,2023-01-04,North,Social,36.0
+2524,2024-03-26,South,Organic,29.0
+2525,2023-10-19,East,Paid Search,24.0
+2526,2024-08-07,West,Social,36.0
+2527,2024-04-29,West,Paid Search,32.0
+2528,2024-03-21,West,Organic,33.0
+2529,2023-07-06,South,Social,36.0
+2530,2024-11-25,East,Social,38.0
+2531,2024-04-20,West,Organic,36.0
+2532,2023-10-05,West,Paid Search,32.0
+2533,2024-09-06,West,Social,26.0
+2534,2023-11-30,West,Paid Search,28.0
+2535,2023-12-14,West,Paid Search,41.0
+2536,2024-10-10,North,Paid Search,30.0
+2537,2024-05-01,South,Paid Search,21.0
+2538,2023-08-16,West,Email,44.0
+2539,2024-04-18,East,Paid Search,25.0
+2540,2024-07-22,North,Referral,34.0
+2541,2024-06-17,South,Paid Search,38.0
+2542,2023-04-08,East,Social,34.0
+2543,2024-11-21,West,Paid Search,18.0
+2544,2023-03-27,West,Email,37.0
+2545,2024-08-20,North,Email,45.0
+2546,2024-08-02,South,Paid Search,41.0
+2547,2024-10-05,North,Paid Search,18.0
+2548,2024-12-13,West,Referral,53.0
+2549,2023-10-13,North,Referral,22.0
+2550,2024-02-02,East,Referral,24.0
+2551,2023-04-28,East,Organic,41.0
+2552,2023-11-11,East,Organic,38.0
+2553,2024-06-27,East,Paid Search,34.0
+2554,2023-09-24,East,Social,28.0
+2555,2024-10-10,East,Organic,45.0
+2556,2023-02-05,North,Paid Search,33.0
+2557,2024-10-26,South,Social,19.0
+2558,2024-04-03,East,Organic,45.0
+2559,2023-12-07,South,Social,35.0
+2560,2024-06-05,West,Organic,
+2561,2024-08-20,SOUTH,Email,39.0
+2562,2024-03-04,West,Paid Search,55.0
+2563,2023-11-14,North,Social,31.0
+2564,2024-09-05,West,Paid Search,34.0
+2565,2024-06-03,North,Organic,40.0
+2566,2023-12-20,East,Paid Search,31.0
+2567,2024-08-11,South,Email,
+2568,2024-01-14,East,Paid Search,18.0
+2569,2024-02-22,North,Organic,33.0
+2570,2023-11-16,West,Social,33.0
+2571,2024-11-21,East,Organic,32.0
+2572,2023-12-13,West,Paid Search,26.0
+2573,2024-07-16,EAST,Paid Search,42.0
+2574,2023-06-07,East,Paid Search,29.0
+2575,2024-01-27,west ,Organic,35.0
+2576,2023-11-04,North,Organic,33.0
+2577,2024-08-17,East,Organic,38.0
+2578,2024-04-07,South,Paid Search,46.0
+2579,2024-06-27,West,Social,35.0
+2580,2023-10-02,North,Social,41.0
+2581,2024-03-03,South,Organic,35.0
+2582,2023-03-28,East,Organic,29.0
+2583,2023-09-14,South,Social,32.0
+2584,2024-02-28,North,Paid Search,
+2585,2024-11-08,South,Email,39.0
+2586,2024-08-01,West,Organic,34.0
+2587,2024-06-01,North,Organic,26.0
+2588,2024-01-28,South,Paid Search,32.0
+2589,2023-01-18,West,Social,20.0
+2590,2024-08-10,West,Paid Search,32.0
+2591,2023-02-10,North,Organic,34.0
+2592,2024-03-16,East,Organic,50.0
+2593,2024-08-24,North,Social,46.0
+2594,2023-09-25,West,Organic,24.0
+2595,2024-03-17,South,Social,35.0
+2596,2023-10-04,South,Organic,35.0
+2597,2024-02-12,North,Paid Search,31.0
+2598,2023-10-01,East,Organic,32.0
+2599,2024-08-11,North,Referral,30.0
+2600,2024-01-22,West,Organic,50.0
+2601,2024-10-08,South,Organic,30.0
+2602,2024-05-28,East,Email,37.0
+2603,2024-04-18,West,Organic,18.0
+2604,2023-02-21,North,Organic,41.0
+2605,2024-04-14,North,Organic,44.0
+2606,2023-03-15,South,Social,24.0
+2607,2024-09-11,West,Paid Search,29.0
+2608,2024-08-03,North,Email,38.0
+2609,2024-06-05,West,Social,34.0
+2610,2024-09-29,South,Paid Search,38.0
+2611,2024-09-22,East,Organic,31.0
+2612,2024-08-27,East,Email,50.0
+2613,2024-10-02,North,Email,27.0
+2614,2023-12-30,North,Email,58.0
+2615,2024-05-21,West,Organic,45.0
+2616,2024-08-26,South,Social,41.0
+2617,2023-02-03,East,Social,24.0
+2618,2024-04-12,West,Referral,42.0
+2619,2024-04-20,North,Organic,39.0
+2620,2024-09-17,South,Email,18.0
+2621,2024-08-12,South,Social,21.0
+2622,2024-02-11,North,Email,37.0
+2623,2023-11-05,WEST,Social,32.0
+2624,2023-04-19,West,Email,29.0
+2625,2024-05-07,SOUTH,Paid Search,43.0
+2626,2023-05-16,West,Organic,26.0
+2627,2023-09-03,North,Paid Search,29.0
+2628,2024-11-14,West,Email,28.0
+2629,2024-09-27,West,Organic,38.0
+2630,2023-07-31,North,Social,18.0
+2631,2023-10-28,East,Referral,29.0
+2632,2023-01-20,West,Email,18.0
+2633,2024-09-05,South,Social,31.0
+2634,2024-11-11,South,Email,40.0
+2635,2023-05-28,East,Organic,40.0
+2636,2024-11-01,North,Paid Search,27.0
+2637,2023-10-14,north ,Paid Search,38.0
+2638,2024-05-09,North,Email,32.0
+2639,2023-10-22,West,Organic,46.0
+2640,2023-10-04,South,Organic,32.0
+2641,2024-10-22,South,Social,18.0
+2642,2023-08-02,North,Paid Search,42.0
+2643,2023-10-26,north ,Email,
+2644,2023-05-02,East,Paid Search,31.0
+2645,2024-06-08,North,Email,37.0
+2646,2023-11-25,EAST,Paid Search,21.0
+2647,2024-02-14,South,Email,34.0
+2648,2024-12-24,East,Social,38.0
+2649,2023-03-19,South,Organic,37.0
+2650,2023-11-11,West,Paid Search,28.0
+2651,2024-10-15,North,Email,42.0
+2652,2024-10-26,West,Organic,25.0
+2653,2023-11-24,North,Social,28.0
+2654,2023-07-21,North,Organic,32.0
+2655,2024-03-13,East,Email,36.0
+2656,2023-12-21,North,Organic,31.0
+2657,2024-08-13,South,Social,45.0
+2658,2024-07-01,West,Social,36.0
+2659,2024-05-13,West,Organic,34.0
+2660,2024-03-28,east ,Paid Search,36.0
+2661,2023-12-08,West,Email,40.0
+2662,2023-05-20,South,Social,36.0
+2663,2023-04-27,north ,Referral,18.0
+2664,2024-06-30,West,Email,150.0
+2665,2023-11-04,north ,Social,35.0
+2666,2024-02-02,North,Social,40.0
+2667,2023-12-03,North,Referral,30.0
+2668,2024-10-17,South,Paid Search,18.0
+2669,2023-12-21,South,Paid Search,18.0
+2670,2023-10-16,South,Email,25.0
+2671,2024-07-15,East,Referral,38.0
+2672,2024-04-18,West,Paid Search,45.0
+2673,2023-03-28,WEST,Organic,36.0
+2674,2023-05-29,North,Social,24.0
+2675,2023-06-04,North,Social,26.0
+2676,2023-06-11,East,Paid Search,46.0
+2677,2024-12-15,North,Social,22.0
+2678,2024-03-24,South,Paid Search,
+2679,2023-04-20,East,Paid Search,50.0
+2680,2024-08-02,WEST,Social,53.0
+2681,2024-12-15,NORTH,Paid Search,37.0
+2682,2024-09-12,East,Email,30.0
+2683,2023-04-21,East,Organic,37.0
+2684,2024-04-02,West,Email,42.0
+2685,2024-07-06,South,Paid Search,28.0
+2686,2023-02-13,West,Referral,24.0
+2687,2023-12-30,west ,Email,31.0
+2688,2023-11-21,North,Organic,27.0
+2689,2023-12-20,East,Referral,45.0
+2690,2024-03-27,East,Paid Search,28.0
+2691,2024-01-20,North,Paid Search,34.0
+2692,2024-09-08,South,Referral,42.0
+2693,2024-12-15,South,Referral,45.0
+2694,2024-02-07,WEST,Social,
+2695,2024-04-20,North,Referral,37.0
+2696,2024-02-08,South,Paid Search,24.0
+2697,2024-05-31,North,Organic,43.0
+2698,2024-12-29,East,Organic,45.0
+2699,2023-10-13,East,Paid Search,18.0
+2700,2024-01-09,South,Social,49.0
+2701,2024-10-24,East,Paid Search,27.0
+2702,2023-11-20,South,Social,39.0
+2703,2023-08-27,South,Organic,34.0
+2704,2023-12-09,West,Paid Search,33.0
+2705,2024-01-19,north ,Social,32.0
+2706,2024-10-05,West,Organic,25.0
+2707,2024-01-07,East,Social,38.0
+2708,2024-07-07,West,Email,31.0
+2709,2024-08-14,NORTH,Social,22.0
+2710,2024-02-29,South,Email,24.0
+2711,2023-08-20,North,Referral,22.0
+2712,2024-07-16,West,Organic,29.0
+2713,2024-07-18,East,Social,38.0
+2714,2023-03-09,East,Organic,27.0
+2715,2024-11-29,East,Paid Search,42.0
+2716,2024-12-19,South,Social,32.0
+2717,2024-07-04,East,Social,31.0
+2718,2024-11-19,West,Email,34.0
+2719,2023-11-21,North,Social,46.0
+2720,2023-03-08,West,Email,21.0
+2721,2024-11-22,West,Social,48.0
+2722,2024-06-11,West,Organic,42.0
+2723,2024-03-10,West,Organic,33.0
+2724,2023-11-27,South,Paid Search,44.0
+2725,2024-03-04,East,Social,31.0
+2726,2024-10-02,North,Organic,36.0
+2727,2023-03-23,West,Paid Search,29.0
+2728,2024-10-24,North,Organic,42.0
+2729,2024-11-06,West,Social,27.0
+2730,2023-06-07,North,Paid Search,33.0
+2731,2024-08-25,North,Organic,40.0
+2732,2023-09-27,North,Organic,43.0
+2733,2023-02-01,East,Paid Search,26.0
+2734,2024-01-11,North,Paid Search,40.0
+2735,2024-02-24,North,Referral,25.0
+2736,2023-01-12,North,Organic,18.0
+2737,2024-11-26,South,Paid Search,27.0
+2738,2024-03-19,West,Social,41.0
+2739,2023-12-20,South,Social,33.0
+2740,2023-07-20,North,Paid Search,29.0
+2741,2024-07-01,North,Organic,34.0
+2742,2024-06-25,North,Referral,34.0
+2743,2024-10-23,South,Referral,39.0
+2744,2024-10-13,North,Paid Search,19.0
+2745,2024-09-14,North,Social,33.0
+2746,2024-02-24,North,Organic,35.0
+2747,2024-02-07,South,Organic,21.0
+2748,2023-09-25,West,Organic,21.0
+2749,2024-09-24,North,Social,
+2750,2024-01-23,East,Organic,34.0
+2751,2024-02-15,East,Organic,34.0
+2752,2024-10-04,West,Organic,28.0
+2753,2024-11-19,North,Organic,28.0
+2754,2024-05-18,West,Paid Search,30.0
+2755,2024-01-21,West,Paid Search,36.0
+2756,2024-10-09,West,Social,45.0
+2757,2024-10-20,West,Paid Search,18.0
+2758,2024-11-30,North,Paid Search,39.0
+2759,2024-09-08,West,Email,32.0
+2760,2024-10-09,West,Organic,38.0
+2761,2024-07-27,North,Organic,44.0
+2762,2023-12-01,North,Email,27.0
+2763,2024-02-10,West,Social,42.0
+2764,2024-05-10,North,Paid Search,22.0
+2765,2024-08-07,West,Organic,35.0
+2766,2024-03-30,South,Organic,
+2767,2024-08-15,East,Organic,34.0
+2768,2023-11-29,north ,Email,25.0
+2769,2024-11-17,East,Social,37.0
+2770,2024-10-26,South,Organic,48.0
+2771,2024-02-05,West,Organic,25.0
+2772,2024-02-14,North,Organic,35.0
+2773,2024-07-23,North,Organic,41.0
+2774,2023-07-25,North,Paid Search,31.0
+2775,2023-07-20,North,Paid Search,46.0
+2776,2023-12-08,West,Email,30.0
+2777,2024-12-23,North,Social,32.0
+2778,2024-12-02,North,Referral,25.0
+2779,2024-09-25,West,Email,35.0
+2780,2023-05-06,North,Referral,34.0
+2781,2023-02-01,North,Referral,39.0
+2782,2024-05-13,East,Paid Search,28.0
+2783,2024-04-06,South,Organic,27.0
+2784,2024-11-13,West,Organic,38.0
+2785,2024-05-18,East,Social,46.0
+2786,2023-05-09,South,Social,39.0
+2787,2024-01-07,East,Organic,50.0
+2788,2023-06-09,West,Email,38.0
+2789,2023-04-26,South,Email,38.0
+2790,2023-09-03,East,Social,40.0
+2791,2023-10-19,South,Paid Search,47.0
+2792,2024-09-14,East,Organic,45.0
+2793,2024-09-20,East,Paid Search,24.0
+2794,2023-11-17,North,Organic,41.0
+2795,2023-10-29,SOUTH,Social,36.0
+2796,2024-04-23,North,Paid Search,32.0
+2797,2023-07-25,East,Organic,18.0
+2798,2024-05-13,EAST,Paid Search,20.0
+2799,2023-03-26,South,Social,30.0
+2800,2024-11-08,North,Paid Search,20.0
+2801,2024-11-14,West,Referral,30.0
+2802,2024-11-07,South,Organic,
+2803,2024-10-01,North,Referral,28.0
+2804,2024-01-17,North,Organic,34.0
+2805,2023-12-08,East,Organic,24.0
+2806,2023-10-09,North,Referral,36.0
+2807,2023-09-02,West,Social,38.0
+2808,2023-01-08,East,Social,21.0
+2809,2024-11-08,North,Social,27.0
+2810,2024-08-01,East,Paid Search,22.0
+2811,2023-10-07,North,Email,38.0
+2812,2024-06-10,north ,Organic,35.0
+2813,2023-11-11,East,Email,33.0
+2814,2024-04-04,North,Referral,32.0
+2815,2023-11-11,West,Email,36.0
+2816,2024-02-19,East,Social,
+2817,2023-08-11,North,Social,29.0
+2818,2023-04-28,West,Paid Search,28.0
+2819,2023-02-03,East,Paid Search,33.0
+2820,2024-03-02,North,Email,32.0
+2821,2023-05-23,South,Social,52.0
+2822,2024-02-03,West,Paid Search,30.0
+2823,2024-08-17,South,Email,36.0
+2824,2024-06-23,South,Organic,38.0
+2825,2023-10-30,South,Email,46.0
+2826,2023-11-11,South,Email,26.0
+2827,2024-06-14,NORTH,Organic,46.0
+2828,2024-09-03,East,Organic,32.0
+2829,2024-03-13,West,Social,56.0
+2830,2023-07-04,East,Organic,37.0
+2831,2024-02-23,North,Referral,22.0
+2832,2023-10-20,South,Organic,32.0
+2833,2023-11-22,North,Organic,46.0
+2834,2024-07-06,South,Organic,34.0
+2835,2023-03-10,East,Email,33.0
+2836,2023-03-22,South,Social,40.0
+2837,2024-10-23,West,Email,30.0
+2838,2024-05-09,South,Referral,32.0
+2839,2024-11-23,East,Social,25.0
+2840,2024-06-05,West,Organic,49.0
+2841,2023-12-14,East,Organic,22.0
+2842,2024-04-18,West,Email,35.0
+2843,2024-02-03,West,Organic,38.0
+2844,2023-08-11,East,Email,33.0
+2845,2024-07-28,South,Email,22.0
+2846,2024-02-29,South,Social,25.0
+2847,2024-08-10,WEST,Social,38.0
+2848,2024-01-21,North,Referral,
+2849,2024-12-05,West,Email,18.0
+2850,2023-05-26,South,Social,37.0
+2851,2023-10-31,East,Paid Search,26.0
+2852,2024-06-22,South,Paid Search,
+2853,2024-06-14,West,Paid Search,32.0
+2854,2023-09-05,North,Referral,
+2855,2024-09-12,South,Social,34.0
+2856,2024-10-27,West,Email,23.0
+2857,2024-07-25,North,Organic,26.0
+2858,2024-12-14,North,Email,31.0
+2859,2024-01-31,West,Paid Search,23.0
+2860,2023-10-13,West,Social,40.0
+2861,2024-10-16,North,Organic,31.0
+2862,2024-02-04,East,Email,20.0
+2863,2023-07-27,North,Social,28.0
+2864,2024-04-01,North,Paid Search,34.0
+2865,2023-05-08,East,Paid Search,29.0
+2866,2023-12-28,North,Paid Search,37.0
+2867,2024-06-04,South,Paid Search,39.0
+2868,2023-01-26,North,Organic,55.0
+2869,2023-10-02,West,Paid Search,44.0
+2870,2023-09-01,East,Paid Search,19.0
+2871,2023-03-24,North,Paid Search,30.0
+2872,2024-11-13,West,Social,31.0
+2873,2023-04-01,West,Paid Search,39.0
+2874,2023-09-12,North,Organic,25.0
+2875,2024-03-13,west ,Email,29.0
+2876,2023-01-22,North,Paid Search,22.0
+2877,2024-01-11,South,Social,28.0
+2878,2024-03-15,South,Referral,28.0
+2879,2024-03-17,North,Email,31.0
+2880,2024-09-30,East,Paid Search,23.0
+2881,2024-12-29,East,Paid Search,42.0
+2882,2024-10-22,West,Email,38.0
+2883,2024-10-30,north ,Email,20.0
+2884,2024-04-12,North,Organic,34.0
+2885,2023-09-05,South,Social,19.0
+2886,2024-08-25,North,Email,46.0
+2887,2023-06-25,West,Email,48.0
+2888,2024-04-21,East,Organic,33.0
+2889,2024-12-18,West,Paid Search,26.0
+2890,2023-02-18,West,Paid Search,28.0
+2891,2023-09-15,north ,Organic,29.0
+2892,2023-05-10,north ,Social,33.0
+2893,2023-10-13,South,Paid Search,46.0
+2894,2023-11-07,West,Organic,42.0
+2895,2024-07-11,South,Paid Search,42.0
+2896,2024-06-15,North,Email,35.0
+2897,2023-01-18,East,Email,
+2898,2024-08-01,North,Email,27.0
+2899,2024-10-12,East,Referral,34.0
+2900,2024-01-31,North,Referral,23.0
+2901,2023-09-02,South,Paid Search,36.0
+2902,2023-05-10,South,Organic,
+2903,2023-11-29,West,Email,38.0
+2904,2024-05-28,East,Social,38.0
+2905,2024-08-21,North,Paid Search,18.0
+2906,2024-08-27,West,Referral,46.0
+2907,2024-12-08,West,Paid Search,19.0
+2908,2024-11-30,East,Referral,32.0
+2909,2023-12-17,West,Social,39.0
+2910,2023-09-12,West,Organic,37.0
+2911,2024-03-22,North,Email,22.0
+2912,2024-08-31,South,Email,24.0
+2913,2024-05-30,South,Social,36.0
+2914,2023-08-20,south ,Social,38.0
+2915,2024-10-07,WEST,Organic,24.0
+2916,2024-07-22,East,Organic,37.0
+2917,2023-12-09,South,Organic,20.0
+2918,2023-03-25,West,Organic,39.0
+2919,2023-07-06,East,Paid Search,26.0
+2920,2023-05-03,North,Paid Search,34.0
+2921,2023-02-01,West,Organic,
+2922,2024-12-12,South,Social,44.0
+2923,2024-01-14,South,Organic,36.0
+2924,2024-11-28,South,Organic,28.0
+2925,2023-09-17,West,Referral,37.0
+2926,2023-06-18,North,Referral,53.0
+2927,2024-04-27,South,Email,40.0
+2928,2024-06-17,EAST,Organic,33.0
+2929,2023-07-28,West,Social,26.0
+2930,2023-06-23,North,Organic,28.0
+2931,2024-04-03,North,Social,40.0
+2932,2024-08-25,west ,Email,26.0
+2933,2023-05-20,West,Paid Search,34.0
+2934,2024-12-01,South,Referral,46.0
+2935,2024-11-13,South,Social,35.0
+2936,2023-11-16,South,Paid Search,24.0
+2937,2024-01-03,East,Organic,53.0
+2938,2024-07-27,East,Email,49.0
+2939,2024-11-19,West,Paid Search,38.0
+2940,2024-07-03,North,Organic,45.0
+2941,2023-02-17,West,Organic,31.0
+2942,2023-03-06,North,Referral,40.0
+2943,2024-04-01,West,Organic,30.0
+2944,2024-04-22,North,Referral,21.0
+2945,2024-11-15,North,Social,57.0
+2946,2024-04-03,North,Paid Search,21.0
+2947,2023-05-29,North,Paid Search,36.0
+2948,2023-12-16,South,Email,36.0
+2949,2024-02-01,East,Paid Search,38.0
+2950,2024-11-08,West,Organic,33.0
+2951,2023-08-13,East,Organic,33.0
+2952,2024-03-31,East,Email,35.0
+2953,2023-02-18,South,Social,38.0
+2954,2023-04-23,WEST,Paid Search,33.0
+2955,2023-12-07,North,Organic,33.0
+2956,2024-09-18,South,Paid Search,22.0
+2957,2023-11-28,North,Email,52.0
+2958,2024-04-21,North,Organic,38.0
+2959,2024-11-25,East,Referral,35.0
+2960,2024-10-31,North,Email,28.0
+2961,2023-12-12,North,Paid Search,24.0
+2962,2024-09-27,West,Email,41.0
+2963,2024-09-03,North,Social,32.0
+2964,2023-10-01,East,Social,39.0
+2965,2024-09-28,South,Organic,21.0
+2966,2024-01-25,West,Referral,47.0
+2967,2023-07-18,East,Paid Search,42.0
+2968,2024-09-20,North,Email,33.0
+2969,2024-02-26,West,Organic,38.0
+2970,2024-11-02,South,Paid Search,40.0
+2971,2023-07-26,South,Referral,21.0
+2972,2023-03-05,East,Paid Search,49.0
+2973,2024-02-05,East,Organic,38.0
+2974,2023-06-05,South,Email,27.0
+2975,2024-07-02,South,Organic,24.0
+2976,2024-09-13,North,Email,42.0
+2977,2024-04-11,East,Referral,35.0
+2978,2024-02-25,West,Organic,
+2979,2023-03-31,South,Social,34.0
+2980,2023-07-13,West,Referral,24.0
+2981,2024-04-18,North,Referral,38.0
+2982,2024-08-08,West,Paid Search,32.0
+2983,2024-08-03,West,Social,
+2984,2023-11-12,East,Social,55.0
+2985,2024-06-07,North,Organic,41.0
+2986,2024-11-16,South,Social,42.0
+2987,2024-02-03,North,Paid Search,58.0
+2988,2023-08-13,East,Paid Search,37.0
+2989,2023-02-11,West,Paid Search,35.0
+2990,2024-02-02,South,Email,27.0
+2991,2024-06-04,North,Organic,29.0
+2992,2024-03-30,North,Organic,18.0
+2993,2024-11-25,East,Organic,41.0
+2994,2023-08-12,East,Organic,22.0
+2995,2023-02-24,North,Referral,42.0
+2996,2023-02-06,West,Paid Search,33.0
+2997,2024-03-21,North,Organic,35.0
+2998,2024-10-03,East,Referral,33.0
+2999,2023-09-24,South,Organic,46.0
+3000,2023-10-01,NORTH,Paid Search,44.0
+3001,2024-05-02,East,Email,33.0
+3002,2023-12-27,East,Email,25.0
+3003,2024-06-12,South,Organic,42.0
+3004,2024-10-05,West,Social,25.0
+3005,2023-11-11,South,Social,20.0
+3006,2024-09-16,South,Social,
+3007,2024-11-02,West,Organic,44.0
+3008,2023-01-30,West,Email,30.0
+3009,2024-04-30,North,Social,37.0
+3010,2024-08-14,West,Social,30.0
+3011,2024-05-14,West,Referral,40.0
+3012,2023-05-29,North,Email,43.0
+3013,2024-01-01,south ,Email,31.0
+3014,2023-09-27,North,Organic,24.0
+3015,2023-05-25,East,Organic,20.0
+3016,2023-08-03,West,Social,42.0
+3017,2023-10-24,South,Organic,23.0
+3018,2024-07-11,South,Social,37.0
+3019,2024-09-21,North,Social,40.0
+3020,2023-04-19,East,Social,29.0
+3021,2023-07-02,West,Organic,32.0
+3022,2024-07-23,North,Email,42.0
+3023,2023-09-06,East,Social,26.0
+3024,2023-03-30,South,Paid Search,25.0
+3025,2024-01-31,West,Social,31.0
+3026,2023-09-23,East,Organic,45.0
+3027,2024-10-01,East,Social,
+3028,2023-11-07,South,Organic,33.0
+3029,2024-12-22,East,Social,27.0
+3030,2023-05-26,East,Organic,43.0
+3031,2024-10-31,East,Organic,18.0
+3032,2023-07-27,East,Organic,36.0
+3033,2024-05-08,West,Organic,33.0
+3034,2024-08-09,North,Email,45.0
+3035,2023-10-12,North,Email,46.0
+3036,2023-10-18,West,Organic,
+3037,2024-07-13,North,Organic,35.0
+3038,2024-03-14,West,Email,28.0
+3039,2024-10-23,East,Organic,31.0
+3040,2024-04-15,West,Paid Search,39.0
+3041,2024-10-01,East,Organic,30.0
+3042,2024-08-26,West,Social,35.0
+3043,2024-10-24,East,Referral,42.0
+3044,2024-02-08,East,Organic,
+3045,2024-10-18,South,Referral,36.0
+3046,2024-03-29,North,Email,35.0
+3047,2024-06-26,North,Referral,24.0
+3048,2024-11-18,West,Email,48.0
+3049,2024-03-06,North,Email,38.0
+3050,2023-04-04,West,Social,35.0
+3051,2023-10-14,South,Email,34.0
+3052,2023-11-03,South,Organic,37.0
+3053,2023-04-02,West,Social,40.0
+3054,2024-04-24,North,Social,42.0
+3055,2023-07-20,East,Organic,48.0
+3056,2023-10-01,South,Organic,36.0
+3057,2023-09-20,North,Organic,49.0
+3058,2023-11-09,North,Paid Search,43.0
+3059,2023-10-28,East,Organic,33.0
+3060,2024-11-07,North,Organic,18.0
+3061,2023-08-03,West,Organic,34.0
+3062,2024-11-07,East,Social,48.0
+3063,2024-01-20,North,Organic,27.0
+3064,2024-12-20,South,Organic,34.0
+3065,2023-05-01,North,Paid Search,35.0
+3066,2024-08-10,West,Paid Search,42.0
+3067,2023-01-24,East,Organic,
+3068,2024-08-23,North,Referral,26.0
+3069,2024-08-28,East,Paid Search,39.0
+3070,2023-07-31,South,Organic,27.0
+3071,2023-10-06,East,Social,18.0
+3072,2023-03-09,North,Email,50.0
+3073,2024-09-13,North,Paid Search,42.0
+3074,2024-05-24,South,Organic,50.0
+3075,2024-04-17,East,Social,41.0
+3076,2024-09-19,East,Paid Search,40.0
+3077,2023-10-29,North,Paid Search,37.0
+3078,2024-11-11,North,Referral,32.0
+3079,2024-08-27,East,Referral,38.0
+3080,2023-10-10,NORTH,Social,29.0
+3081,2023-01-22,East,Organic,24.0
+3082,2024-03-08,South,Social,31.0
+3083,2023-09-27,NORTH,Referral,45.0
+3084,2024-04-12,East,Referral,22.0
+3085,2023-08-23,North,Organic,23.0
+3086,2024-04-19,east ,Organic,39.0
+3087,2024-09-27,North,Organic,30.0
+3088,2023-10-03,south ,Email,38.0
+3089,2024-06-02,South,Paid Search,42.0
+3090,2024-03-07,North,Paid Search,38.0
+3091,2024-09-30,East,Paid Search,28.0
+3092,2023-12-07,West,Organic,45.0
+3093,2023-06-01,West,Email,40.0
+3094,2023-09-07,North,Paid Search,34.0
+3095,2024-09-21,North,Organic,33.0
+3096,2023-05-10,South,Social,37.0
+3097,2024-01-08,West,Social,31.0
+3098,2024-08-25,South,Social,19.0
+3099,2023-09-03,South,Email,40.0
+3100,2024-12-27,west ,Organic,40.0
+3101,2024-12-09,North,Organic,18.0
+3102,2023-12-23,East,Organic,38.0
+3103,2023-02-09,South,Social,49.0
+3104,2023-09-25,East,Referral,23.0
+3105,2024-11-22,East,Paid Search,33.0
+3106,2024-05-15,South,Email,32.0
+3107,2024-02-06,East,Social,48.0
+3108,2023-10-18,East,Referral,44.0
+3109,2024-12-22,North,Paid Search,26.0
+3110,2023-10-23,West,Organic,37.0
+3111,2023-11-06,West,Email,54.0
+3112,2024-10-07,West,Email,28.0
+3113,2024-07-19,East,Social,33.0
+3114,2024-04-02,North,Email,38.0
+3115,2023-06-08,South,Paid Search,28.0
+3116,2024-11-11,South,Social,49.0
+3117,2024-03-31,North,Organic,29.0
+3118,2024-07-01,SOUTH,Paid Search,21.0
+3119,2023-05-09,South,Organic,
+3120,2023-10-28,North,Organic,39.0
+3121,2023-09-12,West,Organic,26.0
+3122,2023-06-19,North,Social,36.0
+3123,2023-05-16,South,Email,39.0
+3124,2024-01-15,West,Paid Search,23.0
+3125,2024-05-06,East,Paid Search,28.0
+3126,2024-03-19,North,Organic,37.0
+3127,2024-08-31,East,Paid Search,40.0
+3128,2024-08-28,West,Organic,29.0
+3129,2024-04-15,West,Social,35.0
+3130,2024-10-04,South,Referral,31.0
+3131,2024-08-26,North,Paid Search,40.0
+3132,2023-08-06,East,Social,38.0
+3133,2024-10-04,North,Social,30.0
+3134,2023-12-05,West,Organic,38.0
+3135,2024-07-15,East,Paid Search,30.0
+3136,2024-12-26,West,Organic,38.0
+3137,2023-10-23,West,Paid Search,38.0
+3138,2023-10-25,EAST,Email,55.0
+3139,2024-06-03,West,Paid Search,30.0
+3140,2024-11-23,East,Paid Search,32.0
+3141,2024-08-09,North,Organic,28.0
+3142,2024-03-27,West,Paid Search,24.0
+3143,2024-12-19,East,Referral,29.0
+3144,2023-05-09,West,Paid Search,39.0
+3145,2023-09-01,North,Social,40.0
+3146,2023-08-27,South,Organic,36.0
+3147,2024-08-26,West,Organic,31.0
+3148,2024-09-19,North,Paid Search,29.0
+3149,2023-10-06,East,Referral,25.0
+3150,2024-01-09,East,Organic,28.0
+3151,2024-11-13,North,Social,22.0
+3152,2023-02-24,North,Organic,46.0
+3153,2024-12-22,West,Social,50.0
+3154,2024-03-09,North,Social,18.0
+3155,2024-11-29,West,Social,36.0
+3156,2024-11-13,East,Organic,150.0
+3157,2023-09-09,East,Organic,35.0
+3158,2024-08-09,South,Email,
+3159,2024-03-05,north ,Social,43.0
+3160,2023-05-11,West,Organic,37.0
+3161,2023-03-02,North,Paid Search,43.0
+3162,2023-03-24,South,Organic,27.0
+3163,2024-04-17,West,Paid Search,21.0
+3164,2024-04-08,South,Paid Search,37.0
+3165,2024-10-03,North,Organic,25.0
+3166,2024-02-24,West,Paid Search,43.0
+3167,2023-06-12,North,Social,18.0
+3168,2023-05-11,NORTH,Referral,29.0
+3169,2024-02-23,SOUTH,Social,28.0
+3170,2024-06-26,West,Paid Search,31.0
+3171,2024-03-14,west ,Email,36.0
+3172,2023-03-02,West,Organic,37.0
+3173,2024-05-23,West,Social,39.0
+3174,2024-08-10,North,Organic,40.0
+3175,2024-11-09,East,Organic,
+3176,2023-11-25,North,Social,52.0
+3177,2024-07-06,West,Organic,46.0
+3178,2023-09-29,West,Social,31.0
+3179,2024-08-23,South,Social,32.0
+3180,2024-04-13,West,Organic,31.0
+3181,2023-04-30,East,Paid Search,
+3182,2023-04-07,North,Social,25.0
+3183,2023-06-21,East,Social,26.0
+3184,2023-03-12,West,Email,18.0
+3185,2023-09-08,South,Paid Search,30.0
+3186,2023-11-02,North,Email,43.0
+3187,2024-06-24,west ,Paid Search,32.0
+3188,2023-04-08,South,Organic,33.0
+3189,2024-07-22,South,Social,
+3190,2024-06-19,East,Organic,24.0
+3191,2024-10-19,East,Organic,34.0
+3192,2023-01-25,South,Organic,42.0
+3193,2023-10-24,North,Email,36.0
+3194,2024-09-23,West,Referral,
+3195,2024-07-30,South,Referral,45.0
+3196,2023-12-05,East,Paid Search,39.0
+3197,2024-03-23,West,Paid Search,27.0
+3198,2024-03-20,North,Email,30.0
+3199,2023-06-26,West,Paid Search,51.0
+3200,2023-10-15,West,Paid Search,36.0
+3201,2024-12-07,West,Organic,35.0
+3202,2024-01-10,North,Social,26.0
+3203,2023-12-16,south ,Social,33.0
+3204,2024-09-05,East,Paid Search,40.0
+3205,2023-07-15,West,Organic,34.0
+3206,2024-03-23,West,Social,29.0
+3207,2024-08-26,South,Social,31.0
+3208,2023-08-21,East,Organic,44.0
+3209,2023-12-18,North,Paid Search,40.0
+3210,2024-01-01,East,Referral,38.0
+3211,2023-02-06,West,Social,37.0
+3212,2023-02-13,West,Social,150.0
+3213,2024-05-01,South,Social,36.0
+3214,2023-09-29,West,Referral,43.0
+3215,2023-10-19,North,Paid Search,31.0
+3216,2024-12-08,South,Organic,42.0
+3217,2023-07-11,EAST,Paid Search,38.0
+3218,2023-05-16,East,Email,41.0
+3219,2024-03-31,West,Organic,34.0
+3220,2024-01-08,East,Organic,41.0
+3221,2023-11-03,North,Organic,20.0
+3222,2023-09-10,North,Social,34.0
+3223,2024-06-11,East,Social,40.0
+3224,2023-06-02,East,Paid Search,36.0
+3225,2024-08-27,South,Organic,43.0
+3226,2023-06-15,South,Email,32.0
+3227,2023-12-27,North,Organic,29.0
+3228,2024-05-07,West,Social,19.0
+3229,2024-07-21,South,Organic,31.0
+3230,2024-04-13,East,Referral,38.0
+3231,2024-09-23,South,Paid Search,40.0
+3232,2024-01-29,North,Social,21.0
+3233,2023-12-30,North,Organic,44.0
+3234,2024-08-08,North,Organic,150.0
+3235,2023-04-04,East,Social,32.0
+3236,2024-10-07,North,Social,28.0
+3237,2024-01-08,South,Email,37.0
+3238,2024-07-06,West,Social,34.0
+3239,2024-06-02,South,Social,40.0
+3240,2023-06-11,South,Email,50.0
+3241,2024-07-27,South,Paid Search,37.0
+3242,2023-12-01,South,Email,28.0
+3243,2024-01-01,North,Paid Search,38.0
+3244,2024-12-16,West,Paid Search,51.0
+3245,2024-10-07,South,Email,39.0
+3246,2024-11-27,East,Organic,42.0
+3247,2023-07-10,West,Organic,19.0
+3248,2024-02-12,North,Organic,37.0
+3249,2024-04-15,East,Paid Search,31.0
+3250,2024-11-19,NORTH,Social,27.0
+3251,2023-10-03,South,Organic,33.0
+3252,2023-06-01,West,Organic,34.0
+3253,2024-07-14,north ,Paid Search,28.0
+3254,2024-12-03,West,Organic,35.0
+3255,2023-03-23,East,Organic,32.0
+3256,2024-04-01,South,Organic,40.0
+3257,2024-09-14,North,Email,150.0
+3258,2023-11-16,East,Social,37.0
+3259,2024-07-07,South,Organic,42.0
+3260,2024-09-30,North,Organic,38.0
+3261,2023-01-14,South,Organic,33.0
+3262,2024-04-04,North,Paid Search,18.0
+3263,2024-02-05,west ,Paid Search,38.0
+3264,2023-08-25,South,Referral,25.0
+3265,2024-10-03,South,Social,
+3266,2024-12-11,West,Paid Search,37.0
+3267,2023-12-17,East,Organic,45.0
+3268,2023-02-06,West,Social,50.0
+3269,2023-11-06,West,Referral,
+3270,2024-03-09,North,Organic,22.0
+3271,2024-03-27,South,Email,36.0
+3272,2024-05-07,East,Organic,36.0
+3273,2024-08-26,North,Social,23.0
+3274,2024-12-08,East,Organic,33.0
+3275,2023-06-24,North,Social,39.0
+3276,2024-12-26,West,Organic,22.0
+3277,2024-02-23,East,Paid Search,25.0
+3278,2024-05-05,EAST,Social,28.0
+3279,2023-10-24,SOUTH,Social,32.0
+3280,2023-10-28,West,Social,40.0
+3281,2023-01-29,East,Organic,31.0
+3282,2024-04-26,West,Social,34.0
+3283,2024-11-25,West,Organic,54.0
+3284,2023-03-21,North,Social,25.0
+3285,2023-12-06,North,Organic,28.0
+3286,2024-01-16,North,Paid Search,40.0
+3287,2023-12-10,East,Paid Search,42.0
+3288,2023-10-23,East,Referral,37.0
+3289,2024-04-05,South,Social,50.0
+3290,2023-03-06,West,Organic,36.0
+3291,2023-07-02,North,Social,18.0
+3292,2024-10-08,West,Organic,34.0
+3293,2024-02-08,South,Organic,28.0
+3294,2023-06-03,South,Paid Search,46.0
+3295,2023-09-08,North,Email,42.0
+3296,2024-05-22,East,Referral,19.0
+3297,2023-05-15,West,Referral,46.0
+3298,2024-12-10,South,Organic,42.0
+3299,2024-03-18,South,Organic,31.0
+3300,2024-11-12,east ,Email,33.0
+3301,2023-02-03,South,Organic,46.0
+3302,2023-06-06,East,Social,150.0
+3303,2024-10-13,South,Referral,38.0
+3304,2023-05-27,West,Organic,43.0
+3305,2024-01-20,East,Paid Search,33.0
+3306,2023-09-07,North,Email,39.0
+3307,2023-10-01,West,Social,34.0
+3308,2023-02-23,South,Referral,26.0
+3309,2023-12-20,West,Social,26.0
+3310,2023-08-08,East,Paid Search,
+3311,2023-06-20,north ,Email,28.0
+3312,2023-06-07,East,Email,20.0
+3313,2024-10-15,North,Referral,35.0
+3314,2023-06-16,West,Paid Search,29.0
+3315,2023-01-17,West,Paid Search,23.0
+3316,2023-09-30,East,Paid Search,34.0
+3317,2024-12-22,East,Organic,40.0
+3318,2023-09-20,East,Referral,34.0
+3319,2023-04-29,South,Referral,24.0
+3320,2024-05-01,North,Paid Search,38.0
+3321,2024-03-15,West,Referral,43.0
+3322,2023-07-24,South,Paid Search,53.0
+3323,2024-01-27,South,Email,46.0
+3324,2024-08-01,North,Social,24.0
+3325,2024-12-12,West,Social,41.0
+3326,2023-08-24,West,Social,36.0
+3327,2023-12-17,South,Social,23.0
+3328,2023-07-08,North,Email,36.0
+3329,2023-06-30,West,Paid Search,51.0
+3330,2024-09-28,South,Email,44.0
+3331,2024-05-13,West,Organic,24.0
+3332,2024-06-22,West,Organic,34.0
+3333,2024-11-22,West,Social,38.0
+3334,2023-05-11,North,Email,18.0
+3335,2024-10-22,East,Referral,18.0
+3336,2024-02-11,West,Organic,35.0
+3337,2023-11-04,South,Organic,35.0
+3338,2024-08-09,West,Paid Search,
+3339,2024-04-08,South,Email,37.0
+3340,2023-05-16,West,Referral,43.0
+3341,2024-08-06,East,Email,32.0
+3342,2023-02-22,North,Paid Search,34.0
+3343,2024-02-16,South,Email,39.0
+3344,2024-06-18,North,Organic,150.0
+3345,2024-08-25,South,Referral,18.0
+3346,2023-03-07,West,Social,25.0
+3347,2024-06-09,North,Paid Search,30.0
+3348,2024-06-06,West,Social,26.0
+3349,2024-10-13,NORTH,Email,47.0
+3350,2023-01-22,East,Organic,39.0
+3351,2024-02-04,West,Organic,24.0
+3352,2024-09-02,East,Social,32.0
+3353,2024-01-05,West,Referral,44.0
+3354,2024-02-04,West,Social,28.0
+3355,2023-09-22,East,Organic,
+3356,2024-07-28,West,Social,46.0
+3357,2024-04-11,North,Organic,44.0
+3358,2023-09-17,South,Paid Search,35.0
+3359,2024-12-08,South,Organic,45.0
+3360,2023-06-02,West,Paid Search,29.0
+3361,2024-10-19,East,Paid Search,56.0
+3362,2024-05-21,East,Organic,36.0
+3363,2023-11-27,West,Paid Search,44.0
+3364,2023-09-25,North,Social,30.0
+3365,2024-07-25,West,Organic,38.0
+3366,2023-09-07,North,Organic,38.0
+3367,2023-10-01,South,Paid Search,25.0
+3368,2024-09-23,East,Email,25.0
+3369,2024-04-11,South,Email,32.0
+3370,2024-03-18,East,Paid Search,43.0
+3371,2024-08-23,West,Social,18.0
+3372,2023-09-19,West,Email,30.0
+3373,2024-04-29,North,Social,45.0
+3374,2023-12-25,North,Paid Search,22.0
+3375,2024-12-13,North,Organic,45.0
+3376,2023-12-02,South,Organic,23.0
+3377,2024-08-17,North,Paid Search,25.0
+3378,2024-01-26,South,Paid Search,32.0
+3379,2023-12-09,West,Referral,50.0
+3380,2024-09-07,West,Organic,28.0
+3381,2023-02-06,West,Paid Search,18.0
+3382,2023-08-11,North,Referral,21.0
+3383,2024-04-21,East,Social,42.0
+3384,2024-03-16,North,Organic,21.0
+3385,2024-07-27,SOUTH,Referral,44.0
+3386,2024-10-05,South,Paid Search,34.0
+3387,2023-04-19,West,Organic,33.0
+3388,2023-04-03,East,Paid Search,36.0
+3389,2023-07-10,North,Organic,26.0
+3390,2023-10-31,East,Email,35.0
+3391,2023-11-03,West,Organic,23.0
+3392,2024-06-08,North,Email,46.0
+3393,2023-06-08,West,Organic,24.0
+3394,2023-12-07,North,Referral,37.0
+3395,2023-10-06,North,Organic,24.0
+3396,2023-09-27,West,Referral,29.0
+3397,2023-07-20,North,Organic,30.0
+3398,2023-12-14,West,Email,60.0
+3399,2024-07-20,NORTH,Email,33.0
+3400,2024-09-22,East,Social,26.0
+3401,2023-05-24,East,Organic,29.0
+3402,2024-01-19,West,Social,20.0
+3403,2024-07-16,West,Social,32.0
+3404,2024-01-13,East,Social,50.0
+3405,2024-11-07,South,Social,37.0
+3406,2023-05-19,North,Referral,42.0
+3407,2023-05-12,East,Referral,25.0
+3408,2024-08-23,South,Paid Search,32.0
+3409,2023-09-12,North,Organic,35.0
+3410,2024-05-31,West,Organic,27.0
+3411,2023-12-18,south ,Social,37.0
+3412,2024-03-07,North,Referral,39.0
+3413,2024-01-22,West,Paid Search,38.0
+3414,2023-07-29,East,Organic,32.0
+3415,2024-02-16,EAST,Paid Search,43.0
+3416,2024-07-04,North,Paid Search,31.0
+3417,2023-07-26,south ,Referral,
+3418,2024-04-03,East,Social,
+3419,2023-12-11,North,Organic,24.0
+3420,2024-04-21,East,Paid Search,18.0
+3421,2024-10-16,North,Organic,26.0
+3422,2023-10-22,North,Social,37.0
+3423,2024-07-26,North,Social,45.0
+3424,2024-01-03,South,Organic,28.0
+3425,2024-01-09,North,Paid Search,50.0
+3426,2023-11-03,West,Referral,34.0
+3427,2024-12-21,East,Email,32.0
+3428,2024-04-28,North,Social,26.0
+3429,2024-11-07,East,Paid Search,51.0
+3430,2024-07-22,North,Referral,32.0
+3431,2023-07-18,South,Social,
+3432,2024-11-11,West,Referral,56.0
+3433,2023-09-27,East,Organic,37.0
+3434,2024-09-30,East,Organic,41.0
+3435,2023-06-05,South,Organic,49.0
+3436,2023-05-28,North,Email,39.0
+3437,2023-10-24,West,Social,42.0
+3438,2023-05-23,East,Organic,34.0
+3439,2023-10-05,east ,Referral,40.0
+3440,2024-05-13,West,Referral,33.0
+3441,2024-08-14,South,Organic,33.0
+3442,2024-03-13,West,Social,35.0
+3443,2023-04-10,East,Social,30.0
+3444,2024-09-09,North,Organic,38.0
+3445,2024-12-08,North,Social,38.0
+3446,2023-08-06,East,Organic,41.0
+3447,2023-09-21,South,Referral,39.0
+3448,2023-04-11,East,Email,52.0
+3449,2024-08-23,East,Referral,43.0
+3450,2024-12-06,SOUTH,Email,32.0
+3451,2024-04-28,East,Organic,38.0
+3452,2024-01-18,East,Paid Search,46.0
+3453,2023-08-28,South,Social,25.0
+3454,2024-01-22,West,Paid Search,52.0
+3455,2024-06-21,North,Social,27.0
+3456,2024-10-04,West,Paid Search,42.0
+3457,2024-04-13,North,Organic,34.0
+3458,2023-03-25,North,Paid Search,33.0
+3459,2023-10-07,East,Social,22.0
+3460,2024-06-27,North,Paid Search,42.0
+3461,2023-12-21,North,Social,22.0
+3462,2023-05-18,North,Paid Search,21.0
+3463,2023-03-11,East,Email,44.0
+3464,2024-11-12,East,Social,50.0
+3465,2024-07-30,NORTH,Social,27.0
+3466,2024-11-29,South,Paid Search,43.0
+3467,2023-03-08,North,Paid Search,41.0
+3468,2023-08-13,West,Organic,33.0
+3469,2024-06-29,North,Social,46.0
+3470,2023-08-15,East,Organic,32.0
+3471,2024-05-21,South,Email,
+3472,2023-09-11,East,Email,22.0
+3473,2023-07-18,West,Paid Search,23.0
+3474,2024-09-16,South,Email,44.0
+3475,2023-10-14,West,Social,38.0
+3476,2024-09-30,South,Organic,32.0
+3477,2024-04-21,East,Social,51.0
+3478,2024-07-13,South,Referral,51.0
+3479,2023-03-21,North,Organic,37.0
+3480,2023-11-08,North,Organic,20.0
+3481,2024-05-19,North,Social,32.0
+3482,2023-02-07,West,Paid Search,26.0
+3483,2024-02-12,West,Social,34.0
+3484,2024-08-15,North,Social,25.0
+3485,2023-11-10,East,Email,23.0
+3486,2024-09-13,East,Organic,18.0
+3487,2023-07-19,South,Paid Search,35.0
+3488,2024-01-09,South,Email,150.0
+3489,2024-04-18,East,Paid Search,31.0
+3490,2024-08-11,North,Paid Search,40.0
+3491,2024-04-12,East,Organic,27.0
+3492,2024-04-09,north ,Organic,24.0
+3493,2024-11-20,North,Paid Search,33.0
+3494,2023-09-08,East,Paid Search,26.0
+3495,2024-03-16,East,Social,35.0
+3496,2024-07-24,West,Social,24.0
+3497,2023-04-30,North,Email,33.0
+3498,2024-08-09,East,Email,30.0
+3499,2023-05-15,West,Organic,33.0
+3500,2023-12-20,East,Organic,48.0
+3501,2024-05-12,West,Email,35.0
+3502,2024-01-16,West,Paid Search,38.0
+3503,2023-09-08,West,Paid Search,28.0
+3504,2024-01-26,West,Organic,36.0
+3505,2024-03-28,East,Social,31.0
+3506,2023-08-11,South,Organic,34.0
+3507,2024-03-23,West,Organic,39.0
+3508,2024-08-25,West,Paid Search,29.0
+3509,2024-04-27,North,Email,30.0
+3510,2023-08-03,South,Organic,29.0
+3511,2024-01-18,North,Social,29.0
+3512,2023-03-18,West,Paid Search,35.0
+3513,2024-11-02,North,Paid Search,30.0
+3514,2023-05-25,South,Paid Search,47.0
+3515,2023-06-12,South,Organic,58.0
+3516,2024-10-08,North,Paid Search,
+3517,2023-12-18,West,Email,36.0
+3518,2023-05-09,South,Organic,43.0
+3519,2023-03-17,NORTH,Referral,31.0
+3520,2024-02-18,North,Organic,25.0
+3521,2024-12-02,West,Paid Search,49.0
+3522,2023-09-02,East,Social,40.0
+3523,2024-05-23,South,Email,36.0
+3524,2023-11-11,South,Organic,47.0
+3525,2024-01-13,West,Organic,40.0
+3526,2023-08-02,West,Social,33.0
+3527,2023-05-08,East,Organic,25.0
+3528,2023-05-02,South,Social,29.0
+3529,2023-01-31,West,Email,44.0
+3530,2023-07-12,East,Organic,40.0
+3531,2024-04-21,South,Email,
+3532,2024-09-13,West,Organic,49.0
+3533,2023-07-26,West,Email,32.0
+3534,2023-10-05,East,Referral,42.0
+3535,2023-05-30,West,Social,35.0
+3536,2024-03-11,South,Referral,51.0
+3537,2023-11-06,South,Email,40.0
+3538,2024-08-08,North,Organic,34.0
+3539,2024-08-12,East,Organic,32.0
+3540,2024-05-04,South,Organic,33.0
+3541,2024-02-22,South,Paid Search,27.0
+3542,2024-09-17,West,Social,21.0
+3543,2023-07-03,North,Paid Search,36.0
+3544,2024-05-27,West,Social,29.0
+3545,2023-03-16,South,Paid Search,
+3546,2024-07-30,North,Organic,33.0
+3547,2024-03-26,North,Organic,34.0
+3548,2024-09-11,south ,Referral,34.0
+3549,2024-02-23,South,Paid Search,49.0
+3550,2024-09-01,South,Paid Search,39.0
+3551,2024-11-12,East,Organic,52.0
+3552,2023-04-08,South,Referral,30.0
+3553,2024-12-12,North,Organic,41.0
+3554,2023-08-19,South,Social,30.0
+3555,2024-01-26,North,Organic,28.0
+3556,2024-07-01,North,Organic,53.0
+3557,2023-06-10,North,Social,27.0
+3558,2023-02-21,East,Social,18.0
+3559,2024-07-07,East,Social,27.0
+3560,2024-03-26,West,Organic,18.0
+3561,2023-08-22,West,Referral,25.0
+3562,2024-05-24,East,Social,26.0
+3563,2024-12-10,South,Referral,34.0
+3564,2024-03-01,North,Organic,18.0
+3565,2024-08-08,East,Paid Search,44.0
+3566,2024-03-17,South,Paid Search,18.0
+3567,2024-12-06,North,Email,32.0
+3568,2024-01-04,West,Social,31.0
+3569,2023-09-16,North,Paid Search,41.0
+3570,2023-11-02,North,Organic,37.0
+3571,2023-09-23,West,Organic,
+3572,2024-03-25,South,Organic,30.0
+3573,2024-01-25,South,Email,29.0
+3574,2024-04-01,North,Organic,37.0
+3575,2024-06-27,South,Organic,43.0
+3576,2024-09-28,West,Paid Search,41.0
+3577,2023-11-23,East,Organic,36.0
+3578,2023-05-20,South,Referral,36.0
+3579,2024-10-31,South,Paid Search,33.0
+3580,2024-12-07,South,Referral,37.0
+3581,2024-10-13,East,Social,52.0
+3582,2024-06-20,North,Social,31.0
+3583,2023-01-26,North,Paid Search,30.0
+3584,2024-08-28,East,Social,30.0
+3585,2023-06-23,West,Social,37.0
+3586,2023-11-19,West,Organic,18.0
+3587,2023-08-21,West,Referral,
+3588,2024-08-05,East,Paid Search,41.0
+3589,2024-10-24,West,Paid Search,29.0
+3590,2023-01-04,West,Paid Search,35.0
+3591,2024-11-17,North,Social,52.0
+3592,2023-12-03,South,Paid Search,36.0
+3593,2024-02-15,North,Paid Search,18.0
+3594,2023-11-08,West,Organic,21.0
+3595,2024-10-31,West,Paid Search,31.0
+3596,2024-02-16,WEST,Organic,26.0
+3597,2024-08-29,South,Email,34.0
+3598,2024-07-31,West,Paid Search,31.0
+3599,2024-06-20,North,Referral,44.0
+3600,2024-05-10,North,Social,24.0
+3601,2024-05-08,east ,Email,32.0
+3602,2024-02-15,West,Referral,35.0
+3603,2024-08-01,West,Organic,37.0
+3604,2024-03-10,South,Social,35.0
+3605,2024-09-16,South,Organic,
+3606,2024-10-30,South,Organic,34.0
+3607,2023-12-17,North,Paid Search,32.0
+3608,2023-10-01,West,Social,41.0
+3609,2024-05-17,South,Email,40.0
+3610,2024-03-28,North,Organic,36.0
+3611,2023-05-20,South,Social,36.0
+3612,2023-03-19,East,Organic,46.0
+3613,2023-06-11,West,Organic,44.0
+3614,2024-04-22,North,Organic,36.0
+3615,2024-05-24,North,Social,53.0
+3616,2024-03-26,West,Paid Search,28.0
+3617,2024-11-06,East,Organic,23.0
+3618,2024-11-20,South,Organic,33.0
+3619,2023-08-26,North,Social,30.0
+3620,2024-04-29,West,Email,18.0
+3621,2024-07-14,East,Organic,28.0
+3622,2023-04-15,North,Social,37.0
+3623,2024-03-10,NORTH,Social,33.0
+3624,2024-11-14,North,Paid Search,27.0
+3625,2024-07-05,NORTH,Organic,34.0
+3626,2024-06-11,north ,Referral,35.0
+3627,2023-07-09,north ,Paid Search,40.0
+3628,2024-07-03,North,Paid Search,28.0
+3629,2024-08-24,South,Email,
+3630,2023-05-25,South,Email,24.0
+3631,2023-07-05,south ,Social,29.0
+3632,2024-06-07,West,Email,49.0
+3633,2024-07-04,North,Organic,24.0
+3634,2024-04-03,West,Email,28.0
+3635,2024-09-09,West,Paid Search,22.0
+3636,2024-12-09,West,Email,26.0
+3637,2024-05-29,North,Paid Search,35.0
+3638,2023-08-05,North,Organic,40.0
+3639,2024-02-01,East,Paid Search,33.0
+3640,2024-09-24,North,Email,31.0
+3641,2023-10-10,North,Paid Search,22.0
+3642,2024-07-11,North,Email,27.0
+3643,2023-02-27,East,Organic,20.0
+3644,2023-07-15,West,Organic,40.0
+3645,2023-02-19,North,Social,41.0
+3646,2024-05-28,West,Paid Search,33.0
+3647,2024-08-18,West,Social,37.0
+3648,2023-06-06,North,Referral,41.0
+3649,2024-02-10,South,Social,34.0
+3650,2024-06-14,North,Paid Search,46.0
+3651,2023-02-17,West,Paid Search,24.0
+3652,2024-07-11,West,Referral,30.0
+3653,2024-08-23,East,Social,29.0
+3654,2024-11-05,East,Email,39.0
+3655,2024-01-27,South,Paid Search,21.0
+3656,2023-10-07,West,Social,47.0
+3657,2024-08-20,West,Organic,39.0
+3658,2023-08-26,EAST,Social,
+3659,2024-08-22,South,Email,33.0
+3660,2024-07-03,North,Referral,29.0
+3661,2024-01-04,North,Organic,39.0
+3662,2023-09-16,North,Email,
+3663,2024-10-24,East,Organic,27.0
+3664,2024-07-10,West,Paid Search,18.0
+3665,2023-12-28,West,Social,18.0
+3666,2023-11-06,North,Paid Search,36.0
+3667,2024-07-06,north ,Paid Search,47.0
+3668,2023-08-26,North,Social,22.0
+3669,2023-09-20,West,Social,31.0
+3670,2024-10-02,West,Social,30.0
+3671,2024-03-06,South,Paid Search,51.0
+3672,2024-04-27,East,Social,54.0
+3673,2023-07-21,East,Paid Search,37.0
+3674,2024-08-22,NORTH,Organic,42.0
+3675,2024-12-18,NORTH,Paid Search,41.0
+3676,2023-10-23,South,Social,22.0
+3677,2023-07-06,NORTH,Organic,40.0
+3678,2024-05-06,East,Organic,24.0
+3679,2024-12-26,South,Referral,32.0
+3680,2024-10-11,East,Email,44.0
+3681,2024-04-10,East,Social,34.0
+3682,2024-05-12,East,Email,43.0
+3683,2024-12-17,West,Referral,45.0
+3684,2024-10-06,South,Social,18.0
+3685,2024-04-23,East,Organic,18.0
+3686,2023-11-06,North,Social,44.0
+3687,2023-02-14,East,Referral,44.0
+3688,2023-05-17,South,Social,36.0
+3689,2024-04-08,North,Organic,37.0
+3690,2024-06-05,North,Referral,42.0
+3691,2024-05-10,East,Email,41.0
+3692,2023-06-30,East,Paid Search,31.0
+3693,2024-01-02,East,Referral,42.0
+3694,2023-06-11,South,Social,30.0
+3695,2024-09-26,East,Email,36.0
+3696,2024-06-13,East,Referral,35.0
+3697,2024-01-06,North,Organic,26.0
+3698,2024-02-24,South,Email,27.0
+3699,2023-11-21,South,Paid Search,54.0
+3700,2024-10-25,West,Email,25.0
+3701,2023-03-19,South,Email,37.0
+3702,2024-09-01,South,Email,
+3703,2023-02-17,West,Email,33.0
+3704,2023-03-24,West,Email,40.0
+3705,2023-04-01,North,Organic,36.0
+3706,2024-08-30,West,Paid Search,26.0
+3707,2023-12-15,North,Organic,38.0
+3708,2023-12-11,West,Email,29.0
+3709,2024-03-11,North,Social,49.0
+3710,2023-11-09,South,Social,37.0
+3711,2024-11-05,West,Organic,27.0
+3712,2024-12-05,North,Social,37.0
+3713,2024-03-31,West,Paid Search,25.0
+3714,2024-03-06,South,Referral,36.0
+3715,2024-09-28,North,Email,31.0
+3716,2023-04-04,West,Paid Search,26.0
+3717,2023-10-08,East,Email,26.0
+3718,2023-03-13,West,Organic,55.0
+3719,2024-07-04,WEST,Organic,34.0
+3720,2023-03-13,North,Social,
+3721,2023-04-06,North,Social,28.0
+3722,2023-03-03,SOUTH,Organic,38.0
+3723,2024-09-05,East,Organic,28.0
+3724,2024-03-05,North,Paid Search,24.0
+3725,2024-04-05,South,Organic,33.0
+3726,2024-11-29,West,Paid Search,33.0
+3727,2023-09-16,North,Paid Search,30.0
+3728,2023-07-24,East,Referral,25.0
+3729,2024-06-29,South,Paid Search,
+3730,2023-09-17,NORTH,Organic,29.0
+3731,2024-04-17,North,Organic,28.0
+3732,2024-02-23,North,Organic,36.0
+3733,2024-05-29,East,Email,54.0
+3734,2023-01-29,North,Paid Search,45.0
+3735,2023-04-22,West,Organic,51.0
+3736,2024-01-27,West,Referral,28.0
+3737,2023-06-10,North,Email,49.0
+3738,2023-07-28,West,Organic,36.0
+3739,2024-05-20,West,Organic,42.0
+3740,2024-03-15,North,Email,38.0
+3741,2024-06-04,West,Social,30.0
+3742,2024-06-02,North,Referral,40.0
+3743,2023-02-10,East,Organic,38.0
+3744,2023-05-09,North,Email,150.0
+3745,2023-04-26,West,Organic,32.0
+3746,2024-03-29,West,Paid Search,41.0
+3747,2024-03-27,West,Email,36.0
+3748,2024-06-27,West,Social,38.0
+3749,2023-03-22,North,Organic,27.0
+3750,2024-10-24,East,Organic,36.0
+3751,2023-11-01,North,Email,33.0
+3752,2023-05-26,North,Organic,32.0
+3753,2024-08-14,North,Paid Search,27.0
+3754,2024-11-30,West,Organic,42.0
+3755,2024-01-26,EAST,Organic,37.0
+3756,2024-05-20,North,Email,36.0
+3757,2023-04-09,WEST,Organic,52.0
+3758,2023-03-26,West,Paid Search,38.0
+3759,2024-10-12,South,Social,44.0
+3760,2024-09-09,south ,Organic,36.0
+3761,2024-12-22,East,Social,30.0
+3762,2024-05-25,East,Paid Search,
+3763,2024-04-08,South,Email,36.0
+3764,2024-01-28,South,Email,18.0
+3765,2024-12-22,North,Email,36.0
+3766,2024-02-29,South,Paid Search,36.0
+3767,2024-10-09,South,Email,32.0
+3768,2024-04-11,South,Social,33.0
+3769,2023-12-06,North,Paid Search,22.0
+3770,2024-03-12,East,Organic,46.0
+3771,2024-09-03,South,Organic,30.0
+3772,2023-08-18,South,Organic,25.0
+3773,2024-05-12,North,Organic,38.0
+3774,2023-07-18,West,Referral,34.0
+3775,2023-03-23,NORTH,Referral,30.0
+3776,2024-12-12,South,Organic,29.0
+3777,2024-06-07,North,Referral,33.0
+3778,2024-04-14,EAST,Social,46.0
+3779,2023-08-07,south ,Paid Search,38.0
+3780,2023-09-05,South,Referral,33.0
+3781,2024-05-16,West,Social,41.0
+3782,2024-08-16,West,Social,34.0
+3783,2023-03-20,South,Organic,37.0
+3784,2024-03-02,South,Organic,35.0
+3785,2024-03-09,West,Referral,39.0
+3786,2024-02-24,West,Organic,30.0
+3787,2024-04-22,East,Organic,23.0
+3788,2023-09-14,West,Organic,42.0
+3789,2024-05-21,West,Paid Search,47.0
+3790,2023-01-25,West,Paid Search,24.0
+3791,2023-07-26,North,Referral,35.0
+3792,2024-11-19,West,Paid Search,29.0
+3793,2024-12-09,East,Email,41.0
+3794,2024-03-06,East,Social,36.0
+3795,2023-12-22,South,Paid Search,63.0
+3796,2023-09-15,south ,Organic,31.0
+3797,2024-04-19,West,Organic,47.0
+3798,2024-11-24,East,Email,48.0
+3799,2024-11-30,North,Email,38.0
+3800,2024-05-02,East,Paid Search,34.0
+3801,2023-10-27,North,Referral,34.0
+3802,2024-06-07,South,Email,150.0
+3803,2023-05-10,East,Organic,44.0
+3804,2023-05-28,East,Social,26.0
+3805,2024-11-15,North,Email,32.0
+3806,2023-07-03,North,Email,31.0
+3807,2023-10-10,North,Organic,18.0
+3808,2024-07-05,East,Organic,41.0
+3809,2023-01-31,West,Paid Search,43.0
+3810,2023-07-19,West,Organic,28.0
+3811,2023-07-17,West,Organic,43.0
+3812,2024-01-03,South,Social,19.0
+3813,2023-04-11,North,Paid Search,34.0
+3814,2024-11-24,West,Organic,32.0
+3815,2024-08-23,South,Social,34.0
+3816,2023-06-12,North,Organic,34.0
+3817,2023-08-06,East,Paid Search,33.0
+3818,2024-07-16,East,Email,30.0
+3819,2024-02-18,South,Email,33.0
+3820,2024-09-26,North,Organic,46.0
+3821,2024-01-14,East,Email,28.0
+3822,2023-11-07,North,Email,54.0
+3823,2024-09-17,South,Social,28.0
+3824,2024-12-21,West,Referral,36.0
+3825,2023-09-26,West,Organic,39.0
+3826,2024-02-17,South,Organic,31.0
+3827,2024-06-09,North,Email,46.0
+3828,2023-01-18,South,Paid Search,38.0
+3829,2024-03-04,North,Paid Search,32.0
+3830,2023-12-15,West,Organic,46.0
+3831,2024-05-25,East,Organic,24.0
+3832,2024-06-09,South,Organic,28.0
+3833,2023-06-28,West,Organic,39.0
+3834,2023-08-28,South,Referral,41.0
+3835,2023-11-08,East,Organic,36.0
+3836,2024-07-24,West,Email,32.0
+3837,2024-02-23,North,Organic,31.0
+3838,2024-06-01,South,Paid Search,
+3839,2024-03-29,West,Referral,36.0
+3840,2023-02-12,South,Organic,26.0
+3841,2024-04-17,South,Organic,25.0
+3842,2023-11-14,NORTH,Email,47.0
+3843,2023-09-05,South,Organic,27.0
+3844,2023-08-30,South,Organic,36.0
+3845,2024-03-02,South,Referral,46.0
+3846,2024-02-21,North,Paid Search,38.0
+3847,2024-02-18,South,Social,27.0
+3848,2024-02-10,East,Organic,24.0
+3849,2023-12-30,West,Organic,50.0
+3850,2024-01-23,East,Paid Search,24.0
+3851,2024-03-17,East,Social,29.0
+3852,2024-01-10,West,Organic,37.0
+3853,2024-11-07,north ,Email,32.0
+3854,2024-11-01,South,Email,39.0
+3855,2023-02-10,North,Social,20.0
+3856,2023-04-06,South,Paid Search,32.0
+3857,2023-06-25,West,Social,40.0
+3858,2023-09-29,South,Social,40.0
+3859,2023-08-03,West,Organic,28.0
+3860,2024-04-30,North,Email,24.0
+3861,2023-11-28,South,Paid Search,35.0
+3862,2024-04-13,South,Referral,22.0
+3863,2023-07-02,North,Referral,45.0
+3864,2023-07-14,South,Organic,35.0
+3865,2024-07-16,East,Paid Search,27.0
+3866,2024-09-21,South,Paid Search,24.0
+3867,2023-07-31,West,Paid Search,28.0
+3868,2024-06-18,West,Email,19.0
+3869,2024-06-15,South,Organic,38.0
+3870,2023-04-18,West,Social,26.0
+3871,2024-07-14,North,Referral,37.0
+3872,2024-09-24,North,Referral,
+3873,2023-03-29,South,Organic,42.0
+3874,2023-07-04,East,Referral,36.0
+3875,2023-09-03,East,Organic,
+3876,2024-09-17,East,Paid Search,46.0
+3877,2023-11-24,West,Organic,36.0
+3878,2024-12-17,North,Social,36.0
+3879,2024-06-16,West,Organic,28.0
+3880,2023-04-15,East,Organic,25.0
+3881,2024-07-31,SOUTH,Paid Search,45.0
+3882,2024-07-10,South,Referral,39.0
+3883,2024-09-25,South,Social,40.0
+3884,2023-11-23,South,Social,28.0
+3885,2024-04-20,West,Social,48.0
+3886,2024-03-15,South,Paid Search,31.0
+3887,2023-06-10,North,Organic,26.0
+3888,2023-12-03,West,Organic,28.0
+3889,2024-04-27,East,Paid Search,48.0
+3890,2024-11-28,West,Referral,24.0
+3891,2023-08-19,East,Organic,27.0
+3892,2024-06-19,East,Social,60.0
+3893,2023-08-31,South,Email,42.0
+3894,2023-12-28,East,Referral,27.0
+3895,2024-01-29,South,Organic,24.0
+3896,2023-06-21,North,Referral,18.0
+3897,2024-01-27,West,Social,34.0
+3898,2024-09-16,East,Paid Search,40.0
+3899,2023-12-22,East,Email,47.0
+3900,2023-07-10,South,Organic,18.0
+3901,2023-07-11,East,Email,22.0
+3902,2024-03-27,North,Social,32.0
+3903,2024-12-18,South,Email,59.0
+3904,2024-03-08,North,Email,41.0
+3905,2024-07-01,North,Social,37.0
+3906,2023-12-10,North,Organic,22.0
+3907,2023-06-29,West,Organic,18.0
+3908,2024-10-17,North,Email,34.0
+3909,2024-04-03,West,Social,33.0
+3910,2023-12-30,West,Email,31.0
+3911,2024-12-22,North,Paid Search,30.0
+3912,2024-11-29,East,Paid Search,27.0
+3913,2023-12-29,South,Email,25.0
+3914,2023-06-26,West,Email,46.0
+3915,2023-10-13,South,Paid Search,26.0
+3916,2024-11-13,South,Organic,31.0
+3917,2024-09-20,South,Email,33.0
+3918,2024-08-19,West,Email,40.0
+3919,2023-08-03,North,Paid Search,26.0
+3920,2024-08-08,West,Paid Search,42.0
+3921,2024-12-18,North,Organic,28.0
+3922,2023-08-23,East,Paid Search,32.0
+3923,2023-05-24,South,Organic,
+3924,2024-02-24,North,Organic,25.0
+3925,2024-12-05,North,Email,40.0
+3926,2024-03-21,South,Paid Search,43.0
+3927,2023-06-04,West,Email,36.0
+3928,2024-11-09,East,Paid Search,32.0
+3929,2024-06-03,North,Organic,53.0
+3930,2024-07-13,South,Paid Search,33.0
+3931,2024-01-06,North,Organic,35.0
+3932,2024-07-19,East,Social,30.0
+3933,2024-04-24,West,Referral,35.0
+3934,2024-02-24,West,Email,42.0
+3935,2024-02-08,WEST,Email,31.0
+3936,2024-03-11,South,Email,18.0
+3937,2023-11-12,North,Email,38.0
+3938,2024-04-21,West,Social,24.0
+3939,2023-08-03,north ,Social,40.0
+3940,2024-08-07,North,Paid Search,33.0
+3941,2024-01-27,SOUTH,Organic,42.0
+3942,2023-05-06,West,Social,25.0
+3943,2023-02-23,East,Social,29.0
+3944,2023-12-13,West,Organic,30.0
+3945,2024-01-12,South,Referral,20.0
+3946,2024-04-29,North,Organic,44.0
+3947,2024-01-30,South,Social,19.0
+3948,2024-07-31,WEST,Referral,43.0
+3949,2024-12-02,North,Paid Search,37.0
+3950,2023-11-13,West,Referral,32.0
+3951,2024-01-12,South,Email,37.0
+3952,2024-02-29,West,Social,36.0
+3953,2024-07-20,West,Referral,30.0
+3954,2024-07-11,South,Social,36.0
+3955,2024-02-17,West,Paid Search,40.0
+3956,2024-07-19,South,Social,25.0
+3957,2024-11-25,West,Paid Search,37.0
+3958,2023-08-25,West,Paid Search,18.0
+3959,2024-08-15,East,Organic,18.0
+3960,2024-10-18,North,Paid Search,39.0
+3961,2023-08-31,West,Email,30.0
+3962,2024-07-13,West,Referral,26.0
+3963,2024-01-25,East,Referral,
+3964,2023-09-30,West,Organic,30.0
+3965,2024-04-06,South,Social,25.0
+3966,2024-06-16,South,Social,
+3967,2023-10-06,South,Organic,18.0
+3968,2023-05-24,North,Social,40.0
+3969,2023-02-14,East,Paid Search,30.0
+3970,2023-04-27,East,Referral,42.0
+3971,2024-12-04,North,Organic,30.0
+3972,2024-07-17,North,Email,37.0
+3973,2024-03-01,East,Email,32.0
+3974,2023-05-16,West,Social,34.0
+3975,2023-04-13,West,Organic,34.0
+3976,2023-04-06,North,Organic,29.0
+3977,2024-01-17,West,Referral,22.0
+3978,2024-04-26,North,Organic,40.0
+3979,2023-07-27,North,Organic,48.0
+3980,2023-10-26,East,Referral,48.0
+3981,2023-04-24,South,Email,29.0
+3982,2023-12-04,WEST,Social,27.0
+3983,2023-04-25,South,Organic,29.0
+3984,2023-07-12,North,Paid Search,32.0
+3985,2023-08-28,East,Email,33.0
+3986,2023-09-01,North,Paid Search,25.0
+3987,2023-04-18,North,Organic,20.0
+3988,2024-06-18,North,Organic,34.0
+3989,2024-12-30,South,Social,18.0
+3990,2023-04-11,West,Organic,33.0
+3991,2023-08-10,North,Email,25.0
+3992,2023-12-14,East,Organic,41.0
+3993,2023-06-29,East,Organic,43.0
+3994,2024-10-26,East,Referral,43.0
+3995,2024-01-19,South,Referral,30.0
+3996,2024-06-29,East,Social,23.0
+3997,2023-12-11,West,Referral,26.0
+3998,2023-02-13,North,Organic,36.0
+3999,2023-04-05,West,Paid Search,19.0
+4000,2024-06-04,North,Organic,46.0

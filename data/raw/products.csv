@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Electronics Item 01,Electronics,118.74,91.32
+2,Electronics Item 02,Electronics,52.39,42.43
+3,Electronics Item 03,Electronics,143.81,106.28
+4,Electronics Item 04,Electronics,82.71,69.97
+5,Electronics Item 05,Electronics,79.92,62.99
+6,Electronics Item 06,Electronics,61.91,46.26
+7,Electronics Item 07,Electronics,310.16,226.62
+8,Electronics Item 08,Electronics,86.55,75.9
+9,Electronics Item 09,Electronics,145.13,118.57
+10,Electronics Item 10,Electronics,226.82,170.43
+11,Electronics Item 11,Electronics,108.75,85.27
+12,Electronics Item 12,Electronics,74.71,56.59
+13,Home Item 13,Home & Kitchen,60.81,33.63
+14,Home Item 14,Home & Kitchen,20.19,12.29
+15,Home Item 15,Home & Kitchen,42.21,25.89
+16,Home Item 16,Home & Kitchen,15.96,9.97
+17,Home Item 17,Home & Kitchen,106.16,64.0
+18,Home Item 18,Home & Kitchen,103.98,61.14
+19,Home Item 19,Home & Kitchen,17.99,10.53
+20,Home Item 20,Home & Kitchen,41.92,26.99
+21,Home Item 21,Home & Kitchen,32.42,18.73
+22,Home Item 22,Home & Kitchen,115.91,66.08
+23,Home Item 23,Home & Kitchen,65.85,38.14
+24,Home Item 24,Home & Kitchen,134.14,75.49
+25,Fashion Item 25,Fashion,63.55,32.09
+26,Fashion Item 26,Fashion,114.26,62.78
+27,Fashion Item 27,Fashion,74.62,34.35
+28,Fashion Item 28,Fashion,35.33,18.92
+29,Fashion Item 29,Fashion,52.2,28.08
+30,Fashion Item 30,Fashion,75.6,36.39
+31,Fashion Item 31,Fashion,18.8,9.07
+32,Fashion Item 32,Fashion,59.58,29.68
+33,Fashion Item 33,Fashion,13.27,6.96
+34,Fashion Item 34,Fashion,13.3,6.53
+35,Fashion Item 35,Fashion,34.79,17.41
+36,Fashion Item 36,Fashion,16.53,8.67
+37,Fashion Item 37,Fashion,84.83,44.09
+38,Fashion Item 38,Fashion,107.21,51.01
+39,Beauty Item 39,Beauty,11.34,4.14
+40,Beauty Item 40,Beauty,38.26,14.27
+41,Beauty Item 41,Beauty,61.22,24.97
+42,Beauty Item 42,Beauty,45.77,18.07
+43,Beauty Item 43,Beauty,39.38,15.57
+44,Beauty Item 44,Beauty,25.74,10.86
+45,Beauty Item 45,Beauty,13.41,5.78
+46,Beauty Item 46,Beauty,37.83,15.88
+47,Sports Item 47,Sports,27.8,15.82
+48,Sports Item 48,Sports,18.12,11.56
+49,Sports Item 49,Sports,22.12,15.08
+50,Sports Item 50,Sports,180.81,101.55
+51,Sports Item 51,Sports,98.12,57.92
+52,Sports Item 52,Sports,36.27,21.32
+53,Sports Item 53,Sports,128.94,86.24
+54,Sports Item 54,Sports,16.65,9.85
+55,Books Item 55,Books,13.24,7.98
+56,Books Item 56,Books,7.0,4.48
+57,Books Item 57,Books,31.15,18.33
+58,Books Item 58,Books,27.21,16.9
+59,Books Item 59,Books,17.04,10.88
+60,Books Item 60,Books,13.82,8.37
